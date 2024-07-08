@@ -3,3 +3,6 @@ title:personal d2 wish list
 //claws of the wolf
 dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414#notes:pvp
 dimwishlist:item=1505862304&perks=839105230,1885400500,776531651,2048641572#notes:pve
+
+//veiled threat
+dimwishlist:item=-3685470415&#notes:trash it
