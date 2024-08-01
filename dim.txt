@@ -49,7 +49,7 @@ dimwishlist:item=2584830733&perks=3523296417,11612903
 dimwishlist:item=2328923181&perks=923806249,831391274#notes:strand build
 dimwishlist:item=2328923181&perks=3523296417,11612903#notes:grenade build
 dimwishlist:item=2328923181&perks=691659142,4082225868#notes:melee build
-dimwishlist:item=2328923181&perks=2109543898#notes:good perk in general
+dimwishlist:item=2328923181&perks=3523296417,831391274#notes:all-around pve
 //Patron of Lost Causes
 dimwishlist:item=2249996761&perks=247725512,3038247973
 dimwishlist:item=2249996761&perks=3400784728,3038247973
