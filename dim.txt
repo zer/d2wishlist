@@ -14,6 +14,8 @@ dimwishlist:item=2273643087&perks=183430252,1476923956
 dimwishlist:item=2273643087&perks=183430253,183430249
 dimwishlist:item=2273643087&perks=183430253,1476923957
 
+
+
 //episode 1 weapons
 //lost signal
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
@@ -54,17 +56,30 @@ dimwishlist:item=2328923181&perks=3523296417,831391274#notes:all-around pve
 dimwishlist:item=2249996761&perks=247725512,3038247973
 dimwishlist:item=2249996761&perks=3400784728,3038247973
 dimwishlist:item=2249996761&perks=1583705720,3038247973
+//episode 1 weapons end
+//==========================================================================================
+
+
 
 //solstice 2024
 //Fortunate Star (void lightweight frame bow)
-dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,3414324643,1380061575#notes:pve pew pew
-dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,2048641572,1380061575#notes:pve void
-dimwishlist:item=2326578623&perks=2801223209,3827198035,201365942,47981717,3988215619#notes:pvp
-dimwishlist:item=2326578623&perks=2801223209,3827198035,1866048759,3414324643,3988215619#notes:hipfire pew pew
+//notes:general pve
+dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,1015611457
+//notes:pve void
+dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,2048641572
+dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,2048641572
+//notes:pvp
+dimwishlist:item=2326578623&perks=2801223209,3827198035,201365942,47981717
+dimwishlist:item=2326578623&perks=2801223209,3827198035,1866048759,3414324643
+
 //Compass Rose (solar precision frame shotgun)
 dimwishlist:item=4169225313&perks=466087222,3142289711,1821614984,47981717,2509860981#notes:pvp
+
 //Something New (Stasis Hand Cannon)
 dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,555281244,2509860981#notes:pvp
 dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,3038247973,2509860981#notes:pvp
+
 //Crowning Duologue (strand precision frame rocket launcher)
 dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1380061575
+//solstice 2024 end
+//==========================================================================================
