@@ -14,13 +14,19 @@ dimwishlist:item=2273643087&perks=183430252,1476923956
 dimwishlist:item=2273643087&perks=183430253,183430249
 dimwishlist:item=2273643087&perks=183430253,1476923957
 
+//warden's law
+//enlightened+vorpal
+dimwishlist:item=3250744600&perks=3828510309,1546637391#notes:pve lucky pants
+
 
 
 //episode 1 weapons
 //lost signal
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
 //veiled threat
-dimwishlist:item=-3685470415&#notes:trash it
+//notes:pve utility
+dimwishlist:item=3685470415&perks=3700496672,2109543898
+dimwishlist:item=3685470415&perks=243981275,2109543898
 //sightline survey
 dimwishlist:item=2350330520&perks=1840239774,106909392,3619207468,2173046394
 //timeworn wayfarer
