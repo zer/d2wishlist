@@ -36,7 +36,7 @@ dimwishlist:item=266021826&perks=1476923953,3573490500
 dimwishlist:item=266021826&perks=1476923953,1476923956
 
 
-//solipsism
+//Warlock class exotic solipsism
 dimwishlist:item=2273643087&perks=183430250,1476923955
 dimwishlist:item=2273643087&perks=1476923953,183430249
 dimwishlist:item=2273643087&perks=183430252,1476923956
