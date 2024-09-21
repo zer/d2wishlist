@@ -135,3 +135,10 @@ dimwishlist:item=586671776&perks=3523296417,3592538738#notes:pve utility
 dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1380061575
 //solstice 2024 end
 //==========================================================================================
+
+
+// Crucible S24 (2024)
+//Better Devils (Strand Adaptive Hand Cannon)
+//notes:general pve
+dimwishlist:item=4152016199&perks=691659142,4104185692
+dimwishlist:item=4152016199&perks=3523296417,4104185692
