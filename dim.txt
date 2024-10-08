@@ -217,5 +217,6 @@ dimwishlist:item=2300143112&perks=2579169598,2387244414
 
 // Iron Banner
 // todo...
+// check for example: https://www.youtube.com/watch?v=wVLX5s_Eijg
 
 //==========================================================================================
