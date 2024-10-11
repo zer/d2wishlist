@@ -220,7 +220,49 @@ dimwishlist:item=2300143112&perks=3938834702,699525795
 dimwishlist:item=2300143112&perks=2579169598,2387244414
 
 // Iron Banner
-// todo...
-// check for example: https://www.youtube.com/watch?v=wVLX5s_Eijg
+// Archon's Thunder (stasis high impact machine gun)
+//notes:pve general god rolls with FTTC for ammo efficiency or air trigger for fast reloads. In the 4th column Rewind Rounds for less reloading, Target Lock for better major DPS, Killing Tally for ad clear or Headstone for Stasis builds
+dimwishlist:item=2896109856&perks=1354429876,3418782618
+dimwishlist:item=2896109856&perks=1421772400,3418782618
+dimwishlist:item=2896109856&perks=1354429876,365154968
+dimwishlist:item=2896109856&perks=1421772400,365154968
+dimwishlist:item=2896109856&perks=1354429876,557221067
+dimwishlist:item=2896109856&perks=1421772400,557221067
+dimwishlist:item=2896109856&perks=1354429876,124408337
+dimwishlist:item=2896109856&perks=1421772400,124408337
+// Tinasha's Mastery (stasis rocket side arm)
+//notes: (??? pve god roll ???): 3rd column either Enlightened Action or Impulse Amplifier, 4th column Chill Clip|tags:pve god roll
+dimwishlist:item=480368036&perks=3828510309,2978966579
+dimwishlist:item=480368036&perks=951095735,2978966579
+
+// Seasonal Weapons
+// Reprised Season of the Splicer weapons (seasonal onslaught)
+// Grid Skipper (void rapid-fire pulse rifle)
+dimwishlist:item=3433930495&perks=2387244414,460017080#notes:pvp god roll with zen moment + headseeker
+//notes: General PvE: Arrowhead Brake is a must. 3rd column Demo or Repulsor Brace. 4th colum Frenzy or Destabilizing Rounds
+dimwishlist:item=3433930495&perks=839105230,3523296417,4104185692
+dimwishlist:item=3433930495&perks=839105230,776531651,4104185692
+dimwishlist:item=3433930495&perks=839105230,3523296417,2048641572
+dimwishlist:item=3433930495&perks=839105230,776531651,2048641572
+// Ignition Code (kinetic grenade launcher)
+//notes: (???  ???): PvE utility roll with Disorienting Grenades and Slideshot and either Frenzy or Vorpal Weapon
+dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391
+// Chroma Rush (kinetic rapid-fire auto rifle)
+//notes: (???  ???): PvE god rolls.Subsistence+Rampage for easy content. Kinetic Tremors or Frenzy for harder content
+dimwishlist:item=2598420927&perks=1820235745,3425386926
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+dimwishlist:item=2598420927&perks=1820235745,4104185692
+// Sojourner's Tale (solar pinpoint slug shotgun)
+dimwishlist:item=2130875369&perks=3978468247,4293542123#notes:PvE discord+incandescent. other rolls are meh
+
+
+
+
+
+
+
+
+
 
 //==========================================================================================
