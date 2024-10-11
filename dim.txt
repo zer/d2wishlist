@@ -148,15 +148,21 @@ dimwishlist:item=4152016199&perks=3523296417,4104185692
 //==========================================================================================
 // Vanguard
 // Rake Angle (stasis aggressive glaive)
-dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579#notes:pve godroll
+//notes:PvE and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
+dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579
+dimwishlist:item=2298039571&perks=594346985,679225683,951095735,2978966579
 // Plug One.1 (arc aggressive frame fusion rifle)
-dimwishlist:item=3293524502&perks=1523832109,2594592626#notes:pve godroll
-dimwishlist:item=3293524502&perks=2039302152,1754714824#notes:pvp godroll
-dimwishlist:item=3293524502&perks=1645158859,1754714824#notes:pvp godroll
+dimwishlist:item=3293524502&perks=1523832109,1427256713#notes:pve god roll: reconstruction+reservoir burst
+//notes: pvp god rolls. slideways/under pressure + kickstart/closing time
+dimwishlist:item=3293524502&perks=2039302152,1754714824
+dimwishlist:item=3293524502&perks=1645158859,1754714824
+dimwishlist:item=3293524502&perks=1645158859,1194056669
 // Plug One.1 (Adept) (arc aggressive frame fusion rifle)
-dimwishlist:item=3106557243&perks=1523832109,2594592626#notes:pve godroll
-dimwishlist:item=3106557243&perks=2039302152,1754714824#notes:pvp godroll
-dimwishlist:item=3106557243&perks=1645158859,1754714824#notes:pvp godroll
+dimwishlist:item=3106557243&perks=1523832109,1427256713#notes:pve god roll: reconstruction+reservoir burst
+//notes: pvp god rolls. slideways/under pressure + kickstart/closing time
+dimwishlist:item=3106557243&perks=2039302152,1754714824
+dimwishlist:item=3106557243&perks=1645158859,1754714824
+dimwishlist:item=3106557243&perks=1645158859,1194056669
 // Wicked Sister (Strand heavy adaptive frame grenade launcher)
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 //notes:pve god rolls
@@ -174,10 +180,12 @@ dimwishlist:item=2199554524&perks=3700496672,3891536761
 //demo,frenzy
 dimwishlist:item=2199554524&perks=3523296417,4104185692
 //notes:pvp god rolls 
-//headseeker zen moment
+//zen moment headseeker
 dimwishlist:item=2199554524&perks=2387244414,460017080
-//keep away zen moment
+// zen moment keep away
 dimwishlist:item=2199554524&perks=3619207468,460017080
+//arrowhead brake + zen moment high ground
+dimwishlist:item=2199554524&perks=839105230,2387244414,2319119708
 
 // Crucible
 // Anonymous Autumn (arc lightweight frame sidearm)
@@ -245,6 +253,7 @@ dimwishlist:item=147444292&perks=3987942396,1546637391
 //notes: (??? PvE ???): Demo+Explosive Head or Destab+Explosive Head|tags:PvE
 dimwishlist:item=963574173&perks=3523296417,3038247973
 dimwishlist:item=963574173&perks=2048641572,3038247973
+dimwishlist:item=963574173&perks=288411554,1161469972#notes:PvP god roll|tags:PvP
 // Reckless Oracle (Void rapid-fire auto rifle)
 //notes: (??? PvE ???): Demo+OneForAll or Repulsor Brace + Destab Rounds|tags:PvE
 dimwishlist:item=1992309064&perks=3523296417,4049631843
