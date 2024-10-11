@@ -235,6 +235,43 @@ dimwishlist:item=2896109856&perks=1421772400,124408337
 dimwishlist:item=480368036&perks=3828510309,2978966579
 dimwishlist:item=480368036&perks=951095735,2978966579
 
+// Reprised Garden of Salvation weapons
+// Omniscient Eye (Solar Sniper Rifle)
+//notes: (??? PvE ???): 3rd: Lead From Gold, FTTC, Envious Arsenal if power weapon has a reload perk as well. 4th: Vorpal over Precision Instrument for consistency,|tags:PvE
+dimwishlist:item=147444292&perks=1354429876,1546637391
+dimwishlist:item=147444292&perks=1556840489,1546637391
+dimwishlist:item=147444292&perks=3987942396,1546637391
+// Ancient Gospel (Void 140 HC)
+//notes: (??? PvE ???): Demo+Explosive Head or Destab+Explosive Head|tags:PvE
+dimwishlist:item=963574173&perks=3523296417,3038247973
+dimwishlist:item=963574173&perks=2048641572,3038247973
+// Reckless Oracle (Void rapid-fire auto rifle)
+//notes: (??? PvE ???): Demo+OneForAll or Repulsor Brace + Destab Rounds|tags:PvE
+dimwishlist:item=1992309064&perks=3523296417,4049631843
+dimwishlist:item=1992309064&perks=2048641572,776531651
+// Prophet of Doom (Arc precision frame shotgun)
+//notes: Reconstruction or Envious Arsenal + Cascade Point for DPS|tags:PvE
+dimwishlist:item=2145441168&perks=1523832109,3751912585
+dimwishlist:item=2145441168&perks=3987942396,3751912585
+dimwishlist:item=2145441168&perks=2039302152,1194056669#notes:Slideways+Closing Time could be interesting for PvP
+// Sacred Provenance (Kinetic 4-burst Pulse Rifle)
+//notes: (??? PvE ???): Demo and Frenzy is always great. Stats for All and Kinetic Tremors are also in the mix|tags:PvE
+dimwishlist:item=2241507890&perks=3523296417,4104185692
+dimwishlist:item=2241507890&perks=1583705720,4104185692
+dimwishlist:item=2241507890&perks=3523296417,3891536761
+dimwishlist:item=2241507890&perks=1583705720,3891536761
+// Zealot's Reward (Void rapid-fire fusion rifle)
+dimwishlist:item=2720651699&perks=1645158859,1754714824#notes:pvp god roll
+dimwishlist:item=2720651699&perks=1645158859,1194056669#notes:possible pvp god roll
+// Accrued Redemption (Kinetic precision frame bow)
+dimwishlist:item=3621336854&perks=201365942,3891536761#notes:PvE god roll with Archer's Tempo and Kinetic Tremors
+dimwishlist:item=3621336854&perks=2652708987,3414324643#notes:silly but fastest bow in the game with Successful Warmup and Archers Gambit?
+dimwishlist:item=3621336854&perks=3592538738,3891536761#notes:Wellspring+Kinetic Tremors for utility and damage
+dimwishlist:item=3621336854&perks=3592538738,3824105627#notes:Wellspring+Firefly for utility and ad clear
+
+
+
+
 // Seasonal Weapons
 // Reprised Season of the Splicer weapons (seasonal onslaught)
 // Grid Skipper (void rapid-fire pulse rifle)
