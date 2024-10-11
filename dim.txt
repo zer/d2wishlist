@@ -151,6 +151,10 @@ dimwishlist:item=4152016199&perks=3523296417,4104185692
 //notes:PvE and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
 dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579
 dimwishlist:item=2298039571&perks=594346985,679225683,951095735,2978966579
+// Rake Angle (Adept) (stasis aggressive glaive)
+//notes:PvE and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
+dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
+dimwishlist:item=3997086838&perks=594346985,679225683,951095735,2978966579
 // Plug One.1 (arc aggressive frame fusion rifle)
 dimwishlist:item=3293524502&perks=1523832109,1427256713#notes:pve god roll: reconstruction+reservoir burst
 //notes: pvp god rolls. slideways/under pressure + kickstart/closing time
