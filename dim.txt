@@ -269,10 +269,6 @@ dimwishlist:item=3621336854&perks=2652708987,3414324643#notes:silly but fastest 
 dimwishlist:item=3621336854&perks=3592538738,3891536761#notes:Wellspring+Kinetic Tremors for utility and damage
 dimwishlist:item=3621336854&perks=3592538738,3824105627#notes:Wellspring+Firefly for utility and ad clear
 
-
-
-
-// Seasonal Weapons
 // Reprised Season of the Splicer weapons (seasonal onslaught)
 // Grid Skipper (void rapid-fire pulse rifle)
 dimwishlist:item=3433930495&perks=2387244414,460017080#notes:pvp god roll with zen moment + headseeker
@@ -293,13 +289,44 @@ dimwishlist:item=2598420927&perks=1820235745,4104185692
 // Sojourner's Tale (solar pinpoint slug shotgun)
 dimwishlist:item=2130875369&perks=3978468247,4293542123#notes:PvE discord+incandescent. other rolls are meh
 
-
-
-
-
-
-
-
+// Seasonal weapons (Dark Ether Reaper origin trait)
+// Insurmountable (Void precision frame sidearm)
+dimwishlist:item=414045521&perks=776531651,2048641572#notes:void synergy with DestabRound+RepulsorBrace
+dimwishlist:item=414045521&perks=4071163871,3708227201#notes:threat detector+surrounded can go really hard with void hunter
+// Noxious Vetiver (arc precision frame SMG)
+dimwishlist:item=825495813&perks=1119449540,3966416502#notes:loose change + jolting feedback is PvE god roll
+// Liturgy (stasis double fire GL)
+dimwishlist:item=2599338624&perks=3987942396,2978966579#notes:envious arsenal + chill clip
+dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:slideways + chill clip
+// Bitter Sweet (Arc adaptive frame HGL)
+//notes:mini frags for mag. Envious Arsenal for 3rd colum. 4th column: Cascade Point or Bait and Switch. Jolting Feedback is probably not ideal but can be fun. Explosive Light is an option as well.
+dimwishlist:item=2599338625&perks=332133599,3987942396,3751912585
+dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919
+dimwishlist:item=2599338625&perks=332133599,3987942396,3966416502
+dimwishlist:item=2599338625&perks=332133599,3987942396,3194351027
+// Exuviae (Stasis 120 HC)
+dimwishlist:item=2823644677&perks=1955165503,124408337#notes:PvE Rimestealer + Headstone. enhance for even more frost armor
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337#notes:PvE god roll with Rimestealer + Headstone. enhance for even more frost armor
+dimwishlist:item=2823644677&perks=1195158366,3038247973#notes:PvP Encore+Explosive Payload
+// Scavenger's Fate (Void precision frame shotgun)
+dimwishlist:item=2913577176&perks=3978468247,438098033#notes:PvE Discord + Harmony
+dimwishlist:item=2913577176&perks=3978468247,2048641572#notes:PvE Discord + Destabilizing Rounds
+dimwishlist:item=2913577176&perks=3978468247,4104185692#notes:PvE Discord + Frency
+// Red Tape (Stasis 200rpm Lightweight Scout Rifle)
+dimwishlist:item=3423493037&perks=3523296417,124408337#notes:PvE Demo + Headstone
+// Sovereignty (Void Adaptive Frame Sniper Rifle)
+dimwishlist:item=3818198556&perks=1134488199#notes:Withering Gaze for Utility
+// Vantage Point (Arc 390 Adaptive Frame Pulse Rifle)
+dimwishlist:item=3830941962&perks=684456054,3966416502#notes:PvE Eddy Current + Jolting Feedback
+dimwishlist:item=3830941962&perks=1583705720,3966416502#notes:PvE Stats for All + Jolting Feedback
+dimwishlist:item=3830941962&perks=3619207468,4082225868#notes:PvP Keep Away + Swashbuckler
+dimwishlist:item=3830941962&perks=3938834702,4082225868#notes:PvP To the Pain + Swashbuckler
+// Heretic's Favor (Stasis agressive RL)
+//notes:PvE Autolading Holster + Chill Clip/Bipod/Explosive Light
+dimwishlist:item=4224667951&perks=3300816228,2978966579
+dimwishlist:item=4224667951&perks=3300816228,1439600632
+dimwishlist:item=4224667951&perks=3300816228,3194351027
+dimwishlist:item=4224667951&perks=3161816588,3194351027#notes:fun PvE with Slideshot + Explosive Light
 
 
 //==========================================================================================
