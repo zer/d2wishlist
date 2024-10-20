@@ -382,6 +382,6 @@ dimwishlist:item=4200122994&perks=1421772400,1546637391#notes:PvE: Air Trigger +
 dimwishlist:item=4200122994&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
 dimwishlist:item=4200122994&perks=2579169598,47981717#notes:PvP: Lone Wolf + Opening Shot
 // Neoptolemus II
-dimwishlist:item=-4200122994#notes:this bow has no good perks
+dimwishlist:item=-2848549302#notes:this bow has no good perks
 
 //==========================================================================================
