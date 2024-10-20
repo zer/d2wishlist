@@ -248,35 +248,35 @@ dimwishlist:item=480368036&perks=3828510309,2978966579
 dimwishlist:item=480368036&perks=951095735,2978966579
 
 // Reprised Garden of Salvation weapons
-// Omniscient Eye (Solar Sniper Rifle)
+// Omniscient Eye: Solar Rapid-Fire Sniper Rifle
 //notes: (??? PvE ???): 3rd: Lead From Gold, FTTC, Envious Arsenal if power weapon has a reload perk as well. 4th: Vorpal over Precision Instrument for consistency,|tags:PvE
 dimwishlist:item=147444292&perks=1354429876,1546637391
 dimwishlist:item=147444292&perks=1556840489,1546637391
 dimwishlist:item=147444292&perks=3987942396,1546637391
-// Ancient Gospel (Void 140 HC)
+// Ancient Gospel: Void Adaptive Hand Cannon
 //notes: (??? PvE ???): Demo+Explosive Head or Destab+Explosive Head|tags:PvE
 dimwishlist:item=963574173&perks=3523296417,3038247973
 dimwishlist:item=963574173&perks=2048641572,3038247973
 dimwishlist:item=963574173&perks=288411554,1161469972#notes:PvP god roll|tags:PvP
-// Reckless Oracle (Void rapid-fire auto rifle)
+// Reckless Oracle: Void Rapid Auto Rifle
 //notes: (??? PvE ???): Demo+OneForAll or Repulsor Brace + Destab Rounds|tags:PvE
 dimwishlist:item=1992309064&perks=3523296417,4049631843
 dimwishlist:item=1992309064&perks=2048641572,776531651
-// Prophet of Doom (Arc precision frame shotgun)
+// Prophet of Doom: Arc Precision Shotgun
 //notes: Reconstruction or Envious Arsenal + Cascade Point for DPS|tags:PvE
 dimwishlist:item=2145441168&perks=1523832109,3751912585
 dimwishlist:item=2145441168&perks=3987942396,3751912585
 dimwishlist:item=2145441168&perks=2039302152,1194056669#notes:Slideways+Closing Time could be interesting for PvP
-// Sacred Provenance (Kinetic 4-burst Pulse Rifle)
+// Sacred Provenance: Kinetic Aggressive Pulse Rifle
 //notes: (??? PvE ???): Demo and Frenzy is always great. Stats for All and Kinetic Tremors are also in the mix|tags:PvE
 dimwishlist:item=2241507890&perks=3523296417,4104185692
 dimwishlist:item=2241507890&perks=1583705720,4104185692
 dimwishlist:item=2241507890&perks=3523296417,3891536761
 dimwishlist:item=2241507890&perks=1583705720,3891536761
-// Zealot's Reward (Void rapid-fire fusion rifle)
+// Zealot's Reward: Void Rapid Fire Fusion Rifle
 dimwishlist:item=2720651699&perks=1645158859,1754714824#notes:pvp god roll
 dimwishlist:item=2720651699&perks=1645158859,1194056669#notes:possible pvp god roll
-// Accrued Redemption (Kinetic precision frame bow)
+// Accrued Redemption: Kinetic Precision Compound Bow
 dimwishlist:item=3621336854&perks=201365942,3891536761#notes:PvE god roll with Archer's Tempo and Kinetic Tremors
 dimwishlist:item=3621336854&perks=2652708987,3414324643#notes:silly but fastest bow in the game with Successful Warmup and Archers Gambit?
 dimwishlist:item=3621336854&perks=3592538738,3891536761#notes:Wellspring+Kinetic Tremors for utility and damage
@@ -303,21 +303,21 @@ dimwishlist:item=2598420927&perks=1820235745,4104185692
 dimwishlist:item=2130875369&perks=3978468247,4293542123#notes:PvE discord+incandescent. other rolls are meh
 
 // Seasonal weapons (Dark Ether Reaper origin trait)
-// Insurmountable (Void precision frame sidearm)
+// Insurmountable: Void Precision Frame Sidearm
 dimwishlist:item=414045521&perks=776531651,2048641572#notes:void synergy with DestabRound+RepulsorBrace
 dimwishlist:item=414045521&perks=4071163871,3708227201#notes:threat detector+surrounded can go really hard with void hunter
 // Noxious Vetiver (arc precision frame SMG)
 dimwishlist:item=825495813&perks=1119449540,3966416502#notes:loose change + jolting feedback is PvE god roll
-// Liturgy (stasis double fire GL)
+// Liturgy: Stasis Double Fire Grenade Launcher
 dimwishlist:item=2599338624&perks=3987942396,2978966579#notes:envious arsenal + chill clip
 dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:slideways + chill clip
-// Bitter Sweet (Arc adaptive frame HGL)
+// Bitter/Sweet: Arc Adaptive Frame Grenade Launcher
 //notes:mini frags for mag. Envious Arsenal for 3rd colum. 4th column: Cascade Point or Bait and Switch. Jolting Feedback is probably not ideal but can be fun. Explosive Light is an option as well.
 dimwishlist:item=2599338625&perks=332133599,3987942396,3751912585
 dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919
 dimwishlist:item=2599338625&perks=332133599,3987942396,3966416502
 dimwishlist:item=2599338625&perks=332133599,3987942396,3194351027
-// Exuviae (Stasis 120 HC)
+// Exuviae: Stasis Aggressive Frame Hand Cannon
 dimwishlist:item=2823644677&perks=1955165503,124408337#notes:PvE Rimestealer + Headstone. enhance for even more frost armor
 dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337#notes:PvE god roll with Rimestealer + Headstone. enhance for even more frost armor
 dimwishlist:item=2823644677&perks=1195158366,3038247973#notes:PvP Encore+Explosive Payload
@@ -325,11 +325,11 @@ dimwishlist:item=2823644677&perks=1195158366,3038247973#notes:PvP Encore+Explosi
 dimwishlist:item=2913577176&perks=3978468247,438098033#notes:PvE Discord + Harmony
 dimwishlist:item=2913577176&perks=3978468247,2048641572#notes:PvE Discord + Destabilizing Rounds
 dimwishlist:item=2913577176&perks=3978468247,4104185692#notes:PvE Discord + Frency
-// Red Tape (Stasis 200rpm Lightweight Scout Rifle)
+// Red Tape: Stasis Lightweight Frame Scout Rifle
 dimwishlist:item=3423493037&perks=3523296417,124408337#notes:PvE Demo + Headstone
-// Sovereignty (Void Adaptive Frame Sniper Rifle)
+// Sovereignty: Void Adaptive Frame Sniper Rifle
 dimwishlist:item=3818198556&perks=1134488199#notes:Withering Gaze for Utility
-// Vantage Point (Arc 390 Adaptive Frame Pulse Rifle)
+// Vantage Point: Arc Adaptive Frame Pulse Rifle
 dimwishlist:item=3830941962&perks=684456054,3966416502#notes:PvE Eddy Current + Jolting Feedback
 dimwishlist:item=3830941962&perks=1583705720,3966416502#notes:PvE Stats for All + Jolting Feedback
 dimwishlist:item=3830941962&perks=3619207468,4082225868#notes:PvP Keep Away + Swashbuckler
@@ -353,7 +353,6 @@ dimwishlist:item=1762785662&perks=3078487919,3194351027
 dimwishlist:item=1762785662&perks=3987942396,3708227201
 dimwishlist:item=1762785662&perks=3751912585,3708227201
 dimwishlist:item=1762785662&perks=3078487919,3708227201
-
 // VS Velocity Baton (Void Area Denial Frame BGL)
 //notes: General PvE: Demolitionist/Repulsor Brace + Attrition Orbs/Destabilizing Rounds/Bait and Switch
 dimwishlist:item=1762785663&perks=3523296417,243981275
@@ -362,13 +361,27 @@ dimwishlist:item=1762785663&perks=3523296417,2048641572
 dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=3523296417,3078487919
 dimwishlist:item=1762785663&perks=776531651,3078487919
-
 // VS Gravitic Arrest (Void Adaptive Fusion Rifle)
 //notes: General PvE: Demolitionist + Withering Gaze
 dimwishlist:item=93061497&perks=3523296417,1134488199
+// VS Pyroelectric Propellant: Arc Adaptive Frame Auto Rifle
+//notes: General PvE: Strategist or Eddy Current  + Jolting Feedback
+dimwishlist:item=4232480042&perks=880644845,3966416502
+dimwishlist:item=4232480042&perks=684456054,3966416502
 
 
-
-
+// S25 new World drops
+// Live Fire
+dimwishlist:item=3612142623&perks=1955165503,124408337#notes:PvE:Rimestealer + Headstone
+// Legato-11
+dimwishlist:item=3753063346&perks=3017780555,4293542123#notes:PvE: Heal Clip + Incandescent 
+dimwishlist:item=3753063346&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
+// Veleda-F
+dimwishlist:item=4200122994&perks=1421772400,1134488199#notes:PvE: Air Trigger + Withering Gaze
+dimwishlist:item=4200122994&perks=1421772400,1546637391#notes:PvE: Air Trigger + Vorpal
+dimwishlist:item=4200122994&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
+dimwishlist:item=4200122994&perks=2579169598,47981717#notes:PvP: Lone Wolf + Opening Shot
+// Neoptolemus II
+dimwishlist:item=-4200122994#notes:this bow has no good perks
 
 //==========================================================================================
