@@ -377,6 +377,7 @@ dimwishlist:item=3612142623&perks=1955165503,124408337#notes:PvE:Rimestealer + H
 dimwishlist:item=3753063346&perks=3017780555,4293542123#notes:PvE: Heal Clip + Incandescent 
 dimwishlist:item=3753063346&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
 // Veleda-F
+dimwishlist:item=4200122994&perks=1840239774,2420895100,1421772400,1134488199#notes:PvE 5/5 god roll with fluted/extended/air trigger/withering gaze
 dimwishlist:item=4200122994&perks=1421772400,1134488199#notes:PvE: Air Trigger + Withering Gaze
 dimwishlist:item=4200122994&perks=1421772400,1546637391#notes:PvE: Air Trigger + Vorpal
 dimwishlist:item=4200122994&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
