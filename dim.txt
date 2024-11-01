@@ -385,4 +385,16 @@ dimwishlist:item=4200122994&perks=2579169598,47981717#notes:PvP: Lone Wolf + Ope
 // Neoptolemus II
 dimwishlist:item=-2848549302#notes:this bow has no good perks
 
+// Festival of the Lost 2024
+// Arcane Embrace: Heavy Burst Arc Shotgun
+dimwishlist:item=3649985571&perks=1354429876,3708227201,2250679103#notes:PvE FTTC+Surrounded
+dimwishlist:item=3649985571&perks=1354429876,555281244,2250679103#notes:PvE FTTC+Precision Instrument
+// Mechabre: Arc Aggressive Sniper
+dimwishlist:item=2477980485&perks=2284787283,1546637391#notes:PvE Clown Cartridge + Vorpal Weapon
+dimwishlist:item=2477980485&perks=2284787283,1771339417#notes:PvE Clown Cartridge + Firing Line
+dimwishlist:item=2477980485&perks=2579169598,47981717#notes:PvP Lone Wolf + Opening Shot
+// Braytech Werewolf: Kinetic Precision Auto Rifle
+dimwishlist:item=3558681245&perks=3418782618,3891536761#notes:PvE Rewind Rounds + Kinetic Tremors
+// Acosmic: Void Rapid Fire Heavy Grenade Launcher
+dimwishlist:item=425681240&perks=2284787283,3078487919#notes:PvE Clown Cartridge + Bait and Switch. Ideally with Spike Grenades
 //==========================================================================================
