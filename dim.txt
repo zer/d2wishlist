@@ -1,149 +1,3 @@
-//claws of the wolf
-dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414#notes:pvp
-dimwishlist:item=1505862304&perks=839105230,1885400500,776531651,2048641572#notes:pve
-
-//Hunter class exotic relativism
-dimwishlist:item=2809120022&perks=3751917997,3751917993
-
-dimwishlist:item=2809120022&perks=3751917998,1476923955
-dimwishlist:item=2809120022&perks=3751917995,3751917994
-dimwishlist:item=2809120022&perks=3751917995,1476923955
-dimwishlist:item=2809120022&perks=3751917996,3751917992
-dimwishlist:item=2809120022&perks=3751917996,1476923956
-dimwishlist:item=2809120022&perks=3751917997,1476923955
-dimwishlist:item=2809120022&perks=1476923953,1476923956
-dimwishlist:item=2809120022&perks=1476923953,1476923955
-dimwishlist:item=2809120022&perks=3751917996,3751917994
-dimwishlist:item=2809120022&perks=3751917999,1476923955
-dimwishlist:item=2809120022&perks=1476923953,1476923957
-dimwishlist:item=2809120022&perks=3751917999,3751917990
-dimwishlist:item=2809120022&perks=1476923953,3751917994
-
-//Titan class exotic
-dimwishlist:item=266021826&perks=1476923952,1476923956
-dimwishlist:item=266021826&perks=3573490507,1476923955
-dimwishlist:item=266021826&perks=3573490506,3573490503
-dimwishlist:item=266021826&perks=1476923953,1476923955
-dimwishlist:item=266021826&perks=1476923953,3573490503
-dimwishlist:item=266021826&perks=3573490506,1476923956
-dimwishlist:item=266021826&perks=3573490505,3573490500
-dimwishlist:item=266021826&perks=1476923953,3573490504
-dimwishlist:item=266021826&perks=3573490509,3573490504
-dimwishlist:item=266021826&perks=3573490509,1476923956
-dimwishlist:item=266021826&perks=1476923953,3573490500
-dimwishlist:item=266021826&perks=1476923953,1476923956
-
-
-//Warlock class exotic solipsism
-dimwishlist:item=2273643087&perks=183430250,1476923955
-dimwishlist:item=2273643087&perks=1476923953,183430249
-dimwishlist:item=2273643087&perks=183430252,1476923956
-dimwishlist:item=2273643087&perks=183430253,183430249
-
-dimwishlist:item=2273643087&perks=183430253,1476923957
-dimwishlist:item=2273643087&perks=183430253,183430246
-dimwishlist:item=2273643087&perks=1476923953,1476923957
-dimwishlist:item=2273643087&perks=183430253,183430249
-dimwishlist:item=2273643087&perks=183430250,1476923955
-dimwishlist:item=2273643087&perks=183430253,1476923955
-dimwishlist:item=2273643087&perks=183430255,183430249
-dimwishlist:item=2273643087&perks=183430252,183430247
-dimwishlist:item=2273643087&perks=183430250,183430246
-dimwishlist:item=2273643087&perks=1476923954,1476923955
-dimwishlist:item=2273643087&perks=1476923952,183430247
-dimwishlist:item=2273643087&perks=1476923953,1476923956
-dimwishlist:item=2273643087&perks=1476923953,183430254
-dimwishlist:item=2273643087&perks=1476923953,1476923955
-dimwishlist:item=2273643087&perks=1476923953,183430246
-
-
-//warden's law
-//enlightened+vorpal
-dimwishlist:item=3250744600&perks=3828510309,1546637391#notes:pve lucky pants
-
-
-
-//episode 1 weapons
-//lost signal
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
-//veiled threat
-//notes:pve utility
-dimwishlist:item=3685470415&perks=3700496672,2109543898
-dimwishlist:item=3685470415&perks=243981275,2109543898
-//sightline survey
-dimwishlist:item=2350330520&perks=1840239774,106909392,3619207468,2173046394
-//timeworn wayfarer
-dimwishlist:item=1058098236&perks=1840239774,106909392,3017780555,4293542123
-//corrasion
-dimwishlist:item=2126178511&perks=3828510309,2173046394
-//aberrant action
-dimwishlist:item=2198166292&perks=3017780555,4293542123
-dimwishlist:item=2198166292&perks=2869569095,4293542123
-//chronophage
-dimwishlist:item=1886840007&perks=776531651,2048641572
-//ill omen
-dimwishlist:item=3794274730&perks=1749209109,3650930298
-//Faith-Keeper
-dimwishlist:item=4195186942&perks=3798852852,3492396210,3300816228,1439600632
-//Speleologist
-dimwishlist:item=412251536&perks=968510818,557221067
-dimwishlist:item=412251536&perks=968510818,4049631843
-//Line in the Sand
-dimwishlist:item=2450049485&perks=2284787283,3078487919
-//Perfect Paradox
-dimwishlist:item=1298672084&perks=4071163871,2679249093
-//Martyr's Retribution
-dimwishlist:item=2584830733&perks=3017780555,4293542123
-dimwishlist:item=2584830733&perks=3300816228,2109543898
-dimwishlist:item=2584830733&perks=3523296417,11612903
-//breachlight
-dimwishlist:item=2328923181&perks=923806249,831391274#notes:strand build
-dimwishlist:item=2328923181&perks=3523296417,11612903#notes:grenade build
-dimwishlist:item=2328923181&perks=691659142,4082225868#notes:melee build
-dimwishlist:item=2328923181&perks=3523296417,831391274#notes:all-around pve
-//Patron of Lost Causes
-dimwishlist:item=2249996761&perks=247725512,3038247973
-dimwishlist:item=2249996761&perks=3400784728,3038247973
-dimwishlist:item=2249996761&perks=1583705720,3038247973
-//episode 1 weapons end
-//==========================================================================================
-
-
-
-//solstice 2024
-//Fortunate Star (void lightweight frame bow)
-//notes:general pve
-dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,1015611457
-dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2610012052
-//notes:pve void
-dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,2048641572
-dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,2048641572
-dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2610012052
-//notes:pvp
-dimwishlist:item=2326578623&perks=2801223209,3827198035,201365942,47981717
-dimwishlist:item=2326578623&perks=2801223209,3827198035,1866048759,3414324643
-
-//Compass Rose (solar precision frame shotgun)
-dimwishlist:item=4169225313&perks=466087222,3142289711,1821614984,47981717,2509860981#notes:pvp
-
-//Something New (Stasis Hand Cannon)
-dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,555281244,2509860981#notes:pvp
-dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,3038247973,2509860981#notes:pvp
-dimwishlist:item=586671776&perks=3523296417,3592538738#notes:pve utility
-
-//Crowning Duologue (strand precision frame rocket launcher)
-dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1380061575
-//solstice 2024 end
-//==========================================================================================
-
-
-// Crucible S24 (2024)
-//Better Devils (Strand Adaptive Hand Cannon)
-//notes:general pve
-dimwishlist:item=4152016199&perks=691659142,4104185692
-dimwishlist:item=4152016199&perks=3523296417,4104185692
-
-
 // Season 25 Revenant
 //==========================================================================================
 // Vanguard
@@ -409,3 +263,153 @@ dimwishlist:item=3558681245&perks=1482024992,1885400500,2579169598,1015611457#no
 // Acosmic: Void Rapid Fire Heavy Grenade Launcher
 dimwishlist:item=425681240&perks=2284787283,3078487919#notes:PvE Clown Cartridge + Bait and Switch. Ideally with Spike Grenades
 //==========================================================================================
+//S25 end
+
+
+
+
+
+//solstice 2024
+//Fortunate Star (void lightweight frame bow)
+//notes:general pve
+dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,1015611457
+dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2610012052
+//notes:pve void
+dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,2048641572
+dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,2048641572
+dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2610012052
+//notes:pvp
+dimwishlist:item=2326578623&perks=2801223209,3827198035,201365942,47981717
+dimwishlist:item=2326578623&perks=2801223209,3827198035,1866048759,3414324643
+
+//Compass Rose (solar precision frame shotgun)
+dimwishlist:item=4169225313&perks=466087222,3142289711,1821614984,47981717,2509860981#notes:pvp
+
+//Something New (Stasis Hand Cannon)
+dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,555281244,2509860981#notes:pvp
+dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,3038247973,2509860981#notes:pvp
+dimwishlist:item=586671776&perks=3523296417,3592538738#notes:pve utility
+
+//Crowning Duologue (strand precision frame rocket launcher)
+dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1380061575
+//solstice 2024 end
+//==========================================================================================
+
+
+// Crucible S24 (2024)
+//Better Devils (Strand Adaptive Hand Cannon)
+//notes:general pve
+dimwishlist:item=4152016199&perks=691659142,4104185692
+dimwishlist:item=4152016199&perks=3523296417,4104185692
+
+
+
+//episode 1 weapons
+//lost signal
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
+//veiled threat
+//notes:pve utility
+dimwishlist:item=3685470415&perks=3700496672,2109543898
+dimwishlist:item=3685470415&perks=243981275,2109543898
+//sightline survey
+dimwishlist:item=2350330520&perks=1840239774,106909392,3619207468,2173046394
+//timeworn wayfarer
+dimwishlist:item=1058098236&perks=1840239774,106909392,3017780555,4293542123
+//corrasion
+dimwishlist:item=2126178511&perks=3828510309,2173046394
+//aberrant action
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+dimwishlist:item=2198166292&perks=2869569095,4293542123
+//chronophage
+dimwishlist:item=1886840007&perks=776531651,2048641572
+//ill omen
+dimwishlist:item=3794274730&perks=1749209109,3650930298
+//Faith-Keeper
+dimwishlist:item=4195186942&perks=3798852852,3492396210,3300816228,1439600632
+//Speleologist
+dimwishlist:item=412251536&perks=968510818,557221067
+dimwishlist:item=412251536&perks=968510818,4049631843
+//Line in the Sand
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+//Perfect Paradox
+dimwishlist:item=1298672084&perks=4071163871,2679249093
+//Martyr's Retribution
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3300816228,2109543898
+dimwishlist:item=2584830733&perks=3523296417,11612903
+//breachlight
+dimwishlist:item=2328923181&perks=923806249,831391274#notes:strand build
+dimwishlist:item=2328923181&perks=3523296417,11612903#notes:grenade build
+dimwishlist:item=2328923181&perks=691659142,4082225868#notes:melee build
+dimwishlist:item=2328923181&perks=3523296417,831391274#notes:all-around pve
+//Patron of Lost Causes
+dimwishlist:item=2249996761&perks=247725512,3038247973
+dimwishlist:item=2249996761&perks=3400784728,3038247973
+dimwishlist:item=2249996761&perks=1583705720,3038247973
+//episode 1 weapons end
+//==========================================================================================
+
+
+
+//claws of the wolf
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414#notes:pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,776531651,2048641572#notes:pve
+
+//Hunter class exotic relativism
+dimwishlist:item=2809120022&perks=3751917997,3751917993
+
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+dimwishlist:item=2809120022&perks=3751917995,1476923955
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+dimwishlist:item=2809120022&perks=3751917997,1476923955
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923955
+dimwishlist:item=2809120022&perks=3751917996,3751917994
+dimwishlist:item=2809120022&perks=3751917999,1476923955
+dimwishlist:item=2809120022&perks=1476923953,1476923957
+dimwishlist:item=2809120022&perks=3751917999,3751917990
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+//Titan class exotic
+dimwishlist:item=266021826&perks=1476923952,1476923956
+dimwishlist:item=266021826&perks=3573490507,1476923955
+dimwishlist:item=266021826&perks=3573490506,3573490503
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=1476923953,3573490503
+dimwishlist:item=266021826&perks=3573490506,1476923956
+dimwishlist:item=266021826&perks=3573490505,3573490500
+dimwishlist:item=266021826&perks=1476923953,3573490504
+dimwishlist:item=266021826&perks=3573490509,3573490504
+dimwishlist:item=266021826&perks=3573490509,1476923956
+dimwishlist:item=266021826&perks=1476923953,3573490500
+dimwishlist:item=266021826&perks=1476923953,1476923956
+
+
+//Warlock class exotic solipsism
+dimwishlist:item=2273643087&perks=183430250,1476923955
+dimwishlist:item=2273643087&perks=1476923953,183430249
+dimwishlist:item=2273643087&perks=183430252,1476923956
+dimwishlist:item=2273643087&perks=183430253,183430249
+
+dimwishlist:item=2273643087&perks=183430253,1476923957
+dimwishlist:item=2273643087&perks=183430253,183430246
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+dimwishlist:item=2273643087&perks=183430253,183430249
+dimwishlist:item=2273643087&perks=183430250,1476923955
+dimwishlist:item=2273643087&perks=183430253,1476923955
+dimwishlist:item=2273643087&perks=183430255,183430249
+dimwishlist:item=2273643087&perks=183430252,183430247
+dimwishlist:item=2273643087&perks=183430250,183430246
+dimwishlist:item=2273643087&perks=1476923954,1476923955
+dimwishlist:item=2273643087&perks=1476923952,183430247
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=1476923953,183430254
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+dimwishlist:item=2273643087&perks=1476923953,183430246
+
+
+//warden's law
+//enlightened+vorpal
+dimwishlist:item=3250744600&perks=3828510309,1546637391#notes:pve lucky pants
