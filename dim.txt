@@ -391,6 +391,7 @@ dimwishlist:item=-2848549302#notes:this bow has no good perks
 // Arcane Embrace: Heavy Burst Arc Shotgun
 dimwishlist:item=3649985571&perks=1354429876,3708227201,2250679103#notes:PvE FTTC+Surrounded
 dimwishlist:item=3649985571&perks=1354429876,555281244,2250679103#notes:PvE FTTC+Precision Instrument
+dimwishlist:item=3649985571&perks=1421772400,2173046394#notes:PvE Air Trigger + Voltshot
 // Mechabre: Arc Aggressive Sniper
 dimwishlist:item=2477980485&perks=2284787283,1546637391#notes:PvE Clown Cartridge + Vorpal Weapon
 dimwishlist:item=2477980485&perks=2284787283,1771339417#notes:PvE Clown Cartridge + Firing Line
