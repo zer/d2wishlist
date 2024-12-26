@@ -1,44 +1,74 @@
 // Season 25 Revenant
 //==========================================================================================
 // The Dawning
+//
 // Mistral Lift: Void Adaptive Burst Linear Fusion Rifle
 //notes:PvE: Ideally with Handling masterwork. Withering Gaze is good for solo play not for groups. Otherwise Envious Arsenal. 4th column Bait and Switch.
 dimwishlist:item=3483485727&perks=1840239774,689005463,1134488199,3078487919
 dimwishlist:item=3483485727&perks=1840239774,689005463,3987942396,3078487919
+//
 // Glacioclasm: Void High-Impact Frame Fusion Rifle
-//notes:PvE: Ideally with Charge Time masterwork. Envious Assassin/Overflow + Reservoir Burst to keep the mag overflowed.
+//notes:PvE: Envious Assassin/Overflow + Reservoir Burst to keep the mag overflowed. Ideally with Charge Time masterwork. 
 dimwishlist:item=1183116657&perks=689005463,968510818,1427256713
 dimwishlist:item=1183116657&perks=689005463,3643424744,1427256713
-//notes:PvE: Ideally with Charge Time masterwork. Air Trigger/Envious Assassin/Slideshot/Subsistence + Controlled Burst.
+//notes:PvE: Air Trigger/Envious Assassin/Overflow + Withering Gaze for utility. Ideally with Liquid Coils since charge time is ok to be long. Fluted Barrel + Reload Speed MW for 5/5
+dimwishlist:item=1183116657&perks=1421772400,1134488199
+dimwishlist:item=1183116657&perks=968510818,1134488199
+dimwishlist:item=1183116657&perks=3643424744,1134488199
+dimwishlist:item=1183116657&perks=1840239774,1687452232,1421772400,1134488199
+dimwishlist:item=1183116657&perks=1840239774,1687452232,3291427296,2904194311
+//notes:PvE: Air Trigger/Envious Assassin/Slideshot/Subsistence + Controlled Burst. Ideally with Charge Time masterwork. 
 dimwishlist:item=1183116657&perks=689005463,1421772400,2594592626
 dimwishlist:item=1183116657&perks=689005463,968510818,2594592626
 dimwishlist:item=1183116657&perks=689005463,1820235745,2594592626
 dimwishlist:item=1183116657&perks=689005463,3161816588,2594592626
-//notes:PvP: Under Pressure + High-Impact 
+//notes:PvP: Under Pressure + High-Impact/Closing Time
 dimwishlist:item=1183116657&perks=689005463,1645158859,2213355989
+dimwishlist:item=1183116657&perks=1645158859,1194056669
+dimwishlist:item=1183116657&perks=3755250867,3955464425
+//notes:PvP: God roll is Fluted Barrel/Projection Fuse/Lone Wolf/Closing Time. Enhanced w/ Ballistics mod and charge time MW
+dimwishlist:item=1183116657&perks=1840239774,2969185026,2579169598,1194056669
+dimwishlist:item=1183116657&perks=1840239774,2969185026,2073244114,3955464425
+//
 // Avalanche: Solar Adaptive Frame Machine Gun
 //notes:PvE: Subsistence + Incandescent for ad clear
 dimwishlist:item=1845978721&perks=1820235745,4293542123
 //notes:PvE: Auto-Loading Holster + Cascade Point is great against champions if Ammo is not a concern. Alternatively Golden Tricorn for spammy Solar Builds.
 dimwishlist:item=1845978721&perks=3300816228,3751912585
 dimwishlist:item=1845978721&perks=3300816228,2610012052
-//notes:PvE: Rewind Rounds + Target Lock could be fun
+//notes:PvE: Rewind Rounds + Target Lock/Incandescent
 dimwishlist:item=1845978721&perks=3418782618,365154968
+dimwishlist:item=1845978721&perks=1563455254,2939589096
+dimwishlist:item=1845978721&perks=3418782618,4293542123
+dimwishlist:item=1845978721&perks=1563455254,2675184851
+dimwishlist:item=1845978721&perks=1840239774,1087426260,1563455254,2675184851
+dimwishlist:item=1845978721&perks=1840239774,2420895100,1563455254,2675184851
+dimwishlist:item=1845978721&perks=1840239774,106909392,1563455254,2675184851
+//
 // Albedo Wing: Arc Aggressive Glaive
-//notes:PvE: Grave Robber + Close to Melee/Desperate Measures
+//notes:PvE: Grave Robber + Close to Melee/Desperate Measures/Golden Tricorn
 dimwishlist:item=1845372864&perks=1631667848,1782407750
 dimwishlist:item=1845372864&perks=1631667848,2109543898
+dimwishlist:item=1845372864&perks=1631667848,2610012052
 //notes:PvE: Eddy Current/Air Trigger + Voltshot
 dimwishlist:item=1845372864&perks=684456054,2173046394
 dimwishlist:item=1845372864&perks=1421772400,2173046394
+//notes:PvE: Replenishing Aegis + Close to Melee
+dimwishlist:item=1845372864&perks=1966281507,1782407750
 //notes:PvE: Replenishing Aegis/Air Trigger/Strategist + Demolitionist
 dimwishlist:item=1845372864&perks=1966281507,3523296417
 dimwishlist:item=1845372864&perks=1421772400,3523296417
 dimwishlist:item=1845372864&perks=880644845,3523296417
+//
 // Stay Frost: Stasis Lightweight Frame Pulse Rifle
 //notes:PvE: Rimestealer + Headstone for Stasis synergy
 dimwishlist:item=1123433952&perks=1955165503,124408337
 dimwishlist:item=1123433952&perks=2617553311,1171887445
+//notes:PvE: Rimestealer + Frenzy, with either Range or Stability masterwork
+dimwishlist:item=1123433952&perks=1482024992,3142289711,1955165503,4104185692
+dimwishlist:item=1123433952&perks=1482024992,1431678320,1955165503,4104185692
+dimwishlist:item=1123433952&perks=3250034553,3142289711,1955165503,4104185692
+dimwishlist:item=1123433952&perks=3250034553,1431678320,1955165503,4104185692
 //notes:PvP: Encore + Kill Clip for max stats and kill chaining. Ideally with Range masterwork
 dimwishlist:item=1123433952&perks=1195158366,1015611457
 dimwishlist:item=1123433952&perks=838873202,2923251173
@@ -47,6 +77,7 @@ dimwishlist:item=1123433952&perks=4090651448,3142289711,838873202,2923251173
 //notes:PvP: Lone Wolf/Moving Target + Kill Clip
 dimwishlist:item=1123433952&perks=2579169598,1015611457
 dimwishlist:item=1123433952&perks=588594999,1015611457
+//
 // Zephyr: Stasis Adaptive Frame Sword
 //notes:PvE: Relentless Strikes + Cold Steel
 dimwishlist:item=601948197&perks=1749209109,3650930298
