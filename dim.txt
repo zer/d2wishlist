@@ -1,5 +1,6 @@
 // Season 25 Revenant
 //==========================================================================================
+//
 // The Dawning
 //
 // Mistral Lift: Void Adaptive Burst Linear Fusion Rifle
@@ -248,6 +249,7 @@ dimwishlist:item=414045521&perks=4071163871,3708227201#notes:threat detector+sur
 dimwishlist:item=414045521&perks=776531651,4049631843#notes:Repulsor Brace + One For All with Gyrfalcons
 // Noxious Vetiver (arc precision frame SMG)
 dimwishlist:item=825495813&perks=1119449540,3966416502#notes:loose change + jolting feedback is PvE god roll
+dimwishlist:item=825495813&perks=243981275,3966416502#notes:attrition orbs + jolting feedback
 // Liturgy: Stasis Double Fire Grenade Launcher
 dimwishlist:item=2599338624&perks=3987942396,2978966579#notes:envious arsenal + chill clip
 dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:slideways + chill clip
@@ -274,6 +276,7 @@ dimwishlist:item=3830941962&perks=684456054,3966416502#notes:PvE Eddy Current + 
 dimwishlist:item=3830941962&perks=1583705720,3966416502#notes:PvE Stats for All + Jolting Feedback
 dimwishlist:item=3830941962&perks=3619207468,4082225868#notes:PvP Keep Away + Swashbuckler
 dimwishlist:item=3830941962&perks=3938834702,4082225868#notes:PvP To the Pain + Swashbuckler
+dimwishlist:item=3830941962&perks=3993379141,3966416502#notes:PvE Deconstruct + Jolting Feedback
 // Heretic's Favor (Stasis agressive RL)
 //notes:PvE Autolading Holster + Chill Clip/Bipod/Explosive Light
 dimwishlist:item=4224667951&perks=3300816228,2978966579
@@ -305,9 +308,10 @@ dimwishlist:item=1762785663&perks=776531651,3078487919
 //notes: General PvE: Demolitionist + Withering Gaze
 dimwishlist:item=93061497&perks=3523296417,1134488199
 // VS Pyroelectric Propellant: Arc Adaptive Frame Auto Rifle
-//notes: General PvE: Strategist or Eddy Current  + Jolting Feedback
+//notes: General PvE: Strategist (for Warlocks) or Eddy Current or Attrition Orbs  + Jolting Feedback
 dimwishlist:item=4232480042&perks=880644845,3966416502
 dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=243981275,3966416502
 
 
 // S25 new World drops
