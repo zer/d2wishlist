@@ -443,6 +443,11 @@ dimwishlist:item=2249996761&perks=1583705720,3038247973
 dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414#notes:pvp
 dimwishlist:item=1505862304&perks=839105230,1885400500,776531651,2048641572#notes:pve
 
+// Riiswalker
+//notes:PvE. Discord + Harmony. Vorpal 2nd choice
+dimwishlist:item=557165046&perks=3978468247,438098033
+dimwishlist:item=557165046&perks=3978468247,1546637391
+
 //Hunter class exotic relativism
 dimwishlist:item=2809120022&perks=3751917997,3751917993
 
