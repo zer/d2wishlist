@@ -268,7 +268,12 @@ dimwishlist:item=2913577176&perks=3978468247,438098033#notes:PvE Discord + Harmo
 dimwishlist:item=2913577176&perks=3978468247,2048641572#notes:PvE Discord + Destabilizing Rounds
 dimwishlist:item=2913577176&perks=3978468247,4104185692#notes:PvE Discord + Frency
 // Red Tape: Stasis Lightweight Frame Scout Rifle
-dimwishlist:item=3423493037&perks=3523296417,124408337#notes:PvE Demo + Headstone
+//notes:PvE Demo + Headstone
+dimwishlist:item=3423493037&perks=3523296417,124408337
+dimwishlist:item=3423493037&perks=1906147653,1171887445
+//notes:PvE Explosive Payload + Attrition Orbs
+dimwishlist:item=3423493037&perks=243981275,3038247973
+dimwishlist:item=3423493037&perks=984655331,64866129
 // Sovereignty: Void Adaptive Frame Sniper Rifle
 dimwishlist:item=3818198556&perks=1134488199#notes:Withering Gaze for Utility
 // Vantage Point: Arc Adaptive Frame Pulse Rifle
