@@ -7,9 +7,9 @@
 //
 // Adamantite: Stand Support Frame Auto Rifle
 //notes:PvE Healer Build - Reciprocity + Circle of Life --- ideally reload masterwork
-dimwishlist:item=3229982889&perks=1482024992,3230963543,4070834277,674546187
-dimwishlist:item=3229982889&perks=1482024992,3230963543,692399809,2298656195
 dimwishlist:item=3229982889&perks=692399809,2298656195
+dimwishlist:item=3229982889&perks=1482024992,3230963543,692399809,2298656195
+dimwishlist:item=3229982889&perks=1482024992,3230963543,4070834277,674546187
 //
 // Abyssal Edge: Strand Wave Frame Sword
 //notes: PvE Damage Build - Relentless Strikes + Elemental Honing
