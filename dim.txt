@@ -1,3 +1,46 @@
+
+// Season 25 Revenant
+//==========================================================================================
+//
+// Seasonal Weapons
+// pattern: 1st line: 4/4 roll enhanced. 2nd line: 4/4 roll. 3rd line: 2/4 roll
+//
+// Adamantite: Stand Support Frame Auto Rifle
+//notes:PvE Healer Build - Reciprocity + Circle of Life --- ideally reload masterwork
+dimwishlist:item=3229982889&perks=1482024992,3230963543,4070834277,674546187
+dimwishlist:item=3229982889&perks=1482024992,3230963543,692399809,2298656195
+dimwishlist:item=3229982889&perks=692399809,2298656195
+//
+// Abyssal Edge: Strand Wave Frame Sword
+//notes: PvE Damage Build - Relentless Strikes + Elemental Honing
+dimwishlist:item=547165496&perks=3666208348,269888150,4085959009,496047945
+dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,1089671869
+dimwishlist:item=547165496&perks=1749209109,1089671869
+//notes: PvE ad clear build - Tireless Blade + Hatchling
+dimwishlist:item=547165496&perks=1261178282,269888150,4183521337,102912326
+dimwishlist:item=547165496&perks=1261178282,269888150,2590710093,831391274
+dimwishlist:item=547165496&perks=2590710093,831391274
+//
+// Eyes Unveiled: Void Precision Frame Linear Fusion Rifle
+//notes: PvE ammo generation build - Triple Tap + Discord
+dimwishlist:item=615373993&perks=3400784728,3978468247
+//notes: PvE major clearing - Overflow + Reservoir Burst
+dimwishlist:item=615373993&perks=3643424744,1427256713
+//
+// Watchful Eye: Arc Precision Frame Machine Gun
+// notes: PvE ad and major clear - Overflow + Jolting Feedback
+dimwishlist:item=1757177186&perks=1482024992,1087426260,2682205016,717070634
+dimwishlist:item=1757177186&perks=1482024992,1087426260,3643424744,3966416502
+dimwishlist:item=1757177186&perks=3643424744,3966416502
+//
+// Afterlight: Void Adaptive Frame Fusion Rifle
+//notes: PvE Ad Clear - Discord + Reservoir Burst
+dimwishlist:item=1834313033&perks=3978468247,1427256713
+//
+// Refusal of the Call: Strand Adaptive Glaive
+//notes: PvE ranged ad clear - Discord + Unstoppable Force
+dimwishlist:item=2671849376&perks=3978468247,2224838837
+
 // Season 25 Revenant
 //==========================================================================================
 //
