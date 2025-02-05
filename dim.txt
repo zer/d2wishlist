@@ -24,8 +24,10 @@ dimwishlist:item=547165496&perks=2590710093,831391274
 // Eyes Unveiled: Void Precision Frame Linear Fusion Rifle
 //notes: PvE ammo generation build - Triple Tap + Discord
 dimwishlist:item=615373993&perks=3400784728,3978468247
+dimwishlist:item=727781522&perks=3400784728,3978468247
 //notes: PvE major clearing - Overflow + Reservoir Burst
 dimwishlist:item=615373993&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=3643424744,1427256713
 //
 // Watchful Eye: Arc Precision Frame Machine Gun
 // notes: PvE ad and major clear - Overflow + Jolting Feedback
