@@ -3,7 +3,8 @@
 //==========================================================================================
 //
 // Seasonal Weapons
-// pattern: 1st line: 4/4 roll enhanced. 2nd line: 4/4 roll. 3rd line: 2/4 roll
+// double pattern: 1st: 2/4 roll. 2nd: 2/4 roll enhanced.
+// triple pattern: 1st line: 2/4 roll. 2nd line: 4/4 roll. 3rd line: 4/4 roll enhanced.
 //
 // Adamantite: Stand Support Frame Auto Rifle
 //notes:PvE Healer Build - Reciprocity + Circle of Life --- ideally reload masterwork
@@ -13,13 +14,13 @@ dimwishlist:item=3229982889&perks=1482024992,3230963543,4070834277,674546187
 //
 // Abyssal Edge: Strand Wave Frame Sword
 //notes: PvE Damage Build - Relentless Strikes + Elemental Honing
-dimwishlist:item=547165496&perks=3666208348,269888150,4085959009,496047945
-dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,1089671869
 dimwishlist:item=547165496&perks=1749209109,1089671869
+dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,1089671869
+dimwishlist:item=547165496&perks=3666208348,269888150,4085959009,496047945
 //notes: PvE ad clear build - Tireless Blade + Hatchling
-dimwishlist:item=547165496&perks=1261178282,269888150,4183521337,102912326
-dimwishlist:item=547165496&perks=1261178282,269888150,2590710093,831391274
 dimwishlist:item=547165496&perks=2590710093,831391274
+dimwishlist:item=547165496&perks=1261178282,269888150,2590710093,831391274
+dimwishlist:item=547165496&perks=1261178282,269888150,4183521337,102912326
 //
 // Eyes Unveiled: Void Precision Frame Linear Fusion Rifle
 //notes: PvE ammo generation build - Triple Tap + Discord
@@ -31,9 +32,9 @@ dimwishlist:item=727781522&perks=3643424744,1427256713
 //
 // Watchful Eye: Arc Precision Frame Machine Gun
 // notes: PvE ad and major clear - Overflow + Jolting Feedback
-dimwishlist:item=1757177186&perks=1482024992,1087426260,2682205016,717070634
-dimwishlist:item=1757177186&perks=1482024992,1087426260,3643424744,3966416502
 dimwishlist:item=1757177186&perks=3643424744,3966416502
+dimwishlist:item=1757177186&perks=1482024992,1087426260,3643424744,3966416502
+dimwishlist:item=1757177186&perks=1482024992,1087426260,2682205016,717070634
 //
 // Afterlight: Void Adaptive Frame Fusion Rifle
 //notes: PvE Ad Clear - Discord + Reservoir Burst
@@ -42,6 +43,26 @@ dimwishlist:item=1834313033&perks=3978468247,1427256713
 // Refusal of the Call: Strand Adaptive Glaive
 //notes: PvE ranged ad clear - Discord + Unstoppable Force
 dimwishlist:item=2671849376&perks=3978468247,2224838837
+
+// Season of Arrivals Reprised Weapons
+// tl;dr: they're all mostly bad
+//
+// Hollow Words: Arc Precision Fusion
+dimwishlist:item=-342027677#notes:there are better arc fusions
+// Cold Denial: Kinetic High Impact Pulse 
+dimwishlist:item=-558794124#notes:just use Bygones
+// Whispering Slab: Kinetic Lightweight Bow
+//notes:PvE Anti-Champion Archer's Tempo + Vorpal. maybe... or just use Accrued Redemption
+dimwishlist:item=690341468&perks=201365942,1546637391
+dimwishlist:item=690341468&perks=3523746922,3418165135
+// False Promises: Stasis High Impact Auto
+//notes: Enlightened Action + Headstone
+dimwishlist:item=1390080550&perks=3828510309,124408337
+dimwishlist:item=1390080550&perks=1771736209,1171887445
+// Temptation's Hook: Arc Caster Sword
+dimwishlist:item=1587953057&perks=1749209109,2396489472#notes:PvE Tireless Strikes + Chain reaction. But Impact stat is too low.
+dimwishlist:item=-1587953057#notes:Impact stat is too low. DoA.
+
 
 // Season 25 Revenant
 //==========================================================================================
