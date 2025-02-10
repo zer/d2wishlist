@@ -65,6 +65,33 @@ dimwishlist:item=1390080550&perks=1771736209,1171887445
 dimwishlist:item=1587953057&perks=1749209109,2396489472#notes:PvE Tireless Strikes + Chain reaction. But Impact stat is too low.
 dimwishlist:item=-1587953057#notes:Impact stat is too low. DoA.
 
+// World Drops
+// Boondoggle Mk. 55: Kinetic Aggressive SMG
+//notes:Hip-fire Grip + Offhand Strike/Adagio: if hip-firing is your thing
+dimwishlist:item=32287609&perks=1866048759,2416023159
+dimwishlist:item=32287609&perks=1866048759,3673922083
+//notes:Subsistence/Pugilist + Swashbuckler. could be a fun legendary Huckleberry alternative
+dimwishlist:item=32287609&perks=1820235745,4082225868
+dimwishlist:item=32287609&perks=691659142,4082225868
+// Qua Furor V: Stasis Aggressive MG
+//notes:Feeding Frenzy/Triple Tap + One for All/Elemental Honing. EH for niche prismatic builds
+dimwishlist:item=751880654&perks=2779035018,4049631843
+dimwishlist:item=751880654&perks=3400784728,4049631843
+dimwishlist:item=751880654&perks=2779035018,1089671869
+dimwishlist:item=751880654&perks=3400784728,1089671869
+// Curoris FR 4: Arc Aggressive Fusion
+dimwishlist:item=891996636&perks=3713215006,3218042543#notes: Recycled Energy + Rolling Storm for ability regen
+dimwishlist:item=891996636&perks=3978468247,4049631843#notes:Discord + One For All for add clear
+dimwishlist:item=891996636&perks=3978468247,3218042543#notes:Discord + Rolling Storm for a niche Bolt Charge build
+// Admetus-D: Void High-Impact Scout
+//notes:heavy feeling gun, many interesting combos to try. Repulsor Brace + Withing Gaze/Demoralize, especially on Void builds
+dimwishlist:item=3776430252&perks=776531651,1134488199
+dimwishlist:item=3776430252&perks=776531651,1464081238
+//notes:heavy feeling gun, many interesting combos to try. Rapid Hit + Demoralize for add clear
+dimwishlist:item=3776430252&perks=247725512,1464081238
+//notes:heavy feeling gun, many interesting combos to try. Recycled Energy + Frenzy for add clear and ability regen
+dimwishlist:item=3776430252&perks=3713215006,4104185692
+
 
 // Season 25 Revenant
 //==========================================================================================
