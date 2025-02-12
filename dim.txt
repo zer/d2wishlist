@@ -92,6 +92,39 @@ dimwishlist:item=3776430252&perks=247725512,1464081238
 //notes:heavy feeling gun, many interesting combos to try. Recycled Energy + Frenzy for add clear and ability regen
 dimwishlist:item=3776430252&perks=3713215006,4104185692
 
+// Playlist weapons
+//
+// Backfang: Arc Rapid-Fire Glaive (from Gambit)
+//notes:PvE Replenishing Aegis + Jolting Feedback for best utility or Grave Robber/Melee Momentum + Swashbuckler/Close to Melee for general play
+//
+// Cynosure: Strand Adaptive Rocket Launcher (from Vanguard)
+//notes:PvE Overflow + Bipod for tons of rockets. Envious Arsenal + Elemental Honing for crazy damage with the right setup
+//
+// Joxer's Longsword: Void Heavy Burst Pulse (from Crucible)
+//notes:PvE Repulsor Brace + Withering Gaze for GMs and such. Shoot to Loot + Withering Gaze for utility.
+//
+// Redrix's Estoc: Stasis PR-55 Pullse (from Competitive)
+//notes:PvP Pereptual Motion/Lone Wolf + Kill Clip or Encore + Desperado
+//notes:PvE Demolitionist + Sword Logic/Headstone
+//
+// Exalted Truth: Void Adaptive Hand Cannon (from Trials)
+//notes:PvE Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
+//
+// Keen Thistle: Solar Aggressive Sniper (from Trials)
+//notes:PvE has way too many combos
+//
+// Warlord's Spear: Arc Adaptive Trace Rifle (from Iron Banner)
+//notes:PvE Envious Assassin/Rewind Rounds + Target Lock/FTTC/Jolting Feedback. JF is the best. Detonator Beam is very interesting.
+//
+// Peacebond: Stasis Adaptive Burst Sidearm (from Iron Banner
+//notes:PvP Subsistence/Headstone + Frenzy
+//
+// The Palindrome: Arc Adaptive Hand Cannon (from GMs)
+//notes:PvE Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
+//
+// Lotus-Eater: Void Rocket Sidearm (from GMs)
+//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All.
+//
 
 // Season 25 Revenant
 //==========================================================================================
