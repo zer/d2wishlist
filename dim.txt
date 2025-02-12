@@ -96,35 +96,119 @@ dimwishlist:item=3776430252&perks=3713215006,4104185692
 //
 // Backfang: Arc Rapid-Fire Glaive (from Gambit)
 //notes:PvE Replenishing Aegis + Jolting Feedback for best utility or Grave Robber/Melee Momentum + Swashbuckler/Close to Melee for general play
+dimwishlist:item=267672635&perks=1966281507,3966416502
+dimwishlist:item=267672635&perks=1631667848,4082225868
+dimwishlist:item=267672635&perks=1631667848,1782407750
+dimwishlist:item=267672635&perks=3773585912,4082225868
+dimwishlist:item=267672635&perks=3773585912,1782407750
 //
 // Cynosure: Strand Adaptive Rocket Launcher (from Vanguard)
 //notes:PvE Overflow + Bipod for tons of rockets. Envious Arsenal + Elemental Honing for crazy damage with the right setup
+dimwishlist:item=694275488&perks=3643424744,1439600632
+dimwishlist:item=694275488&perks=3987942396,1089671869
 //
 // Joxer's Longsword: Void Heavy Burst Pulse (from Crucible)
 //notes:PvE Repulsor Brace + Withering Gaze for GMs and such. Shoot to Loot + Withering Gaze for utility.
+dimwishlist:item=157601190&perks=776531651,1134488199
+dimwishlist:item=157601190&perks=3700496672,1134488199
 //
 // Redrix's Estoc: Stasis PR-55 Pullse (from Competitive)
-//notes:PvP Pereptual Motion/Lone Wolf + Kill Clip or Encore + Desperado
+//notes:PvP Perpetual Motion/Lone Wolf + Kill Clip or Encore + Desperado
+dimwishlist:item=3218364298&perks=1428297954,1015611457
+dimwishlist:item=3218364298&perks=2579169598,1015611457
+dimwishlist:item=3218364298&perks=1195158366,3047969693
 //notes:PvE Demolitionist + Sword Logic/Headstone
+dimwishlist:item=3218364298&perks=3523296417,31345821
+dimwishlist:item=3218364298&perks=3523296417,124408337
 //
 // Exalted Truth: Void Adaptive Hand Cannon (from Trials)
 //notes:PvE Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
+dimwishlist:item=3436626079&perks=1134488199,776531651
+dimwishlist:item=3436626079&perks=1134488199,1464081238
+dimwishlist:item=3436626079&perks=2048641572,776531651
+dimwishlist:item=3436626079&perks=2048641572,1464081238
+// Exalted Truth (Adept): Void Adaptive Hand Cannon (from Trials)
+//notes:PvE Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
+dimwishlist:item=1201528146&perks=1134488199,776531651
+dimwishlist:item=1201528146&perks=1134488199,1464081238
+dimwishlist:item=1201528146&perks=2048641572,776531651
+dimwishlist:item=1201528146&perks=2048641572,1464081238
 //
 // Keen Thistle: Solar Aggressive Sniper (from Trials)
 //notes:PvE has way too many combos
+dimwishlist:item=1893967086&perks=4293542123,3978468247
+// Keen Thistle (Adept): Solar Aggressive Sniper (from Trials)
+//notes:PvE has way too many combos
+dimwishlist:item=3503560035&perks=4293542123,3978468247
 //
 // Warlord's Spear: Arc Adaptive Trace Rifle (from Iron Banner)
 //notes:PvE Envious Assassin/Rewind Rounds + Target Lock/FTTC/Jolting Feedback. JF is the best. Detonator Beam is very interesting.
+dimwishlist:item=1968711238&perks=968510818,365154968
+dimwishlist:item=1968711238&perks=968510818,1354429876
+dimwishlist:item=1968711238&perks=968510818,3966416502
+dimwishlist:item=1968711238&perks=968510818,3966416502
+dimwishlist:item=1968711238&perks=3418782618,4198902903
+dimwishlist:item=1968711238&perks=3418782618,1354429876
+dimwishlist:item=1968711238&perks=3418782618,3966416502
+dimwishlist:item=1968711238&perks=3418782618,4198902903
 //
 // Peacebond: Stasis Adaptive Burst Sidearm (from Iron Banner
 //notes:PvP Subsistence/Headstone + Frenzy
+dimwishlist:item=3437370193&perks=1820235745,4104185692
+dimwishlist:item=3437370193&perks=124408337,4104185692
 //
 // The Palindrome: Arc Adaptive Hand Cannon (from GMs)
 //notes:PvE Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
+dimwishlist:item=2876244791&perks=3038247973,3218042543
+dimwishlist:item=2876244791&perks=3038247973,3081867624
+dimwishlist:item=2876244791&perks=3713215006,3218042543
+// The Palindrome (Adept): Arc Adaptive Hand Cannon (from GMs)
+//notes:PvE Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
+dimwishlist:item=4077588826&perks=3038247973,3218042543
+dimwishlist:item=4077588826&perks=3038247973,3081867624
+dimwishlist:item=4077588826&perks=3713215006,3218042543
 //
 // Lotus-Eater: Void Rocket Sidearm (from GMs)
-//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All.
+//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
+dimwishlist:item=3922217119&perks=776531651,2048641572
+dimwishlist:item=3922217119&perks=776531651,1134488199
+dimwishlist:item=3922217119&perks=3700496672,2048641572
+dimwishlist:item=3922217119&perks=3700496672,1134488199
+dimwishlist:item=3922217119&perks=1523832109,4049631843
+// Lotus-Eater (Adept): Void Rocket Sidearm (from GMs)
+//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
+dimwishlist:item=2697143634&perks=776531651,2048641572
+dimwishlist:item=2697143634&perks=776531651,1134488199
+dimwishlist:item=2697143634&perks=3700496672,2048641572
+dimwishlist:item=2697143634&perks=3700496672,1134488199
+dimwishlist:item=2697143634&perks=1523832109,4049631843
+
+// Sundered Doctrine
+// Unsworn: Strand Adaptive Trace
+//notes: Shoot to Loot/Tear/Rewind Rounds +	Detonator Beam/Elemental Honing/Hatchling
+dimwishlist:item=1303313141&perks=3700496672,4198902903
+dimwishlist:item=1303313141&perks=960997401,4198902903
+dimwishlist:item=1303313141&perks=3418782618,4198902903
+dimwishlist:item=1303313141&perks=3700496672,1089671869
+dimwishlist:item=1303313141&perks=960997401,1089671869
+dimwishlist:item=1303313141&perks=3418782618,1089671869
+dimwishlist:item=1303313141&perks=3700496672,831391274
+dimwishlist:item=1303313141&perks=960997401,831391274
+dimwishlist:item=1303313141&perks=3418782618,831391274
 //
+// Unworthy: Arc Rapid-Fire Scout
+//notes: Firefly + Voltshot. Amazing origin trait
+dimwishlist:item=2226158470&perks=3824105627,2173046394
+//
+// Unloved: Strand Heavy Burst
+//notes: Rapid Hit/Dragonfly + Elemental Honing/Frenzy. Amazing origin trait
+dimwishlist:item=2485881870&perks=247725512,1089671869
+dimwishlist:item=2485881870&perks=2848615171,4104185692
+//
+// Unvoiced: Void Pinpoint Slug Shotgun
+//notes: Envious Arsenal/Redirection + Bait and Switch/Vorpal Weapon
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+dimwishlist:item=3360937899&perks=3201496230,1546637391
 
 // Season 25 Revenant
 //==========================================================================================
