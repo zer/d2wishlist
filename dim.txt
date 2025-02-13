@@ -197,18 +197,25 @@ dimwishlist:item=1303313141&perks=960997401,831391274
 dimwishlist:item=1303313141&perks=3418782618,831391274
 //
 // Unworthy: Arc Rapid-Fire Scout
-//notes: Firefly + Voltshot. Amazing origin trait
+//notes: Firefly + Voltshot/Frenzy/Rolling Storm, Rapid Hit + Voltshot/Rolling Storm. Amazing origin trait
 dimwishlist:item=2226158470&perks=3824105627,2173046394
+dimwishlist:item=2226158470&perks=3824105627,4104185692
+dimwishlist:item=2226158470&perks=3824105627,3218042543
+dimwishlist:item=2226158470&perks=247725512,2173046394
+dimwishlist:item=2226158470&perks=247725512,3218042543
 //
 // Unloved: Strand Heavy Burst
 //notes: Rapid Hit/Dragonfly + Elemental Honing/Frenzy. Amazing origin trait
 dimwishlist:item=2485881870&perks=247725512,1089671869
 dimwishlist:item=2485881870&perks=2848615171,4104185692
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+dimwishlist:item=2485881870&perks=1168162263,3215448563
 //
 // Unvoiced: Void Pinpoint Slug Shotgun
-//notes: Envious Arsenal/Redirection + Bait and Switch/Vorpal Weapon
+//notes: Envious Arsenal/Redirection + Bait and Switch/Vorpal Weapon and Destab + Demoralize. Redirection could potentially be the sleeper pick in conjunction with the origin trait.
 dimwishlist:item=3360937899&perks=3987942396,3078487919
 dimwishlist:item=3360937899&perks=3201496230,1546637391
+dimwishlist:item=3360937899&perks=2048641572,1464081238
 
 // Season 25 Revenant
 //==========================================================================================
