@@ -1,0 +1,65 @@
+/* s-tier */ is:weapon (
+	(is:grenadelauncher (exactperk:"area denial frame")) or
+	(is:rocketlauncher (exactperk:"aggressive frame"))
+)
+
+/* a-tier */ is:weapon (
+	(is:autorifle (exactperk:"support frame")) or
+	(is:grenadelauncher (exactperk:"micro-missle frame")) or
+	(is:handcannon (exactperk:"precision frame")) or
+	(is:heavygrenadelauncher (exactperk:"rapid-fire frame")) or
+	(is:rocketlauncher (exactperk:"adaptive frame")) or
+	(is:sidearm (exactperk:"rocket-assisted frame"))
+)
+
+/* b-tier */ is:weapon (
+	(is:autorifle (exactperk:"rapid-fire frame")) or
+	(is:grenadelauncher (exactperk:"double-fire frame" or exactperk:"wave frame")) or
+	(is:fusionrifle (exactperk:"rapid-fire frame")) or
+	(is:handcannon (exactperk:"adaptive frame" or exactperk:"heavy burst")) or
+	(is:heavygrenadelauncher (exactperk:"adaptive frame" or exactperk:"compressed wave frame")) or
+	(is:linearfusionrifle exactperk:"adaptive burst") or
+	(is:machinegun (exactperk:"high-impact frame")) or
+	(is:pulserifle (exactperk:"adaptive frame" or exactperk:"heavy burst" or exactperk:"lightweight frame" or exactperk:"rapid-fire frame")) or
+	(is:rocketlauncher (exactperk:"high-impact frame")) or
+	(is:scoutrifle (exactperk:"rapid-fire frame")) or
+	(is:shotgun (exactperk:"aggressive frame" or exactperk:"rapid-fire frame")) or
+	(is:sidearm (exactperk:"adpative burst" or exactperk:"heavy burst" or exactperk:"lightweight frame" or exactperk:"rapid-fire frame")) or
+	(is:sniperrifle exactperk:"rapid-fire frame") or
+	(is:sword (exactperk:"adaptive frame" or exactperk:"caster frame")) or
+	(is:tracerifle exactperk:"adaptive frame"))
+)
+
+/* c-tier */ is:weapon (
+	(is:autorifle (exactperk:"adaptive frame")) or
+	(is:grenadelauncher (exactperk:"lightweight frame")) or
+	(is:bow exactperk:"precision frame") or
+	(is:fusionrifle (exactperk:"aggressive frame" or exactperk:"high-impact frame")) or
+	(is:glaive (exactperk:"adaptive frame" or exactperk:"aggressive frame" or exactperk:"rapid-fire frame")) or
+	(is:handcannon (exactperk:"aggressive frame")) or
+	(is:linearfusionrifle exactperk:"adaptive burst") or
+	(is:machinegun (exactperk:"adaptive frame" or exactperk:"aggressive frame" or exactperk:"rapid-fire frame")) or
+	(is:pulserifle (exactperk:"aggressive burst" or exactperk:"high-impact frame")) or
+	(is:scoutrifle (exactperk:"rapid-fire frame")) or
+	(is:shotgun (exactperk:"lightweight frame" or exactperk:"pinpoint slug frame")) or
+	(is:sidearm (exactperk:"precision frame")) or
+	(is:sniperrifle exactperk:"aggressive frame") or
+	(is:sword (exactperk:"aggressive frame" or exactperk:"lightweight frame" or exactperk:"wave frame"))
+)
+
+/* D-Tier */ is:weapon (
+	(is:autorifle (exactperk:"high-impact frame" or exactperk:"precision frame")) or
+	(is:bow exactperk:"lightweight frame") or
+	(is:fusionrifle (exactperk:"adaptive frame" or exactperk:"precision frame")) or
+	(is:linearfusionrifle exactperk:"precision frame") or
+	(is:scoutrifle (exactperk:"high-impact frame" or exactperk:"lightweight frame" or exactperk:"precision frame")) or
+	(is:shotgun (exactperk:"heavy burstframe" or exactperk:"precision frame")) or
+	(is:smg (exactperk:"adaptive frame" or exactperk:"aggressive frame" or exactperk:"lightweight frame")) or
+	(is:sniperrifle exactperk:"adaptive frame") or
+	(is:sword exactperk:"vortex frame")
+)
+
+/* e-tier */ is:weapon (
+	(is:smg exactperk:"precision frame") or 
+	(is:scoutrifle exactperk:"aggressive frame")
+)
