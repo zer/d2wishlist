@@ -79,10 +79,14 @@ dimwishlist:item=751880654&perks=2779035018,4049631843
 dimwishlist:item=751880654&perks=3400784728,4049631843
 dimwishlist:item=751880654&perks=2779035018,1089671869
 dimwishlist:item=751880654&perks=3400784728,1089671869
-// Curoris FR 4: Arc Aggressive Fusion
+// Cruoris FR 4: Arc Aggressive Fusion
 dimwishlist:item=891996636&perks=3713215006,3218042543#notes: Recycled Energy + Rolling Storm for ability regen
 dimwishlist:item=891996636&perks=3978468247,4049631843#notes:Discord + One For All for add clear
 dimwishlist:item=891996636&perks=3978468247,3218042543#notes:Discord + Rolling Storm for a niche Bolt Charge build
+//notes:PvE God Roll: Discord + Elemental Honing. Idealy with charge time masterwork and Fluted Barrel + Enhanced Mag (and Rolling Storm backup)
+dimwishlist:item=891996636&perks=3978468247,1089671869
+dimwishlist:item=891996636&perks=1840239774,2680121939,3978468247,1089671869
+dimwishlist:item=891996636&perks=1840239774,2680121939,906981559,496047945
 // Admetus-D: Void High-Impact Scout
 //notes:heavy feeling gun, many interesting combos to try. Repulsor Brace + Withing Gaze/Demoralize, especially on Void builds
 dimwishlist:item=3776430252&perks=776531651,1134488199
