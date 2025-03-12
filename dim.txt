@@ -116,7 +116,7 @@ dimwishlist:item=694275488&perks=3987942396,1089671869
 dimwishlist:item=157601190&perks=776531651,1134488199
 dimwishlist:item=157601190&perks=3700496672,1134488199
 //
-// Redrix's Estoc: Stasis PR-55 Pullse (from Competitive)
+// Redrix's Estoc: Stasis PR-55 Pulse (from Competitive)
 //notes:PvP Perpetual Motion/Lone Wolf + Kill Clip or Encore + Desperado
 dimwishlist:item=3218364298&perks=1428297954,1015611457
 dimwishlist:item=3218364298&perks=2579169598,1015611457
