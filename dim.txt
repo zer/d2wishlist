@@ -51,11 +51,15 @@ dimwishlist:item=2671849376&perks=1966281507,2224838837
 dimwishlist:item=3269398063&perks=1966281507,2224838837
 dimwishlist:item=25228802&perks=1966281507,2224838837
 dimwishlist:item=2755584425&perks=1966281507,2224838837
-//notes: PvE melee ad clear - Replenishing Aegies + Disruption Break
+//notes: PvE melee ad clear - Replenishing Aegies + Disruption Break / Close to Melee
 dimwishlist:item=2671849376&perks=1966281507,1683379515
 dimwishlist:item=3269398063&perks=1966281507,1683379515
 dimwishlist:item=25228802&perks=1966281507,1683379515
 dimwishlist:item=2755584425&perks=1966281507,1683379515
+dimwishlist:item=2671849376&perks=1966281507,1782407750
+dimwishlist:item=3269398063&perks=1966281507,1782407750
+dimwishlist:item=25228802&perks=1966281507,1782407750
+dimwishlist:item=2755584425&perks=1966281507,1782407750
 
 // Season of Arrivals Reprised Weapons
 // tl;dr: they're all mostly bad
