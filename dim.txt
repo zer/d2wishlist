@@ -43,8 +43,19 @@ dimwishlist:item=1834313033&perks=3978468247,1427256713
 // Refusal of the Call: Strand Adaptive Glaive
 //notes: PvE ranged ad clear - Discord + Unstoppable Force
 dimwishlist:item=2671849376&perks=3978468247,2224838837
+dimwishlist:item=3269398063&perks=3978468247,2224838837
+dimwishlist:item=25228802&perks=3978468247,2224838837
+dimwishlist:item=2755584425&perks=3978468247,2224838837
 //notes: PvE high end content - Replenishing Aegis + Unstoppable Force
 dimwishlist:item=2671849376&perks=1966281507,2224838837
+dimwishlist:item=3269398063&perks=1966281507,2224838837
+dimwishlist:item=25228802&perks=1966281507,2224838837
+dimwishlist:item=2755584425&perks=1966281507,2224838837
+//notes: PvE melee ad clear - Replenishing Aegies + Disruption Break
+dimwishlist:item=2671849376&perks=1966281507,1683379515
+dimwishlist:item=3269398063&perks=1966281507,1683379515
+dimwishlist:item=25228802&perks=1966281507,1683379515
+dimwishlist:item=2755584425&perks=1966281507,1683379515
 
 // Season of Arrivals Reprised Weapons
 // tl;dr: they're all mostly bad
