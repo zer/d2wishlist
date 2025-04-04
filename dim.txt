@@ -78,6 +78,9 @@ dimwishlist:item=1390080550&perks=3828510309,124408337
 dimwishlist:item=1390080550&perks=1771736209,1171887445
 // Temptation's Hook: Arc Caster Sword
 dimwishlist:item=1587953057&perks=1749209109,2396489472#notes:PvE Tireless Strikes + Chain Reaction
+//notes: PvE Attrition Orbs + Chain Reaction/Whirling Blade
+dimwishlist:item=1587953057&perks=243981275,2396489472
+dimwishlist:item=1587953057&perks=243981275,3913600130
 
 
 // World Drops
