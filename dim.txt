@@ -253,6 +253,134 @@ dimwishlist:item=14929251&perks=3713215006,3218042543
 dimwishlist:item=4249949938&perks=3713215006,3218042543
 dimwishlist:item=1905934655&perks=3713215006,3218042543
 dimwishlist:item=3421639790&perks=3713215006,3218042543
+//
+// Liminal Vigil: Stasis Heavy Burst Sidearm
+//notes:PvE Headstone/Enlightened Action + Desperate Measures
+dimwishlist:item=1460079227&perks=124408337,2109543898
+dimwishlist:item=1460079227&perks=3828510309,2109543898
+dimwishlist:item=1905934655&perks=124408337,2109543898
+dimwishlist:item=1905934655&perks=3828510309,2109543898
+dimwishlist:item=2575844666&perks=124408337,2109543898
+dimwishlist:item=2575844666&perks=3828510309,2109543898
+dimwishlist:item=3421639790&perks=124408337,2109543898
+dimwishlist:item=3421639790&perks=3828510309,2109543898
+//
+// Wilderflight: Void Double Fire Grenade Launcher
+//notes:PvE Envious Arsenal + Bait and Switch for DPS rotations
+dimwishlist:item=559523765&perks=3987942396,3078487919
+dimwishlist:item=1206729100&perks=3987942396,3078487919
+dimwishlist:item=2477408004&perks=3987942396,3078487919
+dimwishlist:item=2982006965&perks=3987942396,3078487919
+//notes:PvE Auto-Loading Holster/Demolitionist + Lead from Gold/Frenzy
+dimwishlist:item=559523765&perks=3300816228,1556840489
+dimwishlist:item=559523765&perks=3300816228,4104185692
+dimwishlist:item=559523765&perks=3523296417,1556840489
+dimwishlist:item=559523765&perks=3523296417,4104185692
+dimwishlist:item=1206729100&perks=3300816228,1556840489
+dimwishlist:item=1206729100&perks=3300816228,4104185692
+dimwishlist:item=1206729100&perks=3523296417,1556840489
+dimwishlist:item=1206729100&perks=3523296417,4104185692
+dimwishlist:item=2477408004&perks=3300816228,1556840489
+dimwishlist:item=2477408004&perks=3300816228,4104185692
+dimwishlist:item=2477408004&perks=3523296417,1556840489
+dimwishlist:item=2477408004&perks=3523296417,4104185692
+dimwishlist:item=2982006965&perks=3300816228,1556840489
+dimwishlist:item=2982006965&perks=3300816228,4104185692
+dimwishlist:item=2982006965&perks=3523296417,1556840489
+dimwishlist:item=2982006965&perks=3523296417,4104185692
+//
+// Terminus Horizon: Arc High-Impact Machine Gun
+//notes:PvE tons of decent rolls. Demolitionist + Rolling Storm is the unique combo here. Maybe Dragonfly + Rolling Storm
+dimwishlist:item=2210806903&perks=3523296417,3218042543
+dimwishlist:item=2730671571&perks=3523296417,3218042543
+dimwishlist:item=3984556130&perks=3523296417,3218042543
+dimwishlist:item=4267192886&perks=3523296417,3218042543
+//
+// Cold Comfort: Stasis Aggressive Rocket Launcher
+//notes:PvE Envious Arsenal + Bait and Switch/Elemental Honing or Reconstruction + Bipod
+dimwishlist:item=291447487&perks=3987942396,3078487919
+dimwishlist:item=291447487&perks=3987942396,1089671869
+dimwishlist:item=291447487&perks=1523832109,1439600632
+dimwishlist:item=1817605554&perks=3987942396,3078487919
+dimwishlist:item=1817605554&perks=3987942396,1089671869
+dimwishlist:item=1817605554&perks=1523832109,1439600632
+dimwishlist:item=2126543269&perks=3987942396,3078487919
+dimwishlist:item=2126543269&perks=3987942396,1089671869
+dimwishlist:item=2126543269&perks=1523832109,1439600632
+dimwishlist:item=2760833884&perks=3987942396,3078487919
+dimwishlist:item=2760833884&perks=3987942396,1089671869
+dimwishlist:item=2760833884&perks=1523832109,1439600632
+//
+// Greasy Luck: Solar Rapid-Fire Glaive
+//notes:PvE Lead From Gold + Incandescent
+dimwishlist:item=1050582210&perks=1556840489,4293542123
+dimwishlist:item=1685406703&perks=1556840489,4293542123
+dimwishlist:item=2934305134&perks=1556840489,4293542123
+dimwishlist:item=3210739171&perks=1556840489,4293542123
+//
+// No Survivors: Solar Aggressive Submachine Gun
+//notes:PvE Attrition Orbs + Incandescent
+dimwishlist:item=189194532&perks=243981275,4293542123
+dimwishlist:item=1157220231&perks=243981275,4293542123
+dimwishlist:item=4193602194&perks=243981275,4293542123
+dimwishlist:item=4228149269&perks=243981275,4293542123
+//
+// New Pacific Epitaph: Stasis Wave Frame Grenade Launcher
+//notes:PvE Demolitionist + Redirection/Chain Reaction or Lead From Gold + Chain Reaction
+dimwishlist:item=233402416&perks=3523296417,3201496230
+dimwishlist:item=233402416&perks=3523296417,2396489472
+dimwishlist:item=233402416&perks=1556840489,2396489472
+dimwishlist:item=492673102&perks=3523296417,3201496230
+dimwishlist:item=492673102&perks=3523296417,2396489472
+dimwishlist:item=492673102&perks=1556840489,2396489472
+dimwishlist:item=2059741649&perks=3523296417,3201496230
+dimwishlist:item=2059741649&perks=3523296417,2396489472
+dimwishlist:item=2059741649&perks=1556840489,2396489472
+dimwishlist:item=3185151619&perks=3523296417,3201496230
+dimwishlist:item=3185151619&perks=3523296417,2396489472
+dimwishlist:item=3185151619&perks=1556840489,2396489472
+//
+// Prosecutor: Arc Precision Auto Rifle
+//notes:PvE Dragonfly + Voltshot for big AoE
+dimwishlist:item=749483159&perks=2848615171,2173046394
+dimwishlist:item=880829467&perks=2848615171,2173046394
+dimwishlist:item=2129814338&perks=2848615171,2173046394
+dimwishlist:item=4025177550&perks=2848615171,2173046394
+//
+// Relentless: Strand High-Impact Pulse Rifle
+//notes:PvE Firefly + Hatchling for double splash on Precision Kills
+dimwishlist:item=1066598837&perks=3824105627,831391274
+dimwishlist:item=1827058652&perks=3824105627,831391274
+dimwishlist:item=3681280908&perks=3824105627,831391274
+dimwishlist:item=3733988413&perks=3824105627,831391274
+//notes:PvP Slice + Headseeker
+dimwishlist:item=1066598837&perks=923806249,460017080
+dimwishlist:item=1827058652&perks=923806249,460017080
+dimwishlist:item=3681280908&perks=923806249,460017080
+dimwishlist:item=3733988413&perks=923806249,460017080
+//
+// Judgement: Stasis Adaptive Hand Cannon
+//notes:PvE not great. Headstone/Demolitionist + Timed Payload. Timed Payload is decent for GMs against Overload Champions
+dimwishlist:item=1987644603&perks=124408337,1954620775
+dimwishlist:item=1987644603&perks=3523296417,1954620775
+dimwishlist:item=3329218848&perks=124408337,1954620775
+dimwishlist:item=3329218848&perks=3523296417,1954620775
+dimwishlist:item=1773934241&perks=124408337,1954620775
+dimwishlist:item=1773934241&perks=3523296417,1954620775
+dimwishlist:item=2226572694&perks=124408337,1954620775
+dimwishlist:item=2226572694&perks=3523296417,1954620775
+//
+// A Sudden Death: Void Aggressive Shotgun
+//notes:PvE 1-2-Punch + Trench Barrel is unique
+dimwishlist:item=1626437786&perks=2679249093,2360754333
+dimwishlist:item=1904170910&perks=2679249093,2360754333
+dimwishlist:item=1976481399&perks=2679249093,2360754333
+dimwishlist:item=2764074355&perks=2679249093,2360754333
+//notes:PvE Discord + Redirection
+dimwishlist:item=1626437786&perks=3978468247,3201496230
+dimwishlist:item=1904170910&perks=3978468247,3201496230
+dimwishlist:item=1976481399&perks=3978468247,3201496230
+dimwishlist:item=2764074355&perks=3978468247,3201496230
 
 // Season 25 Revenant
 //==========================================================================================
