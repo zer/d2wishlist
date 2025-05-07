@@ -239,6 +239,21 @@ dimwishlist:item=3360937899&perks=3987942396,3078487919
 dimwishlist:item=3360937899&perks=3201496230,1546637391
 dimwishlist:item=3360937899&perks=2048641572,1464081238
 
+// Rite of the Nines reprised weapons
+// 4 versions of each weapon again... normal, shiny, adept, shiny adept
+//
+// Long Arm: Arc Aggressive Scout
+//notes:PvE Subsistence + Explosive Payload
+dimwishlist:item=14929251&perks=1820235745,3038247973
+dimwishlist:item=4249949938&perks=1820235745,3038247973
+dimwishlist:item=1905934655&perks=1820235745,3038247973
+dimwishlist:item=3421639790&perks=1820235745,3038247973
+//notes:PvE Recycled Energy + Rolling Storm. RE could play nicely with the quick reload.
+dimwishlist:item=14929251&perks=3713215006,3218042543
+dimwishlist:item=4249949938&perks=3713215006,3218042543
+dimwishlist:item=1905934655&perks=3713215006,3218042543
+dimwishlist:item=3421639790&perks=3713215006,3218042543
+
 // Season 25 Revenant
 //==========================================================================================
 //
