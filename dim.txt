@@ -7,7 +7,7 @@
 // triple pattern: 1st line: 2/4 roll. 2nd line: 4/4 roll. 3rd line: 4/4 roll enhanced.
 //
 // Adamantite: Stand Support Frame Auto Rifle
-//notes:PvE Healer Build - Reciprocity + Circle of Life --- ideally reload masterwork
+//notes: PvE: Healer Build - Reciprocity + Circle of Life --- ideally reload masterwork
 dimwishlist:item=2987244302&perks=692399809,2298656195
 dimwishlist:item=2987244302&perks=1482024992,3230963543,692399809,2298656195
 dimwishlist:item=2987244302&perks=1482024992,3230963543,4070834277,674546187
@@ -69,7 +69,7 @@ dimwishlist:item=-342027677#notes:there are better arc fusions
 // Cold Denial: Kinetic High Impact Pulse 
 dimwishlist:item=-558794124#notes:just use Bygones
 // Whispering Slab: Kinetic Lightweight Bow
-//notes:PvE Anti-Champion Archer's Tempo + Vorpal. maybe... or just use Accrued Redemption
+//notes: PvE: Anti-Champion Archer's Tempo + Vorpal. maybe... or just use Accrued Redemption
 dimwishlist:item=690341468&perks=201365942,1546637391
 dimwishlist:item=690341468&perks=3523746922,3418165135
 // False Promises: Stasis High Impact Auto
@@ -77,7 +77,7 @@ dimwishlist:item=690341468&perks=3523746922,3418165135
 dimwishlist:item=1390080550&perks=3828510309,124408337
 dimwishlist:item=1390080550&perks=1771736209,1171887445
 // Temptation's Hook: Arc Caster Sword
-dimwishlist:item=1587953057&perks=1749209109,2396489472#notes:PvE Tireless Strikes + Chain Reaction
+dimwishlist:item=1587953057&perks=1749209109,2396489472#notes: PvE: Tireless Strikes + Chain Reaction
 //notes: PvE Attrition Orbs + Chain Reaction/Whirling Blade
 dimwishlist:item=1587953057&perks=243981275,2396489472
 dimwishlist:item=1587953057&perks=243981275,3913600130
@@ -101,7 +101,7 @@ dimwishlist:item=751880654&perks=3400784728,1089671869
 dimwishlist:item=891996636&perks=3713215006,3218042543#notes: Recycled Energy + Rolling Storm for ability regen
 dimwishlist:item=891996636&perks=3978468247,4049631843#notes:Discord + One For All for add clear
 dimwishlist:item=891996636&perks=3978468247,3218042543#notes:Discord + Rolling Storm for a niche Bolt Charge build
-//notes:PvE God Roll: Discord + Elemental Honing. Idealy with charge time masterwork and Fluted Barrel + Enhanced Mag (and Rolling Storm backup)
+//notes: PvE: God Roll: Discord + Elemental Honing. Idealy with charge time masterwork and Fluted Barrel + Enhanced Mag (and Rolling Storm backup)
 dimwishlist:item=891996636&perks=1840239774,2680121939,906981559,496047945
 dimwishlist:item=891996636&perks=1840239774,2680121939,3978468247,1089671869
 dimwishlist:item=891996636&perks=3978468247,1089671869
@@ -117,7 +117,7 @@ dimwishlist:item=3776430252&perks=3713215006,4104185692
 // Playlist weapons
 //
 // Backfang: Arc Rapid-Fire Glaive (from Gambit)
-//notes:PvE Replenishing Aegis + Jolting Feedback for best utility or Grave Robber/Melee Momentum + Swashbuckler/Close to Melee for general play
+//notes: PvE: Replenishing Aegis + Jolting Feedback for best utility or Grave Robber/Melee Momentum + Swashbuckler/Close to Melee for general play
 dimwishlist:item=267672635&perks=1966281507,3966416502
 dimwishlist:item=267672635&perks=1631667848,4082225868
 dimwishlist:item=267672635&perks=1631667848,1782407750
@@ -125,46 +125,46 @@ dimwishlist:item=267672635&perks=3773585912,4082225868
 dimwishlist:item=267672635&perks=3773585912,1782407750
 //
 // Cynosure: Strand Adaptive Rocket Launcher (from Vanguard)
-//notes:PvE Overflow + Bipod for tons of rockets. Envious Arsenal + Elemental Honing for crazy damage with the right setup
+//notes: PvE: Overflow + Bipod for tons of rockets. Envious Arsenal + Elemental Honing for crazy damage with the right setup
 dimwishlist:item=694275488&perks=3643424744,1439600632
 dimwishlist:item=694275488&perks=3987942396,1089671869
 //
 // Joxer's Longsword: Void Heavy Burst Pulse (from Crucible)
-//notes:PvE Repulsor Brace + Withering Gaze for GMs and such. Shoot to Loot + Withering Gaze for utility.
+//notes: PvE: Repulsor Brace + Withering Gaze for GMs and such. Shoot to Loot + Withering Gaze for utility.
 dimwishlist:item=157601190&perks=776531651,1134488199
 dimwishlist:item=157601190&perks=3700496672,1134488199
 //
 // Redrix's Estoc: Stasis PR-55 Pulse (from Competitive)
-//notes:PvP Perpetual Motion/Lone Wolf + Kill Clip or Encore + Desperado
+//notes: PvP: Perpetual Motion/Lone Wolf + Kill Clip or Encore + Desperado
 dimwishlist:item=3218364298&perks=1428297954,1015611457
 dimwishlist:item=3218364298&perks=2579169598,1015611457
 dimwishlist:item=3218364298&perks=1195158366,3047969693
-//notes:PvE Demolitionist + Sword Logic/Headstone
+//notes: PvE: Demolitionist + Sword Logic/Headstone
 dimwishlist:item=3218364298&perks=3523296417,31345821
 dimwishlist:item=3218364298&perks=3523296417,124408337
 //
 // Exalted Truth: Void Adaptive Hand Cannon (from Trials)
-//notes:PvE Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
+//notes: PvE: Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
 dimwishlist:item=3436626079&perks=1134488199,776531651
 dimwishlist:item=3436626079&perks=1134488199,1464081238
 dimwishlist:item=3436626079&perks=2048641572,776531651
 dimwishlist:item=3436626079&perks=2048641572,1464081238
 // Exalted Truth (Adept): Void Adaptive Hand Cannon (from Trials)
-//notes:PvE Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
+//notes: PvE: Withering Gaze/Destabilizing Rounds + Repulsor Brace/Demoralize
 dimwishlist:item=1201528146&perks=1134488199,776531651
 dimwishlist:item=1201528146&perks=1134488199,1464081238
 dimwishlist:item=1201528146&perks=2048641572,776531651
 dimwishlist:item=1201528146&perks=2048641572,1464081238
 //
 // Keen Thistle: Solar Aggressive Sniper (from Trials)
-//notes:PvE has way too many combos
+//notes: PvE: has way too many combos
 dimwishlist:item=1893967086&perks=4293542123,3978468247
 // Keen Thistle (Adept): Solar Aggressive Sniper (from Trials)
-//notes:PvE has way too many combos
+//notes: PvE: has way too many combos
 dimwishlist:item=3503560035&perks=4293542123,3978468247
 //
 // Warlord's Spear: Arc Adaptive Trace Rifle (from Iron Banner)
-//notes:PvE Envious Assassin/Rewind Rounds + Target Lock/FTTC/Jolting Feedback. JF is the best. Detonator Beam is very interesting.
+//notes: PvE: Envious Assassin/Rewind Rounds + Target Lock/FTTC/Jolting Feedback. JF is the best. Detonator Beam is very interesting.
 dimwishlist:item=1968711238&perks=968510818,365154968
 dimwishlist:item=1968711238&perks=968510818,1354429876
 dimwishlist:item=1968711238&perks=968510818,3966416502
@@ -175,30 +175,30 @@ dimwishlist:item=1968711238&perks=3418782618,3966416502
 dimwishlist:item=1968711238&perks=3418782618,4198902903
 //
 // Peacebond: Stasis Adaptive Burst Sidearm (from Iron Banner
-//notes:PvP Subsistence/Headstone + Frenzy
+//notes: PvP: Subsistence/Headstone + Frenzy
 dimwishlist:item=3437370193&perks=1820235745,4104185692
 dimwishlist:item=3437370193&perks=124408337,4104185692
 //
 // The Palindrome: Arc Adaptive Hand Cannon (from GMs)
-//notes:PvE Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
+//notes: PvE: Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
 dimwishlist:item=2876244791&perks=3038247973,3218042543
 dimwishlist:item=2876244791&perks=3038247973,3081867624
 dimwishlist:item=2876244791&perks=3713215006,3218042543
 // The Palindrome (Adept): Arc Adaptive Hand Cannon (from GMs)
-//notes:PvE Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
+//notes: PvE: Explosive Payload + Rolling Storm/Master of Arms. Or Recycled Energy + Rolling Storm
 dimwishlist:item=4077588826&perks=3038247973,3218042543
 dimwishlist:item=4077588826&perks=3038247973,3081867624
 dimwishlist:item=4077588826&perks=3713215006,3218042543
 //
 // Lotus-Eater: Void Rocket Sidearm (from GMs)
-//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
+//notes: PvE: Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
 dimwishlist:item=3922217119&perks=776531651,2048641572
 dimwishlist:item=3922217119&perks=776531651,1134488199
 dimwishlist:item=3922217119&perks=3700496672,2048641572
 dimwishlist:item=3922217119&perks=3700496672,1134488199
 dimwishlist:item=3922217119&perks=1523832109,4049631843
 // Lotus-Eater (Adept): Void Rocket Sidearm (from GMs)
-//notes:PvE Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
+//notes: PvE: Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Withering Gaze. Reconstruction + One For All especially for Gyrfalcons.
 dimwishlist:item=2697143634&perks=776531651,2048641572
 dimwishlist:item=2697143634&perks=776531651,1134488199
 dimwishlist:item=2697143634&perks=3700496672,2048641572
@@ -206,7 +206,7 @@ dimwishlist:item=2697143634&perks=3700496672,1134488199
 dimwishlist:item=2697143634&perks=1523832109,4049631843
 //
 // Cruel Mercy: Arc Heavy Burst Pulse (from Nightfalls)
-//notes:PvE Dragonfly/Eddy Current/Demolitionist + Rolling Storm/Frenzy
+//notes: PvE: Dragonfly/Eddy Current/Demolitionist + Rolling Storm/Frenzy
 dimwishlist:item=233635202&perks=2848615171,3218042543
 dimwishlist:item=233635202&perks=2848615171,4104185692
 dimwishlist:item=233635202&perks=3523296417,3218042543
@@ -214,7 +214,7 @@ dimwishlist:item=233635202&perks=3523296417,4104185692
 dimwishlist:item=233635202&perks=684456054,3218042543
 dimwishlist:item=233635202&perks=684456054,4104185692
 // Cruel Mercy (Adept): Arc Heavy Burst Pulse (from Nightfalls)
-//notes:PvE Dragonfly/Eddy Current/Demolitionist + Rolling Storm/Frenzy
+//notes: PvE: Dragonfly/Eddy Current/Demolitionist + Rolling Storm/Frenzy
 dimwishlist:item=2347178967&perks=2848615171,3218042543
 dimwishlist:item=2347178967&perks=2848615171,4104185692
 dimwishlist:item=2347178967&perks=3523296417,3218042543
@@ -223,17 +223,17 @@ dimwishlist:item=2347178967&perks=684456054,3218042543
 dimwishlist:item=2347178967&perks=684456054,4104185692
 //
 // Nature Reclaimed: Solar Lightweight Scout (from Irom Banner)
-//notes:PvE Heal Clip + Incandescent or Shoot to Loot + Explosive Payload
+//notes: PvE: Heal Clip + Incandescent or Shoot to Loot + Explosive Payload
 dimwishlist:item=2639921391&perks=3017780555,4293542123
 dimwishlist:item=2639921391&perks=3700496672,3038247973
 //
 // The Inquisitor: Arc Slug Shotgun (from Trials)
-//notes:PvE Envious Assassin + Bait and Switch/Cascade Point/Precision Instrument
+//notes: PvE: Envious Assassin + Bait and Switch/Cascade Point/Precision Instrument
 dimwishlist:item=51129316&perks=968510818,3078487919
 dimwishlist:item=51129316&perks=968510818,3751912585
 dimwishlist:item=51129316&perks=968510818,555281244
 // The Inquisitor (Adept): Arc Slug Shotgun (from Trials)
-//notes:PvE Envious Assassin + Bait and Switch/Cascade Point/Precision Instrument
+//notes: PvE: Envious Assassin + Bait and Switch/Cascade Point/Precision Instrument
 dimwishlist:item=2330860573&perks=968510818,3078487919
 dimwishlist:item=2330860573&perks=968510818,3751912585
 dimwishlist:item=2330860573&perks=968510818,555281244
@@ -277,12 +277,12 @@ dimwishlist:item=3360937899&perks=2048641572,1464081238
 // 4 versions of each weapon again... normal, shiny, adept, shiny adept
 //
 // Long Arm: Arc Aggressive Scout
-//notes:PvE Subsistence + Explosive Payload
+//notes: PvE: Subsistence + Explosive Payload
 dimwishlist:item=14929251&perks=1820235745,3038247973
 dimwishlist:item=3692140710&perks=1820235745,3038247973
 dimwishlist:item=4239378215&perks=1820235745,3038247973
 dimwishlist:item=4249949938&perks=1820235745,3038247973
-//notes:PvE Recycled Energy + Rolling Storm. RE could play nicely with the quick reload.
+//notes: PvE: Recycled Energy + Rolling Storm. RE could play nicely with the quick reload.
 dimwishlist:item=14929251&perks=3713215006,3218042543
 dimwishlist:item=3692140710&perks=3713215006,3218042543
 dimwishlist:item=4239378215&perks=3713215006,3218042543
@@ -290,7 +290,7 @@ dimwishlist:item=4249949938&perks=3713215006,3218042543
 
 //
 // Liminal Vigil: Stasis Heavy Burst Sidearm
-//notes:PvE Headstone/Enlightened Action + Desperate Measures
+//notes: PvE: Headstone/Enlightened Action + Desperate Measures
 dimwishlist:item=1460079227&perks=124408337,2109543898
 dimwishlist:item=1460079227&perks=3828510309,2109543898
 dimwishlist:item=1905934655&perks=124408337,2109543898
@@ -301,7 +301,7 @@ dimwishlist:item=3421639790&perks=124408337,2109543898
 dimwishlist:item=3421639790&perks=3828510309,2109543898
 //
 // Wilderflight: Void Double Fire Grenade Launcher
-//notes:PvE Envious Arsenal + Bait and Switch/Frenzy for DPS rotations (ideally with Spike Grenades). Frenzy boosts handling, can be almost as good as BnS.
+//notes: PvE: Envious Arsenal + Bait and Switch/Frenzy for DPS rotations (ideally with Spike Grenades). Frenzy boosts handling, can be almost as good as BnS.
 dimwishlist:item=559523765&perks=3987942396,3078487919
 dimwishlist:item=1206729100&perks=3987942396,3078487919
 dimwishlist:item=2477408004&perks=3987942396,3078487919
@@ -310,7 +310,20 @@ dimwishlist:item=559523765&perks=3987942396,4104185692
 dimwishlist:item=1206729100&perks=3987942396,4104185692
 dimwishlist:item=2477408004&perks=3987942396,4104185692
 dimwishlist:item=2982006965&perks=3987942396,4104185692
-//notes:PvE Auto-Loading Holster/Demolitionist + Lead from Gold/Frenzy
+//notes: PvE: Slideshot + Frenzy/Destabilizing Rounds/Withering Gaze. Maybe paired with Disorienting Grenades.
+dimwishlist:item=559523765&perks=3161816588,4104185692
+dimwishlist:item=559523765&perks=3161816588,2048641572
+dimwishlist:item=559523765&perks=3161816588,1134488199
+dimwishlist:item=1206729100&perks=3161816588,4104185692
+dimwishlist:item=1206729100&perks=3161816588,2048641572
+dimwishlist:item=1206729100&perks=3161816588,1134488199
+dimwishlist:item=2477408004&perks=3161816588,4104185692
+dimwishlist:item=2477408004&perks=3161816588,2048641572
+dimwishlist:item=2477408004&perks=3161816588,1134488199
+dimwishlist:item=2982006965&perks=3161816588,4104185692
+dimwishlist:item=2982006965&perks=3161816588,2048641572
+dimwishlist:item=2982006965&perks=3161816588,1134488199
+//notes: PvE: Auto-Loading Holster/Demolitionist + Lead from Gold/Frenzy
 dimwishlist:item=559523765&perks=3300816228,1556840489
 dimwishlist:item=559523765&perks=3300816228,4104185692
 dimwishlist:item=559523765&perks=3523296417,1556840489
@@ -327,29 +340,16 @@ dimwishlist:item=2982006965&perks=3300816228,1556840489
 dimwishlist:item=2982006965&perks=3300816228,4104185692
 dimwishlist:item=2982006965&perks=3523296417,1556840489
 dimwishlist:item=2982006965&perks=3523296417,4104185692
-//notes: PvE: Slideshot + Frenzy/Destabilizing Rounds/Withering Gaze. Maybe paired with Disorienting Grenades.
-dimwishlist:item=559523765&perks=3161816588,4104185692
-dimwishlist:item=559523765&perks=3161816588,2048641572
-dimwishlist:item=559523765&perks=3161816588,1134488199
-dimwishlist:item=1206729100&perks=3161816588,4104185692
-dimwishlist:item=1206729100&perks=3161816588,2048641572
-dimwishlist:item=1206729100&perks=3161816588,1134488199
-dimwishlist:item=2477408004&perks=3161816588,4104185692
-dimwishlist:item=2477408004&perks=3161816588,2048641572
-dimwishlist:item=2477408004&perks=3161816588,1134488199
-dimwishlist:item=2982006965&perks=3161816588,4104185692
-dimwishlist:item=2982006965&perks=3161816588,2048641572
-dimwishlist:item=2982006965&perks=3161816588,1134488199
 //
 // Terminus Horizon: Arc High-Impact Machine Gun
-//notes:PvE tons of decent rolls. Demolitionist + Rolling Storm is the unique combo here. Maybe Dragonfly + Rolling Storm
+//notes: PvE: tons of decent rolls. Demolitionist + Rolling Storm is the unique combo here. Maybe Dragonfly + Rolling Storm
 dimwishlist:item=2210806903&perks=3523296417,3218042543
 dimwishlist:item=2730671571&perks=3523296417,3218042543
 dimwishlist:item=3984556130&perks=3523296417,3218042543
 dimwishlist:item=4267192886&perks=3523296417,3218042543
 //
 // Cold Comfort: Stasis Aggressive Rocket Launcher
-//notes:PvE Envious Arsenal + Bait and Switch/Elemental Honing or Reconstruction + Bipod
+//notes: PvE: Envious Arsenal + Bait and Switch/Elemental Honing or Reconstruction + Bipod
 dimwishlist:item=291447487&perks=3987942396,3078487919
 dimwishlist:item=291447487&perks=3987942396,1089671869
 dimwishlist:item=291447487&perks=1523832109,1439600632
@@ -364,21 +364,21 @@ dimwishlist:item=2760833884&perks=3987942396,1089671869
 dimwishlist:item=2760833884&perks=1523832109,1439600632
 //
 // Greasy Luck: Solar Rapid-Fire Glaive
-//notes:PvE Lead From Gold + Incandescent
+//notes: PvE: Lead From Gold + Incandescent
 dimwishlist:item=1050582210&perks=1556840489,4293542123
 dimwishlist:item=1685406703&perks=1556840489,4293542123
 dimwishlist:item=2934305134&perks=1556840489,4293542123
 dimwishlist:item=3210739171&perks=1556840489,4293542123
 //
 // No Survivors: Solar Aggressive Submachine Gun
-//notes:PvE Attrition Orbs + Incandescent
+//notes: PvE: Attrition Orbs + Incandescent
 dimwishlist:item=189194532&perks=243981275,4293542123
 dimwishlist:item=1157220231&perks=243981275,4293542123
 dimwishlist:item=4193602194&perks=243981275,4293542123
 dimwishlist:item=4228149269&perks=243981275,4293542123
 //
 // New Pacific Epitaph: Stasis Wave Frame Grenade Launcher
-//notes:PvE Demolitionist + Redirection/Chain Reaction or Lead From Gold + Chain Reaction
+//notes: PvE: Demolitionist + Redirection/Chain Reaction or Lead From Gold + Chain Reaction
 dimwishlist:item=233402416&perks=3523296417,3201496230
 dimwishlist:item=233402416&perks=3523296417,2396489472
 dimwishlist:item=233402416&perks=1556840489,2396489472
@@ -393,26 +393,26 @@ dimwishlist:item=3185151619&perks=3523296417,2396489472
 dimwishlist:item=3185151619&perks=1556840489,2396489472
 //
 // Prosecutor: Arc Precision Auto Rifle
-//notes:PvE Dragonfly + Voltshot for big AoE
+//notes: PvE: Dragonfly + Voltshot for big AoE
 dimwishlist:item=749483159&perks=2848615171,2173046394
 dimwishlist:item=880829467&perks=2848615171,2173046394
 dimwishlist:item=2129814338&perks=2848615171,2173046394
 dimwishlist:item=4025177550&perks=2848615171,2173046394
 //
 // Relentless: Strand High-Impact Pulse Rifle
-//notes:PvE Firefly + Hatchling for double splash on Precision Kills
+//notes: PvE: Firefly + Hatchling for double splash on Precision Kills
 dimwishlist:item=1066598837&perks=3824105627,831391274
 dimwishlist:item=1827058652&perks=3824105627,831391274
 dimwishlist:item=3681280908&perks=3824105627,831391274
 dimwishlist:item=3733988413&perks=3824105627,831391274
-//notes:PvP Slice + Headseeker
+//notes: PvP: Slice + Headseeker
 dimwishlist:item=1066598837&perks=923806249,460017080
 dimwishlist:item=1827058652&perks=923806249,460017080
 dimwishlist:item=3681280908&perks=923806249,460017080
 dimwishlist:item=3733988413&perks=923806249,460017080
 //
 // Judgement: Stasis Adaptive Hand Cannon
-//notes:PvE not great. Headstone/Demolitionist + Timed Payload. Timed Payload is decent for GMs against Overload Champions
+//notes: PvE: not great. Headstone/Demolitionist + Timed Payload. Timed Payload is decent for GMs against Overload Champions
 dimwishlist:item=1987644603&perks=124408337,1954620775
 dimwishlist:item=1987644603&perks=3523296417,1954620775
 dimwishlist:item=3329218848&perks=124408337,1954620775
@@ -423,12 +423,12 @@ dimwishlist:item=2226572694&perks=124408337,1954620775
 dimwishlist:item=2226572694&perks=3523296417,1954620775
 //
 // A Sudden Death: Void Aggressive Shotgun
-//notes:PvE 1-2-Punch + Trench Barrel is unique
+//notes: PvE: 1-2-Punch + Trench Barrel is unique
 dimwishlist:item=1626437786&perks=2679249093,2360754333
 dimwishlist:item=1904170910&perks=2679249093,2360754333
 dimwishlist:item=1976481399&perks=2679249093,2360754333
 dimwishlist:item=2764074355&perks=2679249093,2360754333
-//notes:PvE Discord + Redirection
+//notes: PvE: Discord + Redirection
 dimwishlist:item=1626437786&perks=3978468247,3201496230
 dimwishlist:item=1904170910&perks=3978468247,3201496230
 dimwishlist:item=1976481399&perks=3978468247,3201496230
@@ -522,28 +522,28 @@ dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3650930298
 
 // Vanguard
 // Rake Angle (stasis aggressive glaive)
-//notes:PvE and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
+//notes: PvE: and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
 dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579
 dimwishlist:item=2298039571&perks=594346985,679225683,951095735,2978966579
 // Rake Angle (Adept) (stasis aggressive glaive)
-//notes:PvE and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
+//notes: PvE: and PvP god roll with Impulse Amplifier + Chill Clip|tags:pve,pvp
 dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
 dimwishlist:item=3997086838&perks=594346985,679225683,951095735,2978966579
 // Plug One.1 (arc aggressive frame fusion rifle)
-dimwishlist:item=3293524502&perks=1523832109,1427256713#notes:pve god roll: reconstruction+reservoir burst
+dimwishlist:item=3293524502&perks=1523832109,1427256713#notes: PvE: god roll: reconstruction+reservoir burst
 //notes: pvp god rolls. slideways/under pressure + kickstart/closing time
 dimwishlist:item=3293524502&perks=2039302152,1754714824
 dimwishlist:item=3293524502&perks=1645158859,1754714824
 dimwishlist:item=3293524502&perks=1645158859,1194056669
 // Plug One.1 (Adept) (arc aggressive frame fusion rifle)
-dimwishlist:item=3106557243&perks=1523832109,1427256713#notes:pve god roll: reconstruction+reservoir burst
+dimwishlist:item=3106557243&perks=1523832109,1427256713#notes: PvE: god roll: reconstruction+reservoir burst
 //notes: pvp god rolls. slideways/under pressure + kickstart/closing time
 dimwishlist:item=3106557243&perks=2039302152,1754714824
 dimwishlist:item=3106557243&perks=1645158859,1754714824
 dimwishlist:item=3106557243&perks=1645158859,1194056669
 // Wicked Sister (Strand heavy adaptive frame grenade launcher)
 dimwishlist:item=2039776723&perks=3987942396,3078487919
-//notes:pve god rolls
+//notes: PvE: god rolls
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=968510818,3078487919
 dimwishlist:item=2039776723&perks=968510818,3078487919
@@ -552,12 +552,12 @@ dimwishlist:item=2039776723&perks=3300816228,3078487919
 
 // Gambit
 // Bygones (kinetic adaptive frame pulse rifle)
-//notes:pve god rolls 
+//notes: PvE: god rolls 
 //shoot to loot kinetic tremors
 dimwishlist:item=2199554524&perks=3700496672,3891536761
 //demo,frenzy
 dimwishlist:item=2199554524&perks=3523296417,4104185692
-//notes:pvp god rolls 
+//notes: PvP: god rolls 
 //zen moment headseeker
 dimwishlist:item=2199554524&perks=2387244414,460017080
 // zen moment keep away
@@ -567,7 +567,7 @@ dimwishlist:item=2199554524&perks=839105230,2387244414,2319119708
 
 // Crucible
 // Anonymous Autumn (arc lightweight frame sidearm)
-//notes:pve god rolls
+//notes: PvE: god rolls
 //demo voltshot
 dimwishlist:item=1051949956&perks=3523296417,2173046394
 //demo frenzy 
@@ -579,7 +579,7 @@ dimwishlist:item=1051949956&perks=684456054,2173046394
 //enlightened action voltshot
 dimwishlist:item=1051949956&perks=3828510309,2173046394
 // Deadlock (stasis precion frame shotgun
-//notes:pvp god rolls
+//notes: PvP: god rolls
 //slideshot+opening shot
 dimwishlist:item=2035738085&perks=3161816588,47981717
 //thread detector + opening shot
@@ -587,7 +587,7 @@ dimwishlist:item=2035738085&perks=4071163871,47981717
 
 // Trials of Osiris
 // Yesterday's Question (arc heavy burst hand cannon)
-//notes:pve lucky pants
+//notes: PvE: lucky pants
 //smallbore+ricochet + rapid hit + vorpal
 dimwishlist:item=2300143112&perks=1482024992,1885400500,247725512,1546637391
 //dragonfly + vorpal
@@ -601,13 +601,13 @@ dimwishlist:item=2300143112&perks=1421772400,2173046394
 dimwishlist:item=2300143112&perks=247725512,2173046394
 //dragon fly + voltshot
 dimwishlist:item=2300143112&perks=2848615171,2173046394
-//notes:pvp god rolls
+//notes: PvP: god rolls
 dimwishlist:item=2300143112&perks=3938834702,699525795
 dimwishlist:item=2300143112&perks=2579169598,2387244414
 
 // Iron Banner
 // Archon's Thunder (stasis high impact machine gun)
-//notes:pve general god rolls with FTTC for ammo efficiency or air trigger for fast reloads. In the 4th column Rewind Rounds for less reloading, Target Lock for better major DPS, Killing Tally for ad clear or Headstone for Stasis builds
+//notes: PvE: general god rolls with FTTC for ammo efficiency or air trigger for fast reloads. In the 4th column Rewind Rounds for less reloading, Target Lock for better major DPS, Killing Tally for ad clear or Headstone for Stasis builds
 dimwishlist:item=2896109856&perks=1354429876,3418782618
 dimwishlist:item=2896109856&perks=1421772400,3418782618
 dimwishlist:item=2896109856&perks=1354429876,365154968
@@ -617,23 +617,23 @@ dimwishlist:item=2896109856&perks=1421772400,557221067
 dimwishlist:item=2896109856&perks=1354429876,124408337
 dimwishlist:item=2896109856&perks=1421772400,124408337
 // Tinasha's Mastery (stasis rocket side arm)
-//notes: (??? pve god roll ???): 3rd column either Enlightened Action or Impulse Amplifier, 4th column Chill Clip|tags:pve god roll
+//notes: PvE: 3rd column either Enlightened Action or Impulse Amplifier, 4th column Chill Clip|tags:pve god roll
 dimwishlist:item=480368036&perks=3828510309,2978966579
 dimwishlist:item=480368036&perks=951095735,2978966579
 
 // Reprised Garden of Salvation weapons
 // Omniscient Eye: Solar Rapid-Fire Sniper Rifle
-//notes: (??? PvE ???): 3rd: Lead From Gold, FTTC, Envious Arsenal if power weapon has a reload perk as well. 4th: Vorpal over Precision Instrument for consistency,|tags:PvE
+//notes: PvE: 3rd: Lead From Gold, FTTC, Envious Arsenal if power weapon has a reload perk as well. 4th: Vorpal over Precision Instrument for consistency,|tags:PvE
 dimwishlist:item=147444292&perks=1354429876,1546637391
 dimwishlist:item=147444292&perks=1556840489,1546637391
 dimwishlist:item=147444292&perks=3987942396,1546637391
 // Ancient Gospel: Void Adaptive Hand Cannon
-//notes: (??? PvE ???): Demo+Explosive Head or Destab+Explosive Head|tags:PvE
+//notes: PvE: Demo+Explosive Head or Destab+Explosive Head|tags:PvE
 dimwishlist:item=963574173&perks=3523296417,3038247973
 dimwishlist:item=963574173&perks=2048641572,3038247973
-dimwishlist:item=963574173&perks=288411554,1161469972#notes:PvP god roll|tags:PvP
+dimwishlist:item=963574173&perks=288411554,1161469972#notes: PvP: god roll|tags:PvP
 // Reckless Oracle: Void Rapid Auto Rifle
-//notes: (??? PvE ???): Demo+OneForAll or Destabilizing Rounds + Repulsor Brace/Paracausal Affinity/One For All |tags:PvE
+//notes: PvE: Demo+OneForAll or Destabilizing Rounds + Repulsor Brace/Paracausal Affinity/One For All |tags:PvE
 dimwishlist:item=1992309064&perks=3523296417,4049631843
 dimwishlist:item=1992309064&perks=2048641572,776531651
 dimwishlist:item=1992309064&perks=2048641572,3215448563
@@ -644,39 +644,39 @@ dimwishlist:item=2145441168&perks=1523832109,3751912585
 dimwishlist:item=2145441168&perks=3987942396,3751912585
 dimwishlist:item=2145441168&perks=2039302152,1194056669#notes:Slideways+Closing Time could be interesting for PvP
 // Sacred Provenance: Kinetic Aggressive Pulse Rifle
-//notes: (??? PvE ???): Demo and Frenzy is always great. Stats for All and Kinetic Tremors are also in the mix|tags:PvE
+//notes: PvE: Demo and Frenzy is always great. Stats for All and Kinetic Tremors are also in the mix|tags:PvE
 dimwishlist:item=2241507890&perks=3523296417,4104185692
 dimwishlist:item=2241507890&perks=1583705720,4104185692
 dimwishlist:item=2241507890&perks=3523296417,3891536761
 dimwishlist:item=2241507890&perks=1583705720,3891536761
 // Zealot's Reward: Void Rapid Fire Fusion Rifle
-dimwishlist:item=2720651699&perks=1645158859,1754714824#notes:pvp god roll
+dimwishlist:item=2720651699&perks=1645158859,1754714824#notes: PvP: god roll
 dimwishlist:item=2720651699&perks=1645158859,1194056669#notes:possible pvp god roll
 // Accrued Redemption: Kinetic Precision Compound Bow
-dimwishlist:item=3621336854&perks=201365942,3891536761#notes:PvE god roll with Archer's Tempo and Kinetic Tremors
+dimwishlist:item=3621336854&perks=201365942,3891536761#notes: PvE: god roll with Archer's Tempo and Kinetic Tremors
 dimwishlist:item=3621336854&perks=2652708987,3414324643#notes:silly but fastest bow in the game with Successful Warmup and Archers Gambit?
 dimwishlist:item=3621336854&perks=3592538738,3891536761#notes:Wellspring+Kinetic Tremors for utility and damage
 dimwishlist:item=3621336854&perks=3592538738,3824105627#notes:Wellspring+Firefly for utility and ad clear
 
 // Reprised Season of the Splicer weapons (seasonal onslaught)
 // Grid Skipper (void rapid-fire pulse rifle)
-dimwishlist:item=3433930495&perks=2387244414,460017080#notes:pvp god roll with zen moment + headseeker
+dimwishlist:item=3433930495&perks=2387244414,460017080#notes: PvP: god roll with zen moment + headseeker
 //notes: General PvE: Arrowhead Brake is a must. 3rd column Demo or Repulsor Brace. 4th colum Frenzy or Destabilizing Rounds
 dimwishlist:item=3433930495&perks=839105230,3523296417,4104185692
 dimwishlist:item=3433930495&perks=839105230,776531651,4104185692
 dimwishlist:item=3433930495&perks=839105230,3523296417,2048641572
 dimwishlist:item=3433930495&perks=839105230,776531651,2048641572
 // Ignition Code (kinetic grenade launcher)
-//notes: (???  ???): PvE utility roll with Disorienting Grenades and Slideshot and either Frenzy or Vorpal Weapon
+//notes: PvE: utility roll with Disorienting Grenades and Slideshot and either Frenzy or Vorpal Weapon
 dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692
 dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391
 // Chroma Rush (kinetic rapid-fire auto rifle)
-//notes: (???  ???): PvE god rolls.Subsistence+Rampage for easy content. Kinetic Tremors or Frenzy for harder content
+//notes: PvE: god rolls.Subsistence+Rampage for easy content. Kinetic Tremors or Frenzy for harder content
 dimwishlist:item=2598420927&perks=1820235745,3425386926
 dimwishlist:item=2598420927&perks=1820235745,3891536761
 dimwishlist:item=2598420927&perks=1820235745,4104185692
 // Sojourner's Tale (solar pinpoint slug shotgun)
-dimwishlist:item=2130875369&perks=3978468247,4293542123#notes:PvE discord+incandescent. other rolls are meh
+dimwishlist:item=2130875369&perks=3978468247,4293542123#notes: PvE: discord+incandescent. other rolls are meh
 
 // Seasonal weapons (Dark Ether Reaper origin trait)
 // Insurmountable: Void Precision Frame Sidearm
@@ -696,20 +696,20 @@ dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919
 dimwishlist:item=2599338625&perks=332133599,3987942396,3966416502
 dimwishlist:item=2599338625&perks=332133599,3987942396,3194351027
 // Exuviae: Stasis Aggressive Frame Hand Cannon
-dimwishlist:item=2823644677&perks=1955165503,124408337#notes:PvE Rimestealer + Headstone. enhance for even more frost armor
-dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337#notes:PvE god roll with Rimestealer + Headstone. enhance for even more frost armor
-dimwishlist:item=2823644677&perks=1195158366,3038247973#notes:PvP Encore+Explosive Payload
+dimwishlist:item=2823644677&perks=1955165503,124408337#notes: PvE: Rimestealer + Headstone. enhance for even more frost armor
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337#notes: PvE: god roll with Rimestealer + Headstone. enhance for even more frost armor
+dimwishlist:item=2823644677&perks=1195158366,3038247973#notes: PvP: Encore+Explosive Payload
 // Scavenger's Fate (Void precision frame shotgun)
-dimwishlist:item=2913577176&perks=3978468247,438098033#notes:PvE Discord + Harmony
-dimwishlist:item=2913577176&perks=3978468247,2048641572#notes:PvE Discord + Destabilizing Rounds
-dimwishlist:item=2913577176&perks=3978468247,4104185692#notes:PvE Discord + Frency
+dimwishlist:item=2913577176&perks=3978468247,438098033#notes: PvE: Discord + Harmony
+dimwishlist:item=2913577176&perks=3978468247,2048641572#notes: PvE: Discord + Destabilizing Rounds
+dimwishlist:item=2913577176&perks=3978468247,4104185692#notes: PvE: Discord + Frency
 // Red Tape: Stasis Lightweight Frame Scout Rifle
-//notes:PvE Demo + Headstone
+//notes: PvE: Demo + Headstone
 dimwishlist:item=3423493037&perks=3523296417,124408337
 dimwishlist:item=3423493037&perks=1906147653,1171887445
 dimwishlist:item=3423493037&perks=1840239774,3230963543,3523296417,124408337
 dimwishlist:item=3423493037&perks=1840239774,106909392,1906147653,1171887445
-//notes:PvE Explosive Payload + Attrition Orbs
+//notes: PvE: Explosive Payload + Attrition Orbs
 dimwishlist:item=3423493037&perks=243981275,3038247973
 dimwishlist:item=3423493037&perks=984655331,64866129
 dimwishlist:item=3423493037&perks=1840239774,3230963543,243981275,3038247973
@@ -719,13 +719,13 @@ dimwishlist:item=3423493037&perks=1840239774,106909392,984655331,64866129
 // Sovereignty: Void Adaptive Frame Sniper Rifle
 dimwishlist:item=3818198556&perks=1134488199#notes:Withering Gaze for Utility
 // Vantage Point: Arc Adaptive Frame Pulse Rifle
-dimwishlist:item=3830941962&perks=684456054,3966416502#notes:PvE Eddy Current + Jolting Feedback
-dimwishlist:item=3830941962&perks=1583705720,3966416502#notes:PvE Stats for All + Jolting Feedback
-dimwishlist:item=3830941962&perks=3619207468,4082225868#notes:PvP Keep Away + Swashbuckler
-dimwishlist:item=3830941962&perks=3938834702,4082225868#notes:PvP To the Pain + Swashbuckler
-dimwishlist:item=3830941962&perks=3993379141,3966416502#notes:PvE Deconstruct + Jolting Feedback
+dimwishlist:item=3830941962&perks=684456054,3966416502#notes: PvE: Eddy Current + Jolting Feedback
+dimwishlist:item=3830941962&perks=1583705720,3966416502#notes: PvE: Stats for All + Jolting Feedback
+dimwishlist:item=3830941962&perks=3619207468,4082225868#notes: PvP: Keep Away + Swashbuckler
+dimwishlist:item=3830941962&perks=3938834702,4082225868#notes: PvP: To the Pain + Swashbuckler
+dimwishlist:item=3830941962&perks=3993379141,3966416502#notes: PvE: Deconstruct + Jolting Feedback
 // Heretic's Favor (Stasis agressive RL)
-//notes:PvE Autolading Holster + Chill Clip/Bipod/Explosive Light
+//notes: PvE: Autolading Holster + Chill Clip/Bipod/Explosive Light
 dimwishlist:item=4224667951&perks=3300816228,2978966579
 dimwishlist:item=4224667951&perks=3300816228,1439600632
 dimwishlist:item=4224667951&perks=3300816228,3194351027
@@ -768,7 +768,7 @@ dimwishlist:item=3612142623&perks=1955165503,124408337#notes:PvE:Rimestealer + H
 dimwishlist:item=3753063346&perks=3017780555,4293542123#notes:PvE: Heal Clip + Incandescent 
 dimwishlist:item=3753063346&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
 // Veleda-F
-dimwishlist:item=4200122994&perks=1840239774,2420895100,1421772400,1134488199#notes:PvE 5/5 god roll with fluted/extended/air trigger/withering gaze
+dimwishlist:item=4200122994&perks=1840239774,2420895100,1421772400,1134488199#notes: PvE: 5/5 god roll with fluted/extended/air trigger/withering gaze
 dimwishlist:item=4200122994&perks=1421772400,1134488199#notes:PvE: Air Trigger + Withering Gaze
 dimwishlist:item=4200122994&perks=1421772400,1546637391#notes:PvE: Air Trigger + Vorpal
 dimwishlist:item=4200122994&perks=2579169598,1194056669#notes:PvP: Lone Wolf + Closing Time
@@ -778,25 +778,25 @@ dimwishlist:item=-2848549302#notes:this bow has no good perks
 
 // Festival of the Lost 2024
 // Arcane Embrace: Heavy Burst Arc Shotgun
-dimwishlist:item=3649985571&perks=1354429876,3708227201,2250679103#notes:PvE FTTC+Surrounded
-dimwishlist:item=3649985571&perks=1354429876,555281244,2250679103#notes:PvE FTTC+Precision Instrument
-dimwishlist:item=3649985571&perks=1421772400,2173046394#notes:PvE Air Trigger + Voltshot
+dimwishlist:item=3649985571&perks=1354429876,3708227201,2250679103#notes: PvE: FTTC+Surrounded
+dimwishlist:item=3649985571&perks=1354429876,555281244,2250679103#notes: PvE: FTTC+Precision Instrument
+dimwishlist:item=3649985571&perks=1421772400,2173046394#notes: PvE: Air Trigger + Voltshot
 // Mechabre: Arc Aggressive Sniper
-dimwishlist:item=2477980485&perks=2284787283,1546637391#notes:PvE Clown Cartridge + Vorpal Weapon
-dimwishlist:item=2477980485&perks=2284787283,1771339417#notes:PvE Clown Cartridge + Firing Line
-dimwishlist:item=2477980485&perks=2579169598,47981717#notes:PvP Lone Wolf + Opening Shot
-dimwishlist:item=2477980485&perks=957782887,1194056669#notes:PvP Snapshot + Closing Time 
-dimwishlist:item=2477980485&perks=3400784728,1546637391#notes:PvE Triple Tap + Vorpal
-dimwishlist:item=2477980485&perks=3400784728,1771339417#notes:PvE Triple Tap + Firing Line
+dimwishlist:item=2477980485&perks=2284787283,1546637391#notes: PvE: Clown Cartridge + Vorpal Weapon
+dimwishlist:item=2477980485&perks=2284787283,1771339417#notes: PvE: Clown Cartridge + Firing Line
+dimwishlist:item=2477980485&perks=2579169598,47981717#notes: PvP: Lone Wolf + Opening Shot
+dimwishlist:item=2477980485&perks=957782887,1194056669#notes: PvP: Snapshot + Closing Time 
+dimwishlist:item=2477980485&perks=3400784728,1546637391#notes: PvE: Triple Tap + Vorpal
+dimwishlist:item=2477980485&perks=3400784728,1771339417#notes: PvE: Triple Tap + Firing Line
 //notes: PvP 5/5 god roll Lone Wolf + Closing Time
 dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,1194056669
 dimwishlist:item=2477980485&perks=1840239774,2420895100,2579169598,1194056669
 // Braytech Werewolf: Kinetic Precision Auto Rifle
-dimwishlist:item=3558681245&perks=3418782618,3891536761#notes:PvE Rewind Rounds + Kinetic Tremors
-dimwishlist:item=3558681245&perks=2579169598,1015611457#notes:PvP Lone Wolf + Kill Clip
-dimwishlist:item=3558681245&perks=1482024992,1885400500,2579169598,1015611457#notes:PvP Lone Wolf + Kill Clip
+dimwishlist:item=3558681245&perks=3418782618,3891536761#notes: PvE: Rewind Rounds + Kinetic Tremors
+dimwishlist:item=3558681245&perks=2579169598,1015611457#notes: PvP: Lone Wolf + Kill Clip
+dimwishlist:item=3558681245&perks=1482024992,1885400500,2579169598,1015611457#notes: PvP: Lone Wolf + Kill Clip
 // Acosmic: Void Rapid Fire Heavy Grenade Launcher
-dimwishlist:item=425681240&perks=2284787283,3078487919#notes:PvE Clown Cartridge + Bait and Switch. Ideally with Spike Grenades
+dimwishlist:item=425681240&perks=2284787283,3078487919#notes: PvE: Clown Cartridge + Bait and Switch. Ideally with Spike Grenades
 //==========================================================================================
 //S25 end
 
@@ -809,7 +809,7 @@ dimwishlist:item=425681240&perks=2284787283,3078487919#notes:PvE Clown Cartridge
 //notes:general pve
 dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,1015611457
 dimwishlist:item=2326578623&perks=3768438372,16392701,201365942,2610012052
-//notes:pve void
+//notes: PvE: void
 dimwishlist:item=2326578623&perks=2801223209,3429800428,201365942,2048641572
 dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,2048641572
 dimwishlist:item=2326578623&perks=3768438372,16392701,776531651,2610012052
@@ -823,7 +823,7 @@ dimwishlist:item=4169225313&perks=466087222,3142289711,1821614984,47981717,25098
 //Something New (Stasis Hand Cannon)
 dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,555281244,2509860981#notes:pvp
 dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,3038247973,2509860981#notes:pvp
-dimwishlist:item=586671776&perks=3523296417,3592538738#notes:pve utility
+dimwishlist:item=586671776&perks=3523296417,3592538738#notes: PvE: utility
 
 //Crowning Duologue (strand precision frame rocket launcher)
 dimwishlist:item=4106757302&perks=3525010810,3796465595,1523832109,3078487919,1380061575
@@ -843,7 +843,7 @@ dimwishlist:item=4152016199&perks=3523296417,4104185692
 //lost signal
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
 //veiled threat
-//notes:pve utility
+//notes: PvE: utility
 dimwishlist:item=3685470415&perks=3700496672,2109543898
 dimwishlist:item=3685470415&perks=243981275,2109543898
 //sightline survey
@@ -952,4 +952,4 @@ dimwishlist:item=2273643087&perks=1476923953,183430246
 
 //warden's law
 //enlightened+vorpal
-dimwishlist:item=3250744600&perks=3828510309,1546637391#notes:pve lucky pants
+dimwishlist:item=3250744600&perks=3828510309,1546637391#notes: PvE: lucky pants
