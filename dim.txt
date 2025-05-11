@@ -301,11 +301,15 @@ dimwishlist:item=3421639790&perks=124408337,2109543898
 dimwishlist:item=3421639790&perks=3828510309,2109543898
 //
 // Wilderflight: Void Double Fire Grenade Launcher
-//notes:PvE Envious Arsenal + Bait and Switch for DPS rotations
+//notes:PvE Envious Arsenal + Bait and Switch/Frenzy for DPS rotations (ideally with Spike Grenades). Frenzy boosts handling, can be almost as good as BnS.
 dimwishlist:item=559523765&perks=3987942396,3078487919
 dimwishlist:item=1206729100&perks=3987942396,3078487919
 dimwishlist:item=2477408004&perks=3987942396,3078487919
 dimwishlist:item=2982006965&perks=3987942396,3078487919
+dimwishlist:item=559523765&perks=3987942396,4104185692
+dimwishlist:item=1206729100&perks=3987942396,4104185692
+dimwishlist:item=2477408004&perks=3987942396,4104185692
+dimwishlist:item=2982006965&perks=3987942396,4104185692
 //notes:PvE Auto-Loading Holster/Demolitionist + Lead from Gold/Frenzy
 dimwishlist:item=559523765&perks=3300816228,1556840489
 dimwishlist:item=559523765&perks=3300816228,4104185692
@@ -323,6 +327,19 @@ dimwishlist:item=2982006965&perks=3300816228,1556840489
 dimwishlist:item=2982006965&perks=3300816228,4104185692
 dimwishlist:item=2982006965&perks=3523296417,1556840489
 dimwishlist:item=2982006965&perks=3523296417,4104185692
+//notes: PvE: Slideshot + Frenzy/Destabilizing Rounds/Withering Gaze. Maybe paired with Disorienting Grenades.
+dimwishlist:item=559523765&perks=3161816588,4104185692
+dimwishlist:item=559523765&perks=3161816588,2048641572
+dimwishlist:item=559523765&perks=3161816588,1134488199
+dimwishlist:item=1206729100&perks=3161816588,4104185692
+dimwishlist:item=1206729100&perks=3161816588,2048641572
+dimwishlist:item=1206729100&perks=3161816588,1134488199
+dimwishlist:item=2477408004&perks=3161816588,4104185692
+dimwishlist:item=2477408004&perks=3161816588,2048641572
+dimwishlist:item=2477408004&perks=3161816588,1134488199
+dimwishlist:item=2982006965&perks=3161816588,4104185692
+dimwishlist:item=2982006965&perks=3161816588,2048641572
+dimwishlist:item=2982006965&perks=3161816588,1134488199
 //
 // Terminus Horizon: Arc High-Impact Machine Gun
 //notes:PvE tons of decent rolls. Demolitionist + Rolling Storm is the unique combo here. Maybe Dragonfly + Rolling Storm
