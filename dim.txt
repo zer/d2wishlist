@@ -123,6 +123,8 @@ dimwishlist:item=267672635&perks=1631667848,4082225868
 dimwishlist:item=267672635&perks=1631667848,1782407750
 dimwishlist:item=267672635&perks=3773585912,4082225868
 dimwishlist:item=267672635&perks=3773585912,1782407750
+//notes: PvE: Lead from Gold + Voltshot for spammy arc hunter builds
+dimwishlist:item=267672635&perks=1556840489,2173046394
 //
 // Cynosure: Strand Adaptive Rocket Launcher (from Vanguard)
 //notes: PvE: Overflow + Bipod for tons of rockets. Envious Arsenal + Elemental Honing for crazy damage with the right setup
