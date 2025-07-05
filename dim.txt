@@ -436,6 +436,28 @@ dimwishlist:item=1904170910&perks=3978468247,3201496230
 dimwishlist:item=1976481399&perks=3978468247,3201496230
 dimwishlist:item=2764074355&perks=3978468247,3201496230
 
+// VoG
+// Hezen Vengeance (Timelost) - BiS RL as of S26 (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,1439600632
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,1089671869
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3078487919
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,1439600632
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,1089671869
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3987942396,3078487919
+
+// Hezen Vengeance (Timelost) - BiS RL as of S26 (pve)
+//notes: tags:pve
+dimwishlist:item=3623686757&perks=3643424744,1439600632
+dimwishlist:item=3623686757&perks=3643424744,1089671869
+dimwishlist:item=3623686757&perks=3643424744,3078487919
+dimwishlist:item=3623686757&perks=3987942396,1439600632
+dimwishlist:item=3623686757&perks=3987942396,1089671869
+dimwishlist:item=3623686757&perks=3987942396,3078487919
+
+
+
+
 // Season 25 Revenant
 //==========================================================================================
 //
