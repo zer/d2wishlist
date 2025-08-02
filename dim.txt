@@ -138,12 +138,14 @@ dimwishlist:item=3293207827&perks=3523296417,4293542123
 dimwishlist:item=3293207827&perks=3523296417,3640170453
 
 
-// Phoneutria Fera - 1-2-Punching hand cannon (pve)
+// Phoneutria Fera - ad clear (pve)
 //notes: tags:pve
-dimwishlist:item=3496887154&perks=4071163871,2679249093
-dimwishlist:item=3496887154&perks=4071163871,4293542123
-dimwishlist:item=3496887154&perks=4190679284,2679249093
-dimwishlist:item=3496887154&perks=4190679284,4293542123
+dimwishlist:item=3496887154&perks=1126264488,4293542123
+
+
+// Phoneutria Fera - Melee build (pve)
+//notes: tags:pve
+dimwishlist:item=3496887154&perks=4190679284,3708227201
 
 
 // Ribbontail - PvE Melee build (pve)
