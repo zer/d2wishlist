@@ -12,7 +12,10 @@ dimwishlist:item=42435996&perks=831391274,2396489472
 
 // Precipial (pve)
 //notes: tags:pve
+dimwishlist:item=367772693&perks=1523832109,3978468247
+dimwishlist:item=367772693&perks=1523832109,1546637391
 dimwishlist:item=367772693&perks=2679249093,3978468247
+dimwishlist:item=367772693&perks=2679249093,1546637391
 
 
 // Pre Astyanax IV - PvE not really needed (pve)
@@ -51,10 +54,14 @@ dimwishlist:item=1193318082&perks=3400784728,2319119708
 dimwishlist:item=1193318082&perks=3038247973,555281244
 dimwishlist:item=1193318082&perks=3038247973,2319119708
 
-
 // Ahab Char - PvE solar (pve)
 //notes: tags:pve
 dimwishlist:item=1411560894&perks=3017780555,2890807135
+
+
+// Ahab Char - Melee build (pve)
+//notes: tags:pve
+dimwishlist:item=1411560894&perks=4190679284,4082225868
 
 
 // Forgiveness - PvE volt shot (pve)
@@ -99,12 +106,14 @@ dimwishlist:item=2111625436&perks=2244851822,3650930298
 
 // Lionfish-4fr - awesome perk selection (pve)
 //notes: tags:pve
-dimwishlist:item=2423071981&perks=1523832109,2978966579
-dimwishlist:item=2423071981&perks=1523832109,1427256713
-dimwishlist:item=2423071981&perks=1523832109,2594592626
 dimwishlist:item=2423071981&perks=1556840489,2978966579
 dimwishlist:item=2423071981&perks=1556840489,1427256713
 dimwishlist:item=2423071981&perks=1556840489,2594592626
+dimwishlist:item=2423071981&perks=1556840489,1089671869
+dimwishlist:item=2423071981&perks=1523832109,2978966579
+dimwishlist:item=2423071981&perks=1523832109,1427256713
+dimwishlist:item=2423071981&perks=1523832109,2594592626
+dimwishlist:item=2423071981&perks=1523832109,1089671869
 
 
 // Fortunate Star - PvE void (pve)
@@ -192,6 +201,11 @@ dimwishlist:item=3813721211&perks=3523296417,4104185692
 dimwishlist:item=3813721211&perks=3523296417,831391274
 dimwishlist:item=3813721211&perks=880644845,4104185692
 dimwishlist:item=3813721211&perks=880644845,831391274
+
+
+// Last Thursday - PvP Elemental Honing shenanigans (pvp)
+//notes: tags:pvp
+dimwishlist:item=3813721211&perks=247725512,1089671869
 
 
 // Boomslang-4fr - PvE crit boss damage (pve)
