@@ -259,6 +259,16 @@ dimwishlist:item=4019651319&perks=3523296417,1089671869
 dimwishlist:item=4049127142&perks=3017780555,4293542123
 
 
+// Solemn Remembrance - Stasis HC+Firefly build (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4116518582&perks=839105230,3230963543,124408337,3824105627
+dimwishlist:item=4116518582&perks=839105230,1431678320,124408337,3824105627
+dimwishlist:item=4116518582&perks=1840239774,3230963543,124408337,3824105627
+dimwishlist:item=4116518582&perks=1840239774,1431678320,124408337,3824105627
+dimwishlist:item=4116518582&perks=1482024992,3230963543,124408337,3824105627
+dimwishlist:item=4116518582&perks=1482024992,1431678320,124408337,3824105627
+
+
 // Solemn Remembrance (pve)
 //notes: tags:pve
 dimwishlist:item=4116518582&perks=124408337,1955165503
@@ -273,6 +283,11 @@ dimwishlist:item=4116518582&perks=3161816588,555281244
 dimwishlist:item=4116518582&perks=3161816588,699525795
 dimwishlist:item=4116518582&perks=2579169598,555281244
 dimwishlist:item=4116518582&perks=2579169598,699525795
+
+
+// Solemn Remembrance - Stasis HC+Firefly build (pve)
+//notes: tags:pve
+dimwishlist:item=4116518582&perks=124408337,3824105627
 
 
 // Agape - PvE heal clip + incan (pve)
