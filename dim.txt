@@ -88,10 +88,24 @@ dimwishlist:item=1674692344&perks=3700496672,2173046394
 dimwishlist:item=1674692344&perks=3700496672,3038247973
 
 
-// Synanceia - PvE solar eager edge ()
-dimwishlist:item=1823308496&perks=4132187021,2077819806
+// Synanceia - solar utility (pve)
+//notes: tags:pve
+dimwishlist:item=1823308496&perks=243981275,2890807135
+dimwishlist:item=1823308496&perks=4132187021,2890807135
+dimwishlist:item=1823308496&perks=1749209109,2890807135
+dimwishlist:item=1823308496&perks=4190679284,2890807135
+
+
+// Synanceia - Eager edge (pve)
+//notes: tags:pve
 dimwishlist:item=1823308496&perks=243981275,2077819806
-dimwishlist:item=1823308496&perks=1749209109,2077819806
+dimwishlist:item=1823308496&perks=4132187021,2077819806
+
+
+// Synanceia - damage (pve)
+//notes: tags:pve
+dimwishlist:item=1823308496&perks=1749209109,1089671869
+dimwishlist:item=1823308496&perks=1749209109,3708227201
 
 
 // Pure Recollection - PvE dps rotation (pve)
@@ -204,6 +218,16 @@ dimwishlist:item=3602242905&perks=247725512,2890807135
 dimwishlist:item=3635232671&perks=1556840489,2978966579
 
 
+// Trachinus - Damage (niche) (pve)
+//notes: tags:pve
+dimwishlist:item=3635232671&perks=247725512,555281244
+
+
+// Trachinus - Melee (pve)
+//notes: tags:pve
+dimwishlist:item=3635232671&perks=4190679284,4082225868
+
+
 // Last Thursday - PvE probably a pass (pve)
 //notes: tags:pve
 dimwishlist:item=3813721211&perks=3523296417,4104185692
@@ -226,15 +250,17 @@ dimwishlist:item=3926153598&perks=3987942396,1546637391
 
 
 // Aureus Neutralizer - Punchy hand cannon (pve)
-//notes: tags:pve
+//notes: Punchy hand cannon tags:pve
 dimwishlist:item=3981920134&perks=1631667848,2679249093
 dimwishlist:item=3981920134&perks=1631667848,2360754333
 dimwishlist:item=3981920134&perks=1546637391,2679249093
 dimwishlist:item=3981920134&perks=1546637391,2360754333
+dimwishlist:item=3981920134&perks=4190679284,2679249093
+dimwishlist:item=3981920134&perks=4190679284,2360754333
 
 
 // Aureus Neutralizer - Lucky Pants (pve)
-//notes: tags:pve
+//notes: Lucky Pants tags:pve
 dimwishlist:item=3981920134&perks=1546637391,3751912585
 
 
@@ -260,13 +286,13 @@ dimwishlist:item=4049127142&perks=3017780555,4293542123
 
 
 // Solemn Remembrance - Stasis HC+Firefly build (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=4116518582&perks=839105230,3230963543,124408337,3824105627
-dimwishlist:item=4116518582&perks=839105230,1431678320,124408337,3824105627
-dimwishlist:item=4116518582&perks=1840239774,3230963543,124408337,3824105627
-dimwishlist:item=4116518582&perks=1840239774,1431678320,124408337,3824105627
-dimwishlist:item=4116518582&perks=1482024992,3230963543,124408337,3824105627
-dimwishlist:item=4116518582&perks=1482024992,1431678320,124408337,3824105627
+//notes: Stasis HC+Firefly build tags:god-pve
+dimwishlist:item=4116518582&perks=839105230,3230963543,124408337,3824105627,3438534621
+dimwishlist:item=4116518582&perks=839105230,1431678320,124408337,3824105627,3438534621
+dimwishlist:item=4116518582&perks=1840239774,3230963543,124408337,3824105627,3438534621
+dimwishlist:item=4116518582&perks=1840239774,1431678320,124408337,3824105627,3438534621
+dimwishlist:item=4116518582&perks=1482024992,3230963543,124408337,3824105627,3438534621
+dimwishlist:item=4116518582&perks=1482024992,1431678320,124408337,3824105627,3438534621
 
 
 // Solemn Remembrance (pve)
@@ -286,7 +312,7 @@ dimwishlist:item=4116518582&perks=2579169598,699525795
 
 
 // Solemn Remembrance - Stasis HC+Firefly build (pve)
-//notes: tags:pve
+//notes: Stasis HC+Firefly build tags:pve
 dimwishlist:item=4116518582&perks=124408337,3824105627
 
 
