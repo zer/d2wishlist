@@ -1,3 +1,6 @@
+title:zer's wishlist
+description:Mostly geared towards PvE, with some PvP picks
+
 //=====================
 //Season 27
 //=====================
