@@ -67,10 +67,19 @@
 armour stuff
 ================
 
-Prime counter
-1,2,3,4,5,6 done
-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 done
-1,2
+PvE Armour sets to keep
+- Despairing Souls 2p - for Titan/Hunter Melee builds, not Warlock
+- Aion Adapter 2p
+- Iron Bichromate 2p
+- Bushido 2p
+- Techsec 4p
+- Prodigious Allegiance 2p
+
+PvP (Hunter only for now)
+- Iron Bichromate 4p (also good for PvE)
+- Twofold Crown 2p/4p
+- Bushido 2p
+
 
 
 tertiarystat:weapons
@@ -78,7 +87,7 @@ tertiarystat:weapons
  is:helmet is:gauntlets is:chest is:leg is:classitem
 
 /* 0001 paragon/gunner armour split for PvE */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=4
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance")
 (
 	(exactperk:paragon 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -91,8 +100,8 @@ tertiarystat:weapons
 	)
 )
 
-/* 0002 bulwark/brawler armour for PvP (Hunter) */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=4 is:hunter
+/* 0002 bulwark/brawler armour sets for PvP (Hunter) */ 
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 is:hunter (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
 (
 	(exactperk:bulwark 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -105,26 +114,33 @@ tertiarystat:weapons
 	)
 )
 
-/* 0003 paragon/gunner armour split for PvE OR bulwark/brawler armour for PvP (Hunter) (0001 + 0002) */
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=4
+/* 0003 paragon/gunner armour split for PvE OR bulwark/brawler armour for PvP (Hunter) */
 (
-	(exactperk:paragon 
-		and (is:helmet or is:gauntlets or is:chest)
-		and (tertiarystat:grenade or tertiarystat:class or tertiarystat:weapons)
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance")
+	(
+		(exactperk:paragon 
+			and (is:helmet or is:gauntlets or is:chest)
+			and (tertiarystat:grenade or tertiarystat:class or tertiarystat:weapons)
+		)
+		or
+		(exactperk:gunner 
+			and (is:chest or is:leg or is:classitem)
+			and (tertiarystat:melee or tertiarystat:super or tertiarystat:class)
+		)
 	)
-	or
-	(exactperk:gunner 
-		and (is:chest or is:leg or is:classitem)
-		and (tertiarystat:melee or tertiarystat:super or tertiarystat:class)
-	)
-	or 
-	(exactperk:bulwark 
-		and (is:helmet or is:gauntlets or is:chest)
-		and (tertiarystat:melee or tertiarystat:super or tertiarystat:grenade)
-	)
-	or
-	(exactperk:brawler 
-		and (is:chest or is:leg or is:classitem)
-		and (tertiarystat:grenade or tertiarystat:super or tertiarystat:class)
+)
+or
+(
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 is:hunter (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
+	(
+		(exactperk:bulwark 
+			and (is:helmet or is:gauntlets or is:chest)
+			and (tertiarystat:melee or tertiarystat:super or tertiarystat:grenade)
+		)
+		or
+		(exactperk:brawler 
+			and (is:chest or is:leg or is:classitem)
+			and (tertiarystat:grenade or tertiarystat:super or tertiarystat:class)
+		)
 	)
 )
