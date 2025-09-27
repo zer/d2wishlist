@@ -74,6 +74,7 @@ PvE Armour sets to keep
 - Bushido 2p
 - Techsec 4p
 - Prodigious Allegiance 2p
+- Collective Psyche 4p
 
 PvP (Hunter only for now)
 - Iron Bichromate 4p (also good for PvE)
@@ -86,8 +87,12 @@ tertiarystat:weapons
 (exactperk:gunner or exactperk:paragon)
  is:helmet is:gauntlets is:chest is:leg is:classitem
 
-/* 0001 paragon/gunner armour split for PvE */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance")
+/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche")
+
+/* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche")
+
+/* 0010 paragon/gunner armour split for PvE */ 
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche")
 (
 	(exactperk:paragon 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -100,8 +105,8 @@ tertiarystat:weapons
 	)
 )
 
-/* 0002 bulwark/brawler armour sets for PvP (Hunter) */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 is:hunter (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
+/* 0020 bulwark/brawler armour sets for PvP */ 
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
 (
 	(exactperk:bulwark 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -114,9 +119,12 @@ tertiarystat:weapons
 	)
 )
 
-/* 0003 paragon/gunner armour split for PvE OR bulwark/brawler armour for PvP (Hunter) */
+merge 0010 + 0020 for this one
+/* 0030 paragon/gunner armour split for PvE OR bulwark/brawler armour for PvP */
 (
-	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance")
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 
+	(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido
+	or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche")
 	(
 		(exactperk:paragon 
 			and (is:helmet or is:gauntlets or is:chest)
@@ -131,7 +139,7 @@ tertiarystat:weapons
 )
 or
 (
-	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 is:hunter (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"iron bichromate set" or exactperk:"twofold crown" or exactperk:bushido)
 	(
 		(exactperk:bulwark 
 			and (is:helmet or is:gauntlets or is:chest)
