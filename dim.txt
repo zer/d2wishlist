@@ -40,6 +40,28 @@ dimwishlist:item=471764396&perks=3824105627,2890807135
 dimwishlist:item=471764396&perks=4293542123,2890807135
 
 
+// Auric Disabler - PvP (god-pvp)
+//notes: PvP 6s fun tags:god-pvp
+dimwishlist:item=702001725&perks=1482024992,1885400500,2579169598,95528736,2839173408
+
+
+// Auric Disabler - PvP consistency + easy damage (god-pvp,pvp)
+//notes: PvP consistency + easy damage tags:god-pvp,pvp
+dimwishlist:item=702001725&perks=1482024992,1885400500,1359896290,31345821,2839173408
+dimwishlist:item=702001725&perks=1482024992,1885400500,1359896290,365154968,2839173408
+
+
+// Auric Disabler - PvP (pvp)
+//notes: PvP consistency king tags:pvp
+dimwishlist:item=702001725&perks=1359896290,1890422124,2839173408
+
+
+// Auric Disabler - PvP (pvp)
+//notes: PvP consistency + easy damage tags:pvp
+dimwishlist:item=702001725&perks=1359896290,31345821,2839173408
+dimwishlist:item=702001725&perks=1359896290,365154968,2839173408
+
+
 // Unfall - PvE (pve)
 //notes: PvE - Indebted is still better tags:pve
 dimwishlist:item=738446555&perks=951095735,3966416502
@@ -294,6 +316,17 @@ dimwishlist:item=2699423382&perks=1631667848,2679249093
 dimwishlist:item=2699423382&perks=1631667848,2360754333
 dimwishlist:item=2699423382&perks=3978468247,2679249093
 dimwishlist:item=2699423382&perks=3978468247,2360754333
+
+
+// MIDA Macro-Tool - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=2699423382&perks=4071163871,47981717
+
+
+// MIDA Macro-Tool - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=2699423382&perks=2579169598,1194056669
+dimwishlist:item=2699423382&perks=2579169598,47981717
 
 
 // Folded Root - PvE (pve)
@@ -615,6 +648,9 @@ dimwishlist:item=4169082039&perks=776531651,2048641572
 //notes: PvE - decent package but Velocity Baton is generally better tags:pve
 dimwishlist:item=4169082039&perks=4190679284,2396489472
 dimwishlist:item=4169082039&perks=4190679284,3708227201
+
+
+
 
 
 
