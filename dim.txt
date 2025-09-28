@@ -4,7 +4,6 @@ description:Mostly geared towards PvE, with some PvP picks
 //=====================
 //Season 27
 //=====================
-
 // Mint Retrograde - PvE DPS monster (pve)
 //notes: tags:pve
 dimwishlist:item=42435996&perks=3418782618,4049631843
@@ -422,8 +421,16 @@ dimwishlist:item=3431536253&perks=691659142,243981275
 
 
 // Unwavering Duty - Solar ad clear w/o reload perk (pve)
-//notes: tags:pve
-dimwishlist:item=3489054606&perks=4293542123,2890807135
+//notes: Solar ad clear w/o reload perk tags:pve
+dimwishlist:item=3489054606&perks=4293542123,557221067,1673863459
+dimwishlist:item=3489054606&perks=4293542123,365154968,1673863459
+dimwishlist:item=3489054606&perks=4293542123,2890807135,1673863459
+dimwishlist:item=3489054606&perks=1354429876,557221067,1673863459
+dimwishlist:item=3489054606&perks=1354429876,365154968,1673863459
+dimwishlist:item=3489054606&perks=1354429876,2890807135,1673863459
+dimwishlist:item=3489054606&perks=3300816228,557221067,1673863459
+dimwishlist:item=3489054606&perks=3300816228,365154968,1673863459
+dimwishlist:item=3489054606&perks=3300816228,2890807135,1673863459
 
 
 // Phoneutria Fera - ad clear (pve)
@@ -648,7 +655,6 @@ dimwishlist:item=4169082039&perks=776531651,2048641572
 //notes: PvE - decent package but Velocity Baton is generally better tags:pve
 dimwishlist:item=4169082039&perks=4190679284,2396489472
 dimwishlist:item=4169082039&perks=4190679284,3708227201
-
 
 
 
