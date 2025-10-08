@@ -87,7 +87,7 @@ tertiarystat:weapons
 (exactperk:gunner or exactperk:paragon)
  is:helmet is:gauntlets is:chest is:leg is:classitem
 
-/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche")
+/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche" or exactperk:"ride together, die together")
 
 /* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche")
 
