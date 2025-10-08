@@ -92,7 +92,7 @@ tertiarystat:weapons
 /* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"twofold crown" or exactperk:"collective psyche")
 
 /* 0010 paragon/gunner armour split for PvE */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche")
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche" or exactperk:"ride together, die together")
 (
 	(exactperk:paragon 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -124,7 +124,7 @@ merge 0010 + 0020 for this one
 (
 	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 
 	(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron bichromate set" or exactperk:bushido
-	or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche")
+	or exactperk:techsec or exactperk:"prodigious allegiance" or exactperk:"collective psyche" or exactperk:"ride together, die together")
 	(
 		(exactperk:paragon 
 			and (is:helmet or is:gauntlets or is:chest)
