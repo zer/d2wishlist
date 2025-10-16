@@ -155,6 +155,16 @@ dimwishlist:item=1197073834&perks=247725512,3891536761
 dimwishlist:item=1197073834&perks=247725512,1202584452
 
 
+// Ahab Char - PvP (pvp,god-pvp)
+//notes: PvP tags:pvp,god-pvp
+dimwishlist:item=1411560894&perks=839105230,1885400500,3017780555,1015611457
+dimwishlist:item=1411560894&perks=839105230,1561002382,3017780555,1015611457
+dimwishlist:item=1411560894&perks=839105230,679225683,3017780555,1015611457
+dimwishlist:item=1411560894&perks=1467527085,1885400500,3017780555,1015611457
+dimwishlist:item=1411560894&perks=1467527085,1561002382,3017780555,1015611457
+dimwishlist:item=1411560894&perks=1467527085,679225683,3017780555,1015611457
+
+
 // Ahab Char - PvE solar (pve)
 //notes: tags:pve
 dimwishlist:item=1411560894&perks=3017780555,2890807135
@@ -181,6 +191,19 @@ dimwishlist:item=1524387902&perks=1955165503,2922950962
 // Forgiveness - PvE volt shot (pve)
 //notes: tags:pve
 dimwishlist:item=1552443158&perks=2173046394,1119449540
+
+
+// Opaque Hourglass - PvE (pve)
+//notes: PvE Aegis tags:pve
+dimwishlist:item=1553681400&perks=3824105627,1771339417
+dimwishlist:item=1553681400&perks=3824105627,2848615171
+dimwishlist:item=1553681400&perks=3824105627,1089671869
+dimwishlist:item=1553681400&perks=951095735,1771339417
+dimwishlist:item=1553681400&perks=951095735,2848615171
+dimwishlist:item=1553681400&perks=951095735,1089671869
+dimwishlist:item=1553681400&perks=4042220767,1771339417
+dimwishlist:item=1553681400&perks=4042220767,2848615171
+dimwishlist:item=1553681400&perks=4042220767,1089671869
 
 
 // Faustus Decline (pvp)
@@ -936,6 +959,8 @@ dimwishlist:item=2485881870&perks=1168162263,3215448563
 dimwishlist:item=3360937899&perks=3987942396,3078487919
 dimwishlist:item=3360937899&perks=3201496230,1546637391
 dimwishlist:item=3360937899&perks=2048641572,1464081238
+//notes:PvP Lone Wolf + Closing Time
+dimwishlist:item=3360937899&perks=2579169598,1194056669
 
 // Rite of the Nines reprised weapons
 // 4 versions of each weapon again... normal, shiny, adept, shiny adept
@@ -1438,8 +1463,9 @@ dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=3523296417,3078487919
 dimwishlist:item=1762785663&perks=776531651,3078487919
 // VS Gravitic Arrest (Void Adaptive Fusion Rifle)
-//notes: General PvE: Demolitionist + Withering Gaze
+//notes: General PvE: Demolitionist + Withering Gaze/Chain Reaction
 dimwishlist:item=93061497&perks=3523296417,1134488199
+dimwishlist:item=93061497&perks=3523296417,2396489472
 // VS Pyroelectric Propellant: Arc Adaptive Frame Auto Rifle
 //notes: General PvE: Strategist (for Warlocks) or Eddy Current or Attrition Orbs  + Jolting Feedback
 dimwishlist:item=4232480042&perks=880644845,3966416502
@@ -1639,3 +1665,6 @@ dimwishlist:item=2273643087&perks=1476923953,183430246
 //warden's law
 //enlightened+vorpal
 dimwishlist:item=3250744600&perks=3828510309,1546637391#notes: PvE: lucky pants
+
+// Abyss Defiant
+dimwishlist:item=3782662983&perks=839105230,1885400500,3017780555,365154968#notes:PvP
