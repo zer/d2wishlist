@@ -1,6 +1,93 @@
 title:zer's wishlist
 description:Mostly geared towards PvE, with some PvP picks
 
+// Season 28
+
+// M-17 "Fast Talker" - add clear (pve)
+//notes: add clear tags:pve
+dimwishlist:item=1419158093&perks=243981275,2922950962
+dimwishlist:item=1419158093&perks=3523296417,2922950962
+
+
+// Compact Defender - Destab + Repulsor (pve)
+//notes: Destab + Repulsor tags:pve
+dimwishlist:item=2819552809&perks=2048641572,776531651
+
+
+// Modified B-7 Pistol - Firefly add clear (pve)
+//notes: Firefly add clear tags:pve
+dimwishlist:item=3146657388&perks=3824105627,124408337
+dimwishlist:item=3146657388&perks=3824105627,2922950962
+
+
+// Modified B-7 Pistol - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=3146657388&perks=247725512,3673922083
+dimwishlist:item=3146657388&perks=247725512,699525795
+dimwishlist:item=3146657388&perks=247725512,47981717
+dimwishlist:item=3146657388&perks=247725512,1918398421
+dimwishlist:item=3146657388&perks=3619207468,3673922083
+dimwishlist:item=3146657388&perks=3619207468,699525795
+dimwishlist:item=3146657388&perks=3619207468,47981717
+dimwishlist:item=3146657388&perks=3619207468,1918398421
+dimwishlist:item=3146657388&perks=307683764,3673922083
+dimwishlist:item=3146657388&perks=307683764,699525795
+dimwishlist:item=3146657388&perks=307683764,47981717
+dimwishlist:item=3146657388&perks=307683764,1918398421
+
+
+// Uncivil Discourse - Lucky Pants Swap (pve)
+//notes: Lucky Pants Swap tags:pve
+dimwishlist:item=3146657389&perks=1421772400,4104185692
+dimwishlist:item=3146657389&perks=1421772400,555281244
+
+
+// Something Something - PvE (pve)
+//notes: PvE tags:pve
+dimwishlist:item=3421075982&perks=3400784728,1089671869
+dimwishlist:item=3421075982&perks=3400784728,3891536761
+dimwishlist:item=3421075982&perks=3400784728,3201496230
+dimwishlist:item=3421075982&perks=3978468247,1089671869
+dimwishlist:item=3421075982&perks=3978468247,3891536761
+dimwishlist:item=3421075982&perks=3978468247,3201496230
+dimwishlist:item=3421075982&perks=2289534249,1089671869
+dimwishlist:item=3421075982&perks=2289534249,3891536761
+dimwishlist:item=3421075982&perks=2289534249,3201496230
+
+
+// Something Something - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=3421075982&perks=2866798147,2551157718
+dimwishlist:item=3421075982&perks=957782887,2551157718
+
+
+// Psi Aeterna IV - add clear (pve)
+//notes: add clear tags:pve
+dimwishlist:item=3556730800&perks=2859149211,1089671869
+dimwishlist:item=3556730800&perks=2859149211,3966416502
+dimwishlist:item=3556730800&perks=2859149211,4049631843
+dimwishlist:item=3556730800&perks=684456054,1089671869
+dimwishlist:item=3556730800&perks=684456054,3966416502
+dimwishlist:item=3556730800&perks=684456054,4049631843
+
+
+// All or Nothing - Add clear (pve)
+//notes: Add clear tags:pve
+dimwishlist:item=3984776322&perks=3824105627,1909124648
+dimwishlist:item=3984776322&perks=3824105627,31345821
+dimwishlist:item=3984776322&perks=3824105627,831391274
+
+
+// All or Nothing - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=3984776322&perks=1428297954,460017080
+dimwishlist:item=3984776322&perks=1428297954,31345821
+dimwishlist:item=3984776322&perks=3619207468,460017080
+dimwishlist:item=3984776322&perks=3619207468,31345821
+
+
+
+
 //=====================
 //Season 27
 //=====================
