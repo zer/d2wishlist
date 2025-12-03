@@ -3,10 +3,81 @@ description:Mostly geared towards PvE, with some PvP picks
 
 // Season 28
 
+// The Martlet (pve)
+//notes: tags:pve
+dimwishlist:item=877384&perks=776531651,2048641572
+dimwishlist:item=877384&perks=3824105627,2048641572
+
+
+// The Martlet (pvp)
+//notes: tags:pvp
+dimwishlist:item=877384&perks=460017080,2387244414
+dimwishlist:item=877384&perks=460017080,31345821
+dimwishlist:item=877384&perks=460017080,1015611457
+dimwishlist:item=877384&perks=2579169598,2387244414
+dimwishlist:item=877384&perks=2579169598,31345821
+dimwishlist:item=877384&perks=2579169598,1015611457
+dimwishlist:item=877384&perks=3619207468,2387244414
+dimwishlist:item=877384&perks=3619207468,31345821
+dimwishlist:item=877384&perks=3619207468,1015611457
+
+
+// Horror's Least - PvE (pve)
+//notes: PvE tags:pve
+dimwishlist:item=827835657&perks=1115162408,3966416502
+dimwishlist:item=827835657&perks=1115162408,3218042543
+dimwishlist:item=827835657&perks=1511100135,3966416502
+dimwishlist:item=827835657&perks=1511100135,3218042543
+
+
+// Horror's Least - pvp ()
+//notes: pvp
+dimwishlist:item=827835657&perks=2387244414,1015611457
+dimwishlist:item=827835657&perks=2387244414,1428297954
+
+
 // M-17 "Fast Talker" - add clear (pve)
 //notes: add clear tags:pve
 dimwishlist:item=1419158093&perks=243981275,2922950962
 dimwishlist:item=1419158093&perks=3523296417,2922950962
+
+
+// Corundum Hammer - god roll pvp (god-pvp,pvp)
+//notes: god roll pvp tags:god-pvp,pvp
+dimwishlist:item=2263462407&perks=3250034553,3142289711,3161816588,555281244
+dimwishlist:item=2263462407&perks=3250034553,3142289711,3161816588,47981717
+dimwishlist:item=2263462407&perks=3250034553,3142289711,3161816588,3619207468
+dimwishlist:item=2263462407&perks=1482024992,3142289711,3161816588,555281244
+dimwishlist:item=2263462407&perks=1482024992,3142289711,3161816588,47981717
+dimwishlist:item=2263462407&perks=1482024992,3142289711,3161816588,3619207468
+
+
+// Corundum Hammer - pvp duelling (pvp)
+//notes: pvp duelling tags:pvp
+dimwishlist:item=2263462407&perks=3161816588,47981717
+dimwishlist:item=2263462407&perks=3161816588,3619207468
+dimwishlist:item=2263462407&perks=2579169598,47981717
+dimwishlist:item=2263462407&perks=2579169598,3619207468
+dimwishlist:item=2263462407&perks=2451262963,47981717
+dimwishlist:item=2263462407&perks=2451262963,3619207468
+dimwishlist:item=2263462407&perks=923806249,47981717
+dimwishlist:item=2263462407&perks=923806249,3619207468
+
+
+// Corundum Hammer - pvp kill (pvp)
+//notes: pvp kill tags:pvp
+dimwishlist:item=2263462407&perks=3161816588,555281244
+dimwishlist:item=2263462407&perks=3161816588,3038247973
+dimwishlist:item=2263462407&perks=3161816588,1089671869
+dimwishlist:item=2263462407&perks=3161816588,31345821
+dimwishlist:item=2263462407&perks=2579169598,555281244
+dimwishlist:item=2263462407&perks=2579169598,3038247973
+dimwishlist:item=2263462407&perks=2579169598,1089671869
+dimwishlist:item=2263462407&perks=2579169598,31345821
+dimwishlist:item=2263462407&perks=2451262963,555281244
+dimwishlist:item=2263462407&perks=2451262963,3038247973
+dimwishlist:item=2263462407&perks=2451262963,1089671869
+dimwishlist:item=2263462407&perks=2451262963,31345821
 
 
 // Compact Defender - Destab + Repulsor (pve)
@@ -39,7 +110,11 @@ dimwishlist:item=3146657388&perks=307683764,1918398421
 // Uncivil Discourse - Lucky Pants Swap (pve)
 //notes: Lucky Pants Swap tags:pve
 dimwishlist:item=3146657389&perks=1421772400,4104185692
+dimwishlist:item=3146657389&perks=1421772400,2109543898
 dimwishlist:item=3146657389&perks=1421772400,555281244
+dimwishlist:item=3146657389&perks=3932949589,4104185692
+dimwishlist:item=3146657389&perks=3932949589,2109543898
+dimwishlist:item=3146657389&perks=3932949589,555281244
 
 
 // Something Something - PvE (pve)
@@ -61,14 +136,81 @@ dimwishlist:item=3421075982&perks=2866798147,2551157718
 dimwishlist:item=3421075982&perks=957782887,2551157718
 
 
-// Psi Aeterna IV - add clear (pve)
-//notes: add clear tags:pve
-dimwishlist:item=3556730800&perks=2859149211,1089671869
-dimwishlist:item=3556730800&perks=2859149211,3966416502
-dimwishlist:item=3556730800&perks=2859149211,4049631843
+// Psi Aeterna IV - add clear and maybe boss dmg (pve)
+//notes: add clear and maybe boss dmg tags:pve
+dimwishlist:item=3556730800&perks=1115162408,1089671869
+dimwishlist:item=3556730800&perks=1115162408,3966416502
+dimwishlist:item=3556730800&perks=1115162408,4049631843
 dimwishlist:item=3556730800&perks=684456054,1089671869
 dimwishlist:item=3556730800&perks=684456054,3966416502
 dimwishlist:item=3556730800&perks=684456054,4049631843
+
+
+// Psi Aeterna IV - utility (pve)
+//notes: utility tags:pve
+dimwishlist:item=3556730800&perks=2859149211,1888882410
+dimwishlist:item=3556730800&perks=2859149211,3218042543
+dimwishlist:item=3556730800&perks=2859149211,3966416502
+dimwishlist:item=3556730800&perks=1017229899,1888882410
+dimwishlist:item=3556730800&perks=1017229899,3218042543
+dimwishlist:item=3556730800&perks=1017229899,3966416502
+dimwishlist:item=3556730800&perks=1115162408,1888882410
+dimwishlist:item=3556730800&perks=1115162408,3218042543
+dimwishlist:item=3556730800&perks=1115162408,3966416502
+
+
+// A Good Shout (pve)
+//notes: tags:pve
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+
+
+// A Good Shout (pve)
+//notes: tags:pve
+dimwishlist:item=3615748501&perks=776531651,2048641572
+
+
+// Peculiar Charm - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=3620277039&perks=2846385770,460017080
+dimwishlist:item=3620277039&perks=2846385770,3081867624
+dimwishlist:item=3620277039&perks=2579169598,460017080
+dimwishlist:item=3620277039&perks=2579169598,3081867624
+
+
+// Peculiar Charm - PvE ()
+//notes: PvE
+dimwishlist:item=3620277039&perks=243981275,3891536761
+dimwishlist:item=3620277039&perks=243981275,3824105627
+
+
+// Refurbished A499 (pve)
+//notes: tags:pve
+dimwishlist:item=3661051060&perks=957782887,3764420437
+dimwishlist:item=3661051060&perks=588594999,3764420437
+
+
+// Fimbulwinter Stitch - jolting PvE (pve)
+//notes: jolting PvE tags:pve
+dimwishlist:item=3685829362&perks=1115162408,3966416502
+dimwishlist:item=3685829362&perks=1511100135,3966416502
+
+
+// Fimbulwinter Stitch - voltshot PvE (pve)
+//notes: voltshot PvE tags:pve
+dimwishlist:item=3685829362&perks=1119449540,2173046394
+dimwishlist:item=3685829362&perks=247725512,2173046394
+
+
+// Fimbulwinter Stitch - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=3685829362&perks=2579169598,555281244
+dimwishlist:item=3685829362&perks=2846385770,555281244
+dimwishlist:item=3685829362&perks=247725512,555281244
 
 
 // All or Nothing - Add clear (pve)
@@ -84,6 +226,33 @@ dimwishlist:item=3984776322&perks=1428297954,460017080
 dimwishlist:item=3984776322&perks=1428297954,31345821
 dimwishlist:item=3984776322&perks=3619207468,460017080
 dimwishlist:item=3984776322&perks=3619207468,31345821
+
+
+// Mos Athanor IV - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=4118334987&perks=2039302152,3673922083
+dimwishlist:item=4118334987&perks=2039302152,555281244
+dimwishlist:item=4118334987&perks=3619207468,3673922083
+dimwishlist:item=4118334987&perks=3619207468,555281244
+dimwishlist:item=4118334987&perks=2579169598,3673922083
+dimwishlist:item=4118334987&perks=2579169598,555281244
+
+
+// Mos Athanor IV - PvP duel (pvp)
+//notes: PvP duel tags:pvp
+dimwishlist:item=4118334987&perks=3619207468,699525795
+dimwishlist:item=4118334987&perks=3619207468,47981717
+dimwishlist:item=4118334987&perks=2039302152,699525795
+dimwishlist:item=4118334987&perks=2039302152,47981717
+dimwishlist:item=4118334987&perks=588594999,699525795
+dimwishlist:item=4118334987&perks=588594999,47981717
+dimwishlist:item=4118334987&perks=2579169598,699525795
+dimwishlist:item=4118334987&perks=2579169598,47981717
+dimwishlist:item=4118334987&perks=1918398421,699525795
+dimwishlist:item=4118334987&perks=1918398421,47981717
+
+
+
 
 
 
