@@ -1,7 +1,7 @@
 title:zer's wishlist
 description:Mostly geared towards PvE, with some PvP picks
 
-// Season 28
+//title:s28
 
 // The Martlet (pve)
 //notes: tags:pve
@@ -22,6 +22,95 @@ dimwishlist:item=877384&perks=3619207468,31345821
 dimwishlist:item=877384&perks=3619207468,1015611457
 
 
+// Voltaic Shade (pve)
+//notes: tags:pve
+dimwishlist:item=71057630&perks=3966416502,4104185692
+dimwishlist:item=71057630&perks=3966416502,2173046394
+dimwishlist:item=71057630&perks=3966416502,657025441
+dimwishlist:item=71057630&perks=247725512,4104185692
+dimwishlist:item=71057630&perks=247725512,2173046394
+dimwishlist:item=71057630&perks=247725512,657025441
+dimwishlist:item=71057630&perks=3700496672,4104185692
+dimwishlist:item=71057630&perks=3700496672,2173046394
+dimwishlist:item=71057630&perks=3700496672,657025441
+
+
+// Psi Aeterna IV (pve)
+//notes: tags:pve
+dimwishlist:item=135971347&perks=684456054,1089671869
+dimwishlist:item=135971347&perks=684456054,3966416502
+dimwishlist:item=135971347&perks=684456054,4049631843
+dimwishlist:item=135971347&perks=1017229899,1089671869
+dimwishlist:item=135971347&perks=1017229899,3966416502
+dimwishlist:item=135971347&perks=1017229899,4049631843
+dimwishlist:item=135971347&perks=1115162408,1089671869
+dimwishlist:item=135971347&perks=1115162408,3966416502
+dimwishlist:item=135971347&perks=1115162408,4049631843
+
+
+// Duty Bound - PvP (pvp)
+//notes: PvP tags:pvp
+dimwishlist:item=260532765&perks=2579169598,1226351311
+dimwishlist:item=260532765&perks=2579169598,1359896290
+dimwishlist:item=260532765&perks=2387244414,1226351311
+dimwishlist:item=260532765&perks=2387244414,1359896290
+
+
+// Duty Bound - PvE (pve)
+//notes: PvE tags:pve
+dimwishlist:item=260532765&perks=2289534249,3425386926
+dimwishlist:item=260532765&perks=2289534249,95528736
+dimwishlist:item=260532765&perks=1517798362,3425386926
+dimwishlist:item=260532765&perks=1517798362,95528736
+dimwishlist:item=260532765&perks=3828510309,3425386926
+dimwishlist:item=260532765&perks=3828510309,95528736
+
+
+// Qua Vinctus IV (pve)
+//notes: tags:pve
+dimwishlist:item=337893613&perks=3523296417,657025441
+dimwishlist:item=337893613&perks=3523296417,557221067
+dimwishlist:item=337893613&perks=923806249,657025441
+dimwishlist:item=337893613&perks=923806249,557221067
+dimwishlist:item=337893613&perks=831391274,657025441
+dimwishlist:item=337893613&perks=831391274,557221067
+
+
+// Micromort (pve)
+//notes: tags:pve
+dimwishlist:item=474671201&perks=1275731761,3078487919
+dimwishlist:item=474671201&perks=1275731761,1439600632
+dimwishlist:item=474671201&perks=3987942396,3078487919
+dimwishlist:item=474671201&perks=3987942396,1439600632
+dimwishlist:item=474671201&perks=2869569095,3078487919
+dimwishlist:item=474671201&perks=2869569095,1439600632
+
+
+// Action Item (pve)
+//notes: tags:pve
+dimwishlist:item=527989828&perks=3993379141,2922950962
+dimwishlist:item=527989828&perks=3993379141,4198902903
+dimwishlist:item=527989828&perks=3993379141,124408337
+dimwishlist:item=527989828&perks=3523296417,2922950962
+dimwishlist:item=527989828&perks=3523296417,4198902903
+dimwishlist:item=527989828&perks=3523296417,124408337
+dimwishlist:item=527989828&perks=1955165503,2922950962
+dimwishlist:item=527989828&perks=1955165503,4198902903
+dimwishlist:item=527989828&perks=1955165503,124408337
+
+
+// Something Something (pve)
+//notes: tags:pve
+dimwishlist:item=690412397&perks=3400784728,1089671869
+dimwishlist:item=690412397&perks=3400784728,3201496230
+dimwishlist:item=690412397&perks=3400784728,3891536761
+dimwishlist:item=690412397&perks=3400784728,3252937884
+dimwishlist:item=690412397&perks=3978468247,1089671869
+dimwishlist:item=690412397&perks=3978468247,3201496230
+dimwishlist:item=690412397&perks=3978468247,3891536761
+dimwishlist:item=690412397&perks=3978468247,3252937884
+
+
 // Horror's Least - PvE (pve)
 //notes: PvE tags:pve
 dimwishlist:item=827835657&perks=1115162408,3966416502
@@ -36,10 +125,94 @@ dimwishlist:item=827835657&perks=2387244414,1015611457
 dimwishlist:item=827835657&perks=2387244414,1428297954
 
 
+// Bitter End (pve)
+//notes: tags:pve
+dimwishlist:item=954563454&perks=1115162408,3218042543
+dimwishlist:item=954563454&perks=1115162408,557221067
+dimwishlist:item=954563454&perks=1115162408,3966416502
+dimwishlist:item=954563454&perks=3932949589,3218042543
+dimwishlist:item=954563454&perks=3932949589,557221067
+dimwishlist:item=954563454&perks=3932949589,3966416502
+dimwishlist:item=954563454&perks=684456054,3218042543
+dimwishlist:item=954563454&perks=684456054,557221067
+dimwishlist:item=954563454&perks=684456054,3966416502
+
+
+// Bitter End (pvp)
+//notes: tags:pvp
+dimwishlist:item=954563454&perks=1365187766,557221067
+
+
+// Horror's Least (pve)
+//notes: tags:pve
+dimwishlist:item=1018012078&perks=1511100135,3966416502
+dimwishlist:item=1018012078&perks=1511100135,3218042543
+dimwishlist:item=1018012078&perks=1115162408,3966416502
+dimwishlist:item=1018012078&perks=1115162408,3218042543
+
+
+// Sullen Claw (pve)
+//notes: tags:pve
+dimwishlist:item=1085743380&perks=2077819806,2048641572
+dimwishlist:item=1085743380&perks=2077819806,3913600130
+dimwishlist:item=1085743380&perks=2077819806,354401740
+dimwishlist:item=1085743380&perks=1546637391,2048641572
+dimwishlist:item=1085743380&perks=1546637391,3913600130
+dimwishlist:item=1085743380&perks=1546637391,354401740
+dimwishlist:item=1085743380&perks=1749209109,2048641572
+dimwishlist:item=1085743380&perks=1749209109,3913600130
+dimwishlist:item=1085743380&perks=1749209109,354401740
+
+
+// Sarpedon-D (pve)
+//notes: tags:pve
+dimwishlist:item=1242785638&perks=684456054,2679249093
+dimwishlist:item=1242785638&perks=684456054,2360754333
+
+
+// Sarpedon-D (pve)
+//notes: tags:pve
+dimwishlist:item=1242785638&perks=1115162408,3218042543
+
+
+// Riptide (pve)
+//notes: tags:pve
+dimwishlist:item=1323862250&perks=3300816228,2978966579
+dimwishlist:item=1323862250&perks=3300816228,2594592626
+dimwishlist:item=1323862250&perks=3643424744,2978966579
+dimwishlist:item=1323862250&perks=3643424744,2594592626
+
+
 // M-17 "Fast Talker" - add clear (pve)
 //notes: add clear tags:pve
 dimwishlist:item=1419158093&perks=243981275,2922950962
 dimwishlist:item=1419158093&perks=3523296417,2922950962
+
+
+// Motif-41 (pve)
+//notes: tags:pve
+dimwishlist:item=1685533876&perks=3300816228,4293542123
+dimwishlist:item=1685533876&perks=3300816228,3081867624
+dimwishlist:item=1685533876&perks=3300816228,243981275
+dimwishlist:item=1685533876&perks=3592538738,4293542123
+dimwishlist:item=1685533876&perks=3592538738,3081867624
+dimwishlist:item=1685533876&perks=3592538738,243981275
+dimwishlist:item=1685533876&perks=951095735,4293542123
+dimwishlist:item=1685533876&perks=951095735,3081867624
+dimwishlist:item=1685533876&perks=951095735,243981275
+
+
+// The Heron (pve)
+//notes: tags:pve
+dimwishlist:item=2246386812&perks=776531651,2048641572
+dimwishlist:item=2246386812&perks=776531651,1202584452
+dimwishlist:item=2246386812&perks=776531651,3201496230
+dimwishlist:item=2246386812&perks=1683379515,2048641572
+dimwishlist:item=2246386812&perks=1683379515,1202584452
+dimwishlist:item=2246386812&perks=1683379515,3201496230
+dimwishlist:item=2246386812&perks=1556840489,2048641572
+dimwishlist:item=2246386812&perks=1556840489,1202584452
+dimwishlist:item=2246386812&perks=1556840489,3201496230
 
 
 // Corundum Hammer - god roll pvp (god-pvp,pvp)
@@ -80,9 +253,61 @@ dimwishlist:item=2263462407&perks=2451262963,1089671869
 dimwishlist:item=2263462407&perks=2451262963,31345821
 
 
+// Corundum Hammer - Utility (pve)
+//notes: Utility tags:pve
+dimwishlist:item=2263462407&perks=3700496672,3038247973
+
+
+// Corundum Hammer (pve)
+//notes: tags:pve
+dimwishlist:item=2263462407&perks=3824105627,3038247973
+dimwishlist:item=2263462407&perks=3824105627,960997401
+dimwishlist:item=2263462407&perks=923806249,3038247973
+dimwishlist:item=2263462407&perks=923806249,960997401
+
+
+// Eighty-Six (pve)
+//notes: tags:pve
+dimwishlist:item=2344383760&perks=1749209109,243981275
+dimwishlist:item=2344383760&perks=1749209109,1089671869
+dimwishlist:item=2344383760&perks=1749209109,3201496230
+dimwishlist:item=2344383760&perks=4132187021,243981275
+dimwishlist:item=2344383760&perks=4132187021,1089671869
+dimwishlist:item=2344383760&perks=4132187021,3201496230
+dimwishlist:item=2344383760&perks=2244851822,243981275
+dimwishlist:item=2344383760&perks=2244851822,1089671869
+dimwishlist:item=2344383760&perks=2244851822,3201496230
+
+
 // Compact Defender - Destab + Repulsor (pve)
 //notes: Destab + Repulsor tags:pve
 dimwishlist:item=2819552809&perks=2048641572,776531651
+
+
+// High Tyrant (pve)
+//notes: tags:pve
+dimwishlist:item=2873508409&perks=2048641572,657025441
+dimwishlist:item=2873508409&perks=2048641572,1464081238
+dimwishlist:item=2873508409&perks=2048641572,4104185692
+dimwishlist:item=2873508409&perks=776531651,657025441
+dimwishlist:item=2873508409&perks=776531651,1464081238
+dimwishlist:item=2873508409&perks=776531651,4104185692
+dimwishlist:item=2873508409&perks=1119449540,657025441
+dimwishlist:item=2873508409&perks=1119449540,1464081238
+dimwishlist:item=2873508409&perks=1119449540,4104185692
+
+
+// Permafrost (pve)
+//notes: tags:pve
+dimwishlist:item=2922964484&perks=1955165503,2922950962
+dimwishlist:item=2922964484&perks=1955165503,113508675
+dimwishlist:item=2922964484&perks=1955165503,3592538738
+dimwishlist:item=2922964484&perks=3523296417,2922950962
+dimwishlist:item=2922964484&perks=3523296417,113508675
+dimwishlist:item=2922964484&perks=3523296417,3592538738
+dimwishlist:item=2922964484&perks=1017229899,2922950962
+dimwishlist:item=2922964484&perks=1017229899,113508675
+dimwishlist:item=2922964484&perks=1017229899,3592538738
 
 
 // Modified B-7 Pistol - Firefly add clear (pve)
@@ -136,6 +361,24 @@ dimwishlist:item=3421075982&perks=2866798147,2551157718
 dimwishlist:item=3421075982&perks=957782887,2551157718
 
 
+// King Orfeo - Jolting Bow (pve)
+//notes: Jolting Bow tags:pve
+dimwishlist:item=3481382332&perks=2652708987,3966416502
+dimwishlist:item=3481382332&perks=201365942,3966416502
+dimwishlist:item=3481382332&perks=951095735,3966416502
+
+
+// King Orfeo - Double Splash (pve)
+//notes: tags:pve
+dimwishlist:item=3481382332&perks=3365897133,657025441
+dimwishlist:item=3481382332&perks=3365897133,3966416502
+
+
+// King Orfeo - Utility (pve)
+//notes: Utility tags:pve
+dimwishlist:item=3481382332&perks=3700496672,3966416502
+
+
 // Psi Aeterna IV - add clear and maybe boss dmg (pve)
 //notes: add clear and maybe boss dmg tags:pve
 dimwishlist:item=3556730800&perks=1115162408,1089671869
@@ -182,10 +425,12 @@ dimwishlist:item=3620277039&perks=2579169598,460017080
 dimwishlist:item=3620277039&perks=2579169598,3081867624
 
 
-// Peculiar Charm - PvE ()
-//notes: PvE
-dimwishlist:item=3620277039&perks=243981275,3891536761
+// Peculiar Charm - PvE (pve)
+//notes: PvE tags:pve
 dimwishlist:item=3620277039&perks=243981275,3824105627
+dimwishlist:item=3620277039&perks=243981275,3891536761
+dimwishlist:item=3620277039&perks=3700496672,3824105627
+dimwishlist:item=3620277039&perks=3700496672,3891536761
 
 
 // Refurbished A499 (pve)
@@ -213,19 +458,63 @@ dimwishlist:item=3685829362&perks=2846385770,555281244
 dimwishlist:item=3685829362&perks=247725512,555281244
 
 
-// All or Nothing - Add clear (pve)
-//notes: Add clear tags:pve
-dimwishlist:item=3984776322&perks=3824105627,1909124648
-dimwishlist:item=3984776322&perks=3824105627,31345821
-dimwishlist:item=3984776322&perks=3824105627,831391274
-
-
 // All or Nothing - PvP (pvp)
 //notes: PvP tags:pvp
 dimwishlist:item=3984776322&perks=1428297954,460017080
 dimwishlist:item=3984776322&perks=1428297954,31345821
 dimwishlist:item=3984776322&perks=3619207468,460017080
 dimwishlist:item=3984776322&perks=3619207468,31345821
+
+
+// All or Nothing (pve)
+//notes: tags:pve
+dimwishlist:item=3984776322&perks=923806249,960997401
+dimwishlist:item=3984776322&perks=923806249,831391274
+dimwishlist:item=3984776322&perks=3824105627,960997401
+dimwishlist:item=3984776322&perks=3824105627,831391274
+
+
+// Conspiracy Honed (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=4062069077&perks=807993149,1546637391,3078487919
+
+
+// Conspiracy Honed (pve)
+//notes: tags:pve
+dimwishlist:item=4062069077&perks=1546637391,3078487919
+
+
+// Conspiracy Honed (pvp)
+//notes: tags:pvp
+dimwishlist:item=4062069077&perks=957782887,588594999
+dimwishlist:item=4062069077&perks=957782887,47981717
+dimwishlist:item=4062069077&perks=2579169598,588594999
+dimwishlist:item=4062069077&perks=2579169598,47981717
+dimwishlist:item=4062069077&perks=307683764,588594999
+dimwishlist:item=4062069077&perks=307683764,47981717
+
+
+// Gizmo Weft (pve)
+//notes: tags:pve
+dimwishlist:item=4069880346&perks=1421772400,1439600632
+dimwishlist:item=4069880346&perks=1421772400,3764420437
+dimwishlist:item=4069880346&perks=1421772400,1089671869
+dimwishlist:item=4069880346&perks=3161816588,1439600632
+dimwishlist:item=4069880346&perks=3161816588,3764420437
+dimwishlist:item=4069880346&perks=3161816588,1089671869
+dimwishlist:item=4069880346&perks=3987942396,1439600632
+dimwishlist:item=4069880346&perks=3987942396,3764420437
+dimwishlist:item=4069880346&perks=3987942396,1089671869
+
+
+// Oxygen SR3 (pve)
+//notes: tags:pve
+dimwishlist:item=4104613038&perks=3017780555,657025441
+dimwishlist:item=4104613038&perks=3017780555,2890807135
+dimwishlist:item=4104613038&perks=247725512,657025441
+dimwishlist:item=4104613038&perks=247725512,2890807135
+dimwishlist:item=4104613038&perks=3700496672,657025441
+dimwishlist:item=4104613038&perks=3700496672,2890807135
 
 
 // Mos Athanor IV - PvP (pvp)
@@ -250,6 +539,8 @@ dimwishlist:item=4118334987&perks=2579169598,699525795
 dimwishlist:item=4118334987&perks=2579169598,47981717
 dimwishlist:item=4118334987&perks=1918398421,699525795
 dimwishlist:item=4118334987&perks=1918398421,47981717
+
+
 
 
 

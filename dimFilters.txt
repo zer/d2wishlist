@@ -87,12 +87,12 @@ tertiarystat:weapons
 (exactperk:gunner or exactperk:paragon)
  is:helmet is:gauntlets is:chest is:leg is:classitem
 
-/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"twofold crown" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"wild anthem")
+/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"twofold crown" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"wild anthem" or exactperk:"sage protector")
 
-/* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"twofold crown" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"wild anthem")
+/* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"twofold crown" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"wild anthem" or exactperk:"sage protector")
 
 /* 0010 paragon/gunner armour split for PvE */ 
--is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent)
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"sage protector")
 (
 	(exactperk:paragon 
 		and (is:helmet or is:gauntlets or is:chest)
@@ -124,7 +124,7 @@ merge 0010 + 0020 for this one
 (
 	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 
 	(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido
-	or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent)
+	or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"sage protector")
 	(
 		(exactperk:paragon 
 			and (is:helmet or is:gauntlets or is:chest)
