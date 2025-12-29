@@ -202,6 +202,22 @@ dimwishlist:item=1685533876&perks=951095735,3081867624
 dimwishlist:item=1685533876&perks=951095735,243981275
 
 
+// Evening SI4 - solar goodness (pve)
+//notes: solar goodness tags:pve
+dimwishlist:item=1763361847&perks=2360347339,2109543898
+dimwishlist:item=1763361847&perks=2360347339,2890807135
+dimwishlist:item=1763361847&perks=2360347339,4293542123
+dimwishlist:item=1763361847&perks=3017780555,2109543898
+dimwishlist:item=1763361847&perks=3017780555,2890807135
+dimwishlist:item=1763361847&perks=3017780555,4293542123
+
+
+// Evening SI4 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1763361847&perks=2579169598,460017080
+dimwishlist:item=1763361847&perks=2579169598,31345821
+
+
 // The Heron (pve)
 //notes: tags:pve
 dimwishlist:item=2246386812&perks=776531651,2048641572
@@ -417,6 +433,24 @@ dimwishlist:item=3615748501&perks=4042220767,2551157718
 dimwishlist:item=3615748501&perks=776531651,2048641572
 
 
+// Evening SI4 - solar goodness (pve)
+//notes: solar goodness tags:pve
+dimwishlist:item=3618823368&perks=3017780555,2890807135
+dimwishlist:item=3618823368&perks=3017780555,4293542123
+dimwishlist:item=3618823368&perks=3017780555,2109543898
+dimwishlist:item=3618823368&perks=2360347339,2890807135
+dimwishlist:item=3618823368&perks=2360347339,4293542123
+dimwishlist:item=3618823368&perks=2360347339,2109543898
+
+
+// Evening SI4 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3618823368&perks=2579169598,31345821
+dimwishlist:item=3618823368&perks=2579169598,460017080
+dimwishlist:item=3618823368&perks=3017780555,31345821
+dimwishlist:item=3618823368&perks=3017780555,460017080
+
+
 // Peculiar Charm - PvP (pvp)
 //notes: PvP tags:pvp
 dimwishlist:item=3620277039&perks=2846385770,460017080
@@ -539,6 +573,9 @@ dimwishlist:item=4118334987&perks=2579169598,699525795
 dimwishlist:item=4118334987&perks=2579169598,47981717
 dimwishlist:item=4118334987&perks=1918398421,699525795
 dimwishlist:item=4118334987&perks=1918398421,47981717
+
+
+
 
 
 
