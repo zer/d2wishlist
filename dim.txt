@@ -358,6 +358,18 @@ dimwishlist:item=3146657389&perks=3932949589,2109543898
 dimwishlist:item=3146657389&perks=3932949589,555281244
 
 
+// Sarpedon-D (pve)
+//notes: tags:pve
+dimwishlist:item=3318545829&perks=684456054,2679249093
+dimwishlist:item=3318545829&perks=684456054,2360754333
+dimwishlist:item=3318545829&perks=684456054,2173046394
+dimwishlist:item=3318545829&perks=684456054,3218042543
+dimwishlist:item=3318545829&perks=1115162408,2679249093
+dimwishlist:item=3318545829&perks=1115162408,2360754333
+dimwishlist:item=3318545829&perks=1115162408,2173046394
+dimwishlist:item=3318545829&perks=1115162408,3218042543
+
+
 // Something Something - PvE (pve)
 //notes: PvE tags:pve
 dimwishlist:item=3421075982&perks=3400784728,1089671869
