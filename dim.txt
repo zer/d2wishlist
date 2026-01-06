@@ -66,6 +66,18 @@ dimwishlist:item=260532765&perks=3828510309,3425386926
 dimwishlist:item=260532765&perks=3828510309,95528736
 
 
+// Mistral Lift ()
+dimwishlist:item=270610849&perks=3987942396,3078487919
+dimwishlist:item=270610849&perks=3987942396,555281244
+dimwishlist:item=270610849&perks=3987942396,1427256713
+dimwishlist:item=270610849&perks=1523832109,3078487919
+dimwishlist:item=270610849&perks=1523832109,555281244
+dimwishlist:item=270610849&perks=1523832109,1427256713
+dimwishlist:item=270610849&perks=3643424744,3078487919
+dimwishlist:item=270610849&perks=3643424744,555281244
+dimwishlist:item=270610849&perks=3643424744,1427256713
+
+
 // Qua Vinctus IV (pve)
 //notes: tags:pve
 dimwishlist:item=337893613&perks=3523296417,657025441
@@ -109,6 +121,19 @@ dimwishlist:item=690412397&perks=3978468247,1089671869
 dimwishlist:item=690412397&perks=3978468247,3201496230
 dimwishlist:item=690412397&perks=3978468247,3891536761
 dimwishlist:item=690412397&perks=3978468247,3252937884
+
+
+// Mistral Lift (pve)
+//notes: tags:pve
+dimwishlist:item=766122634&perks=3643424744,3078487919
+dimwishlist:item=766122634&perks=3643424744,555281244
+dimwishlist:item=766122634&perks=3643424744,1427256713
+dimwishlist:item=766122634&perks=1523832109,3078487919
+dimwishlist:item=766122634&perks=1523832109,555281244
+dimwishlist:item=766122634&perks=1523832109,1427256713
+dimwishlist:item=766122634&perks=3987942396,3078487919
+dimwishlist:item=766122634&perks=3987942396,555281244
+dimwishlist:item=766122634&perks=3987942396,1427256713
 
 
 // Horror's Least - PvE (pve)
@@ -181,6 +206,19 @@ dimwishlist:item=1323862250&perks=3300816228,2978966579
 dimwishlist:item=1323862250&perks=3300816228,2594592626
 dimwishlist:item=1323862250&perks=3643424744,2978966579
 dimwishlist:item=1323862250&perks=3643424744,2594592626
+
+
+// Riptide (pve)
+//notes: tags:pve
+dimwishlist:item=1323862250&perks=1799762209,2978966579
+dimwishlist:item=1323862250&perks=1799762209,2594592626
+
+
+// Riptide (pvp)
+//notes: tags:pvp
+dimwishlist:item=1323862250&perks=1645158859,1194056669
+dimwishlist:item=1323862250&perks=3643424744,1194056669
+dimwishlist:item=1323862250&perks=1918398421,1194056669
 
 
 // M-17 "Fast Talker" - add clear (pve)
@@ -282,6 +320,29 @@ dimwishlist:item=2263462407&perks=923806249,3038247973
 dimwishlist:item=2263462407&perks=923806249,960997401
 
 
+// Riptide (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2297554989&perks=3250034553,2969185026,3643424744,1194056669
+dimwishlist:item=2297554989&perks=3250034553,2969185026,1645158859,1194056669
+
+
+// Riptide (pve)
+//notes: tags:pve
+dimwishlist:item=2297554989&perks=3300816228,2978966579
+dimwishlist:item=2297554989&perks=3300816228,2594592626
+dimwishlist:item=2297554989&perks=3643424744,2978966579
+dimwishlist:item=2297554989&perks=3643424744,2594592626
+dimwishlist:item=2297554989&perks=1799762209,2978966579
+dimwishlist:item=2297554989&perks=1799762209,2594592626
+
+
+// Riptide (pvp)
+//notes: tags:pvp
+dimwishlist:item=2297554989&perks=1645158859,1194056669
+dimwishlist:item=2297554989&perks=3643424744,1194056669
+dimwishlist:item=2297554989&perks=1918398421,1194056669
+
+
 // Eighty-Six (pve)
 //notes: tags:pve
 dimwishlist:item=2344383760&perks=1749209109,243981275
@@ -298,6 +359,19 @@ dimwishlist:item=2344383760&perks=2244851822,3201496230
 // Compact Defender - Destab + Repulsor (pve)
 //notes: Destab + Repulsor tags:pve
 dimwishlist:item=2819552809&perks=2048641572,776531651
+
+
+// The Immortal (pvp)
+//notes: tags:pvp
+dimwishlist:item=2872063099&perks=2846385770,365154968
+dimwishlist:item=2872063099&perks=2846385770,1015611457
+dimwishlist:item=2872063099&perks=2846385770,3081867624
+
+
+// The Immortal ()
+dimwishlist:item=2872063099&perks=2846385770,2579169598
+dimwishlist:item=2872063099&perks=1359896290,2579169598
+dimwishlist:item=2872063099&perks=4071163871,2579169598
 
 
 // High Tyrant (pve)
