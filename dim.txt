@@ -1,6 +1,8 @@
 title:zer's wishlist
 description:Mostly geared towards PvE, with some PvP picks
 
+//==============================================================================================================================
+//==============================================================================================================================
 //title:s28
 
 // The Martlet (pve)
@@ -22,6 +24,11 @@ dimwishlist:item=877384&perks=3619207468,31345821
 dimwishlist:item=877384&perks=3619207468,1015611457
 
 
+// Voltaic Shade (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=71057630&perks=1092016998,307683764,555281244
+
+
 // Voltaic Shade (pve)
 //notes: tags:pve
 dimwishlist:item=71057630&perks=3966416502,4104185692
@@ -30,9 +37,14 @@ dimwishlist:item=71057630&perks=3966416502,657025441
 dimwishlist:item=71057630&perks=247725512,4104185692
 dimwishlist:item=71057630&perks=247725512,2173046394
 dimwishlist:item=71057630&perks=247725512,657025441
-dimwishlist:item=71057630&perks=3700496672,4104185693
+dimwishlist:item=71057630&perks=3700496672,4104185692
 dimwishlist:item=71057630&perks=3700496672,2173046394
 dimwishlist:item=71057630&perks=3700496672,657025441
+
+
+// Voltaic Shade (pvp)
+//notes: tags:pvp
+dimwishlist:item=71057630&perks=307683764,555281244
 
 
 // Psi Aeterna IV (pve)
@@ -165,7 +177,12 @@ dimwishlist:item=954563454&perks=684456054,3966416502
 
 // Bitter End (pvp)
 //notes: tags:pvp
+dimwishlist:item=954563454&perks=307683764,557221067
+dimwishlist:item=954563454&perks=307683764,2416023159
+dimwishlist:item=954563454&perks=1866048759,557221067
+dimwishlist:item=954563454&perks=1866048759,2416023159
 dimwishlist:item=954563454&perks=1365187766,557221067
+dimwishlist:item=954563454&perks=1365187766,2416023159
 
 
 // Horror's Least (pve)
@@ -221,10 +238,42 @@ dimwishlist:item=1323862250&perks=3643424744,1194056669
 dimwishlist:item=1323862250&perks=1918398421,1194056669
 
 
+// M-17 "Fast Talker" (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,1890422124
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,1890422124
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,1890422124
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,1890422124
+
+
 // M-17 "Fast Talker" - add clear (pve)
 //notes: add clear tags:pve
 dimwishlist:item=1419158093&perks=243981275,2922950962
 dimwishlist:item=1419158093&perks=3523296417,2922950962
+
+
+// M-17 "Fast Talker" (pvp)
+//notes: tags:pvp
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,365154968
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,31345821
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,1015611457
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,1890422124
+dimwishlist:item=1419158093&perks=3661387068,1092016998,307683764,3081867624
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,365154968
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,31345821
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,1015611457
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,1890422124
+dimwishlist:item=1419158093&perks=3661387068,2969185026,307683764,3081867624
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,365154968
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,31345821
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,1015611457
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,1890422124
+dimwishlist:item=1419158093&perks=1467527085,1092016998,307683764,3081867624
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,365154968
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,31345821
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,1015611457
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,1890422124
+dimwishlist:item=1419158093&perks=1467527085,2969185026,307683764,3081867624
 
 
 // Motif-41 (pve)
@@ -254,6 +303,14 @@ dimwishlist:item=1763361847&perks=3017780555,4293542123
 //notes: tags:pvp
 dimwishlist:item=1763361847&perks=2579169598,460017080
 dimwishlist:item=1763361847&perks=2579169598,31345821
+
+
+// Zealous Ideal (pvp)
+//notes: tags:pvp
+dimwishlist:item=1863583117&perks=2387244414,95528736
+dimwishlist:item=1863583117&perks=2387244414,3673922083
+dimwishlist:item=1863583117&perks=3017780555,95528736
+dimwishlist:item=1863583117&perks=3017780555,3673922083
 
 
 // The Heron (pve)
@@ -373,9 +430,9 @@ dimwishlist:item=2659286158&perks=2048641572,776531651
 dimwishlist:item=2659286158&perks=307683764,555281244
 
 
-// Compact Defender - Destab + Repulsor (pve)
-//notes: Destab + Repulsor tags:pve
-dimwishlist:item=2819552809&perks=2048641572,776531651
+// Compact Defender (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2819552809&perks=1092016998,2846385770,555281244
 
 
 // Compact Defender - PvP (pvp)
@@ -383,6 +440,13 @@ dimwishlist:item=2819552809&perks=2048641572,776531651
 Masterwork: even Cooling Efficiency is not bad!
 Mod: Enhanced Range? tags:pvp
 dimwishlist:item=2819552809&perks=307683764,555281244
+
+
+// Compact Defender (pve)
+//notes: tags:pve
+dimwishlist:item=2819552809&perks=2048641572,4104185692
+dimwishlist:item=2819552809&perks=2048641572,776531651
+dimwishlist:item=2819552809&perks=2048641572,4082225868
 
 
 // The Immortal (pvp)
@@ -411,6 +475,19 @@ dimwishlist:item=2873508409&perks=1119449540,1464081238
 dimwishlist:item=2873508409&perks=1119449540,4104185692
 
 
+// High Tyrant (pvp)
+//notes: tags:pvp
+dimwishlist:item=2873508409&perks=1092016998,307683764,460017080
+dimwishlist:item=2873508409&perks=1092016998,307683764,1134488199
+dimwishlist:item=2873508409&perks=1092016998,307683764,3081867624
+dimwishlist:item=2873508409&perks=2969185026,307683764,460017080
+dimwishlist:item=2873508409&perks=2969185026,307683764,1134488199
+dimwishlist:item=2873508409&perks=2969185026,307683764,3081867624
+dimwishlist:item=2873508409&perks=769709866,307683764,460017080
+dimwishlist:item=2873508409&perks=769709866,307683764,1134488199
+dimwishlist:item=2873508409&perks=769709866,307683764,3081867624
+
+
 // Permafrost (pve)
 //notes: tags:pve
 dimwishlist:item=2922964484&perks=1955165503,2922950962
@@ -422,6 +499,14 @@ dimwishlist:item=2922964484&perks=3523296417,3592538738
 dimwishlist:item=2922964484&perks=1017229899,2922950962
 dimwishlist:item=2922964484&perks=1017229899,113508675
 dimwishlist:item=2922964484&perks=1017229899,3592538738
+
+
+// Modified B-7 Pistol - PvP (god-pvp)
+//notes: 180 weapons + overclocked = 3 tap
+
+Add Bakris and Adagio, maybe 2 tap? tags:god-pvp
+dimwishlist:item=3146657388&perks=1092016998,307683764,3673922083
+dimwishlist:item=3146657388&perks=1092016998,307683764,699525795
 
 
 // Modified B-7 Pistol - Firefly add clear (pve)
@@ -446,6 +531,11 @@ dimwishlist:item=3146657388&perks=307683764,47981717
 dimwishlist:item=3146657388&perks=307683764,1918398421
 
 
+// Uncivil Discourse (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3146657389&perks=1092016998,2579169598,555281244
+
+
 // Uncivil Discourse - Lucky Pants Swap (pve)
 //notes: Lucky Pants Swap tags:pve
 dimwishlist:item=3146657389&perks=1421772400,4104185692
@@ -454,6 +544,19 @@ dimwishlist:item=3146657389&perks=1421772400,555281244
 dimwishlist:item=3146657389&perks=3932949589,4104185692
 dimwishlist:item=3146657389&perks=3932949589,2109543898
 dimwishlist:item=3146657389&perks=3932949589,555281244
+
+
+// Uncivil Discourse (pvp)
+//notes: tags:pvp
+dimwishlist:item=3146657389&perks=2579169598,555281244
+dimwishlist:item=3146657389&perks=2579169598,47981717
+dimwishlist:item=3146657389&perks=2579169598,2109543898
+dimwishlist:item=3146657389&perks=307683764,555281244
+dimwishlist:item=3146657389&perks=307683764,47981717
+dimwishlist:item=3146657389&perks=307683764,2109543898
+dimwishlist:item=3146657389&perks=3619207468,555281244
+dimwishlist:item=3146657389&perks=3619207468,47981717
+dimwishlist:item=3146657389&perks=3619207468,2109543898
 
 
 // Monody-44 (god-pve)
@@ -617,6 +720,18 @@ dimwishlist:item=3661051060&perks=957782887,3764420437
 dimwishlist:item=3661051060&perks=588594999,3764420437
 
 
+// Refurbished A499 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3661051060&perks=2579169598,3513791699
+dimwishlist:item=3661051060&perks=2579169598,3300816228
+dimwishlist:item=3661051060&perks=957782887,3513791699
+dimwishlist:item=3661051060&perks=957782887,3300816228
+dimwishlist:item=3661051060&perks=2866798147,3513791699
+dimwishlist:item=3661051060&perks=2866798147,3300816228
+dimwishlist:item=3661051060&perks=1365187766,3513791699
+dimwishlist:item=3661051060&perks=1365187766,3300816228
+
+
 // Fimbulwinter Stitch - jolting PvE (pve)
 //notes: jolting PvE tags:pve
 dimwishlist:item=3685829362&perks=1115162408,3966416502
@@ -636,14 +751,6 @@ dimwishlist:item=3685829362&perks=2846385770,555281244
 dimwishlist:item=3685829362&perks=247725512,555281244
 
 
-// All or Nothing - PvP (pvp)
-//notes: PvP tags:pvp
-dimwishlist:item=3984776322&perks=1428297954,460017080
-dimwishlist:item=3984776322&perks=1428297954,31345821
-dimwishlist:item=3984776322&perks=3619207468,460017080
-dimwishlist:item=3984776322&perks=3619207468,31345821
-
-
 // All or Nothing (pve)
 //notes: tags:pve
 dimwishlist:item=3984776322&perks=923806249,960997401
@@ -652,24 +759,40 @@ dimwishlist:item=3984776322&perks=3824105627,960997401
 dimwishlist:item=3984776322&perks=3824105627,831391274
 
 
+// All or Nothing (pvp)
+//notes: tags:pvp
+dimwishlist:item=3984776322&perks=923806249,1015611457
+dimwishlist:item=3984776322&perks=923806249,31345821
+dimwishlist:item=3984776322&perks=923806249,460017080
+dimwishlist:item=3984776322&perks=307683764,1015611457
+dimwishlist:item=3984776322&perks=307683764,31345821
+dimwishlist:item=3984776322&perks=307683764,460017080
+dimwishlist:item=3984776322&perks=3619207468,1015611457
+dimwishlist:item=3984776322&perks=3619207468,31345821
+dimwishlist:item=3984776322&perks=3619207468,460017080
+
+
 // Conspiracy Honed (god-pve,pve)
 //notes: tags:god-pve,pve
 dimwishlist:item=4062069077&perks=807993149,1546637391,3078487919
 
 
+// Conspiracy Honed (god-pvp,pvp)
+//notes: tags:god-pvp,pvp
+dimwishlist:item=4062069077&perks=1092016998,2579169598,2551157718
+dimwishlist:item=4062069077&perks=1092016998,2579169598,47981717
+dimwishlist:item=4062069077&perks=1092016998,2579169598,588594999
+dimwishlist:item=4062069077&perks=1092016998,1546637391,2551157718
+dimwishlist:item=4062069077&perks=1092016998,1546637391,47981717
+dimwishlist:item=4062069077&perks=1092016998,1546637391,588594999
+dimwishlist:item=4062069077&perks=1092016998,307683764,2551157718
+dimwishlist:item=4062069077&perks=1092016998,307683764,47981717
+dimwishlist:item=4062069077&perks=1092016998,307683764,588594999
+
+
 // Conspiracy Honed (pve)
 //notes: tags:pve
 dimwishlist:item=4062069077&perks=1546637391,3078487919
-
-
-// Conspiracy Honed (pvp)
-//notes: tags:pvp
-dimwishlist:item=4062069077&perks=957782887,588594999
-dimwishlist:item=4062069077&perks=957782887,47981717
-dimwishlist:item=4062069077&perks=2579169598,588594999
-dimwishlist:item=4062069077&perks=2579169598,47981717
-dimwishlist:item=4062069077&perks=307683764,588594999
-dimwishlist:item=4062069077&perks=307683764,47981717
 
 
 // Gizmo Weft (pve)
@@ -729,9 +852,14 @@ dimwishlist:item=4118334987&perks=1918398421,47981717
 
 
 
-//=====================
+
+
+
+//==============================================================================================================================
+//==============================================================================================================================
 //Season 27
-//=====================
+//==============================================================================================================================
+//==============================================================================================================================
 // Mint Retrograde - PvE DPS monster (pve)
 //notes: tags:pve
 dimwishlist:item=42435996&perks=3418782618,4049631843
@@ -1413,7 +1541,10 @@ dimwishlist:item=4169082039&perks=4190679284,3708227201
 
 
 // Season 26 Heresy
-//==========================================================================================
+//===================================================================================================================================
+//===================================================================================================================================
+//===================================================================================================================================
+//===================================================================================================================================
 //
 // Seasonal Weapons
 // double pattern: 1st: 2/4 roll. 2nd: 2/4 roll enhanced.
