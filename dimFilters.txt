@@ -30,7 +30,7 @@
 )
 
 /* c-tier */ is:weapon (
-(is:autorifle (exactperk:"rapid-fire" or exactperk:"precision frame" or exactperk:"balanced heat weapon")) or
+(is:autorifle (exactperk:"Rapid-Fire Frame" or exactperk:"precision frame" or exactperk:"balanced heat weapon")) or
 (is:bow exactperk:"lightweight frame") or
 (is:fusionrifle exactperk:"high-impact frame") or 
 (is:grenadelauncher exactperk:"double fire") or 
