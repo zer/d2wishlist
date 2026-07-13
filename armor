@@ -1,0 +1,162 @@
+/* s-tier set PvE */ is:armor (
+exactperk:"tm custom" or
+exactperk:"exodus down" or 
+exactperk:"promised" or 
+exactperk:"atheon's memory" or 
+exactperk:coda
+)
+/* a-tier set PvE */ is:armor (
+exactperk:"Smoke Jumper set" or
+exactperk:"Legacy's Oath" or
+exactperk:"Crystocrene" or
+exactperk:"Nezarec's Nightmare" or
+exactperk:"Pantheos Resplendent" or
+exactperk:"Oryx's Memory" or
+exactperk:"Deep Explorer" or
+exactperk:"AION Adapter" or
+exactperk:"Great Hunt" or
+exactperk:"Techeun's Regalia" or
+exactperk:"Sage Protector"
+)
+/* b-tier set PvE */ is:armor (
+exactperk:"iron panoply set" or
+exactperk:"iron battalion set" or
+exactperk:"Great Hunt" or 
+exactperk:"Reverie Dawn" or
+exactperk:"Swordmaster" or
+exactperk:"TM Custom" or 
+exactperk:"Yearning Echo" or 
+exactperk:"Ferropotent" or
+exactperk:"Techsec" or
+exactperk:"Twofold Crown" or
+exactperk:"Promised" or
+exactperk:"Last Discipline" or
+exactperk:"Thunderhead" or
+exactperk:"Disaster Corps" or
+exactperk:"Bushido"
+)
+
+/* s-tier + a-tier + b-tier set PvE */ is:armor (
+  exactperk:"tm custom" or
+  exactperk:"exodus down" or
+  exactperk:"promised" or
+  exactperk:"atheon's memory" or
+  exactperk:coda or
+
+  exactperk:"Smoke Jumper set" or
+  exactperk:"Legacy's Oath" or
+  exactperk:"Crystocrene" or
+  exactperk:"Nezarec's Nightmare" or
+  exactperk:"Pantheos Resplendent" or
+  exactperk:"Oryx's Memory" or
+  exactperk:"Deep Explorer" or
+  exactperk:"AION Adapter" or
+  exactperk:"Great Hunt" or
+  exactperk:"Techeun's Regalia" or
+  exactperk:"Sage Protector" or
+
+  exactperk:"iron panoply set" or
+  exactperk:"iron battalion set" or
+  exactperk:"Reverie Dawn" or
+  exactperk:"Swordmaster" or
+  exactperk:"Yearning Echo" or
+  exactperk:"Ferropotent" or
+  exactperk:"Techsec" or
+  exactperk:"Twofold Crown" or
+  exactperk:"Last Discipline" or
+  exactperk:"Thunderhead" or
+  exactperk:"Disaster Corps" or
+  exactperk:"Bushido"
+)
+
+
+
+
+
+
+PvE Armour sets to keep
+- Despairing Souls 2p - for Titan/Hunter Melee builds, not Warlock
+- Aion Adapter 2p
+- Iron Bichromate 2p
+- Bushido 2p
+- Techsec 4p
+- Prodigious Allegiance 2p
+- Collective Psyche 4p
+
+PvP (Hunter only for now)
+- Iron Bichromate 4p (also good for PvE)
+- Twofold Crown 2p/4p
+- Bushido 2p
+
+
+
+tertiarystat:weapons
+(exactperk:gunner or exactperk:paragon)
+ is:helmet is:gauntlets is:chest is:leg is:classitem
+
+/* 0001 good armour sets */ -tag:junk -tag:infuse (exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"twofold crown" or exactperk:"wild anthem" or exactperk:"sage protector")
+
+/* 0002 bad armour sets */ -tag:junk -tag:infuse is:armor -is:exotic -(exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"shrewd survivor" or exactperk:"twofold crown" or exactperk:"wild anthem" or exactperk:"sage protector")
+
+/* 0010 paragon/gunner armour split for PvE */ 
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"sage protector")
+(
+	(exactperk:paragon 
+		and (is:helmet or is:gauntlets or is:chest)
+		and (tertiarystat:grenade or tertiarystat:class or tertiarystat:weapons)
+	)
+	or
+	(exactperk:gunner 
+		and (is:chest or is:leg or is:classitem)
+		and (tertiarystat:melee or tertiarystat:super or tertiarystat:class)
+	)
+)
+
+/* 0020 bulwark/brawler armour sets for PvP */ 
+-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"iron panoply set" or exactperk:"twofold crown" or exactperk:bushido or exactperk:swordmaster or exactperk:"shrewd survivor" or exactperk:"wild anthem")
+(
+	(exactperk:bulwark 
+		and (is:helmet or is:gauntlets or is:chest)
+		and (tertiarystat:melee or tertiarystat:super or tertiarystat:grenade)
+	)
+	or
+	(exactperk:brawler 
+		and (is:chest or is:leg or is:classitem)
+		and (tertiarystat:grenade or tertiarystat:super or tertiarystat:class)
+	)
+)
+
+merge 0010 + 0020 for this one
+/* 0030 paragon/gunner armour split for PvE OR bulwark/brawler armour for PvP */
+(
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 
+	(exactperk:"despairing souls set" or exactperk:"aion adapter" or exactperk:"iron panoply set" or exactperk:bushido
+	or exactperk:techsec or exactperk:"disaster corps set" or exactperk:"collective psyche" or exactperk:"smoke jumper set" or exactperk:swordmaster or exactperk:ferropotent or exactperk:"sage protector")
+	(
+		(exactperk:paragon 
+			and (is:helmet or is:gauntlets or is:chest)
+			and (tertiarystat:grenade or tertiarystat:class or tertiarystat:weapons)
+		)
+		or
+		(exactperk:gunner 
+			and (is:chest or is:leg or is:classitem)
+			and (tertiarystat:melee or tertiarystat:super or tertiarystat:class)
+		)
+	)
+)
+or
+(
+	-is:exotic is:armor3.0 -tag:junk -tag:infuse tier:>=5 (exactperk:"iron panoply set" or exactperk:"twofold crown" or exactperk:bushido or exactperk:swordmaster or exactperk:"shrewd survivor" or exactperk:"wild anthem")
+	(
+		(exactperk:bulwark 
+			and (is:helmet or is:gauntlets or is:chest)
+			and (tertiarystat:melee or tertiarystat:super or tertiarystat:grenade)
+		)
+		or
+		(exactperk:brawler 
+			and (is:chest or is:leg or is:classitem)
+			and (tertiarystat:grenade or tertiarystat:super or tertiarystat:class)
+		)
+	)
+)
+
