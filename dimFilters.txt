@@ -18,7 +18,7 @@
 (is:bow (exactperk:"precision frame" or exactperk:"lightweight frame")) or 
 (is:glaive (exactperk:"adaptive glaive" or exactperk:"aggressive glaive" or exactperk:"rapid-fire frame")) or 
 (is:grenadelauncher exactperk:"wave frame") or 
-(is:handcannon is:primary (exactperk:"spread shot" or exactperk:"adaptive frame" or exactperk:"precision frame" or exactperk:"dynamic heat weapon")) or 
+(is:handcannon is:primary (exactperk:"spread shot" or exactperk:"precision frame" or exactperk:"dynamic heat weapon")) or 
 (is:handcannon is:special exactperk:"dynamic heat weapon") or 
 (is:linearfusionrifle exactperk:"precision frame") or 
 (is:machinegun (exactperk:"high-impact frame" or exactperk:"aggressive frame" or exactperk:"adaptive frame" or exactperk:"balanced heat weapon")) or 
