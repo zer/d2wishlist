@@ -73,6 +73,82 @@
 armour stuff
 ================
 
+/* s-tier set PvE */ is:armor (
+exactperk:"tm custom" or
+exactperk:"exodus down" or 
+exactperk:"promised" or 
+exactperk:"atheon's memory" or 
+exactperk:coda
+)
+/* a-tier set PvE */ is:armor (
+exactperk:"Smoke Jumper set" or
+exactperk:"Legacy's Oath" or
+exactperk:"Crystocrene" or
+exactperk:"Nezarec's Nightmare" or
+exactperk:"Pantheos Resplendent" or
+exactperk:"Oryx's Memory" or
+exactperk:"Deep Explorer" or
+exactperk:"AION Adapter" or
+exactperk:"Great Hunt" or
+exactperk:"Techeun's Regalia" or
+exactperk:"Sage Protector"
+)
+/* b-tier set PvE */ is:armor (
+exactperk:"iron panoply set" or
+exactperk:"iron battalion set" or
+exactperk:"Great Hunt" or 
+exactperk:"Reverie Dawn" or
+exactperk:"Swordmaster" or
+exactperk:"TM Custom" or 
+exactperk:"Yearning Echo" or 
+exactperk:"Ferropotent" or
+exactperk:"Techsec" or
+exactperk:"Twofold Crown" or
+exactperk:"Promised" or
+exactperk:"Last Discipline" or
+exactperk:"Thunderhead" or
+exactperk:"Disaster Corps" or
+exactperk:"Bushido"
+)
+
+/* s-tier + a-tier + b-tier set PvE */ is:armor (
+  exactperk:"tm custom" or
+  exactperk:"exodus down" or
+  exactperk:"promised" or
+  exactperk:"atheon's memory" or
+  exactperk:coda or
+
+  exactperk:"Smoke Jumper set" or
+  exactperk:"Legacy's Oath" or
+  exactperk:"Crystocrene" or
+  exactperk:"Nezarec's Nightmare" or
+  exactperk:"Pantheos Resplendent" or
+  exactperk:"Oryx's Memory" or
+  exactperk:"Deep Explorer" or
+  exactperk:"AION Adapter" or
+  exactperk:"Great Hunt" or
+  exactperk:"Techeun's Regalia" or
+  exactperk:"Sage Protector" or
+
+  exactperk:"iron panoply set" or
+  exactperk:"iron battalion set" or
+  exactperk:"Reverie Dawn" or
+  exactperk:"Swordmaster" or
+  exactperk:"Yearning Echo" or
+  exactperk:"Ferropotent" or
+  exactperk:"Techsec" or
+  exactperk:"Twofold Crown" or
+  exactperk:"Last Discipline" or
+  exactperk:"Thunderhead" or
+  exactperk:"Disaster Corps" or
+  exactperk:"Bushido"
+)
+
+
+
+
+
+
 PvE Armour sets to keep
 - Despairing Souls 2p - for Titan/Hunter Melee builds, not Warlock
 - Aion Adapter 2p
