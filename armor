@@ -33,46 +33,70 @@ exactperk:"Promised" or
 exactperk:"Last Discipline" or
 exactperk:"Thunderhead" or
 exactperk:"Disaster Corps" or
-exactperk:"Bushido"
+exactperk:"Bushido" or
 )
 
-/* s-tier + a-tier + b-tier set PvE */ is:armor (
-  exactperk:"tm custom" or
-  exactperk:"exodus down" or
-  exactperk:"promised" or
-  exactperk:"atheon's memory" or
-  exactperk:coda or
+/* niche fun sets for PvE */ is:armor (
+exactperk:"seventh seraph" or
+exactperk:"luminopotent" or
+exactperk:"apostate's blade"
+)
 
-  exactperk:"Smoke Jumper set" or
-  exactperk:"Legacy's Oath" or
-  exactperk:"Crystocrene" or
-  exactperk:"Nezarec's Nightmare" or
-  exactperk:"Pantheos Resplendent" or
-  exactperk:"Oryx's Memory" or
-  exactperk:"Deep Explorer" or
-  exactperk:"AION Adapter" or
-  exactperk:"Great Hunt" or
-  exactperk:"Techeun's Regalia" or
-  exactperk:"Sage Protector" or
+/* pvp armor sets */ is:armor (
+exactperk:"per audacia" or
+exactperk:"iron panoply set" or
+exactperk:"shrewd survivor" or
+exactperk:"disaster corps set"
+)
 
-  exactperk:"iron panoply set" or
-  exactperk:"iron battalion set" or
-  exactperk:"Reverie Dawn" or
-  exactperk:"Swordmaster" or
-  exactperk:"Yearning Echo" or
-  exactperk:"Ferropotent" or
-  exactperk:"Techsec" or
-  exactperk:"Twofold Crown" or
-  exactperk:"Last Discipline" or
-  exactperk:"Thunderhead" or
-  exactperk:"Disaster Corps" or
-  exactperk:"Bushido"
+/* s-tier + a-tier + b-tier set PvE or pvp sets */ is:armor (
+	exactperk:"tm custom" or
+	exactperk:"exodus down" or
+	exactperk:"promised" or
+	exactperk:"atheon's memory" or
+	exactperk:coda or
+	
+	exactperk:"Smoke Jumper set" or
+	exactperk:"Legacy's Oath" or
+	exactperk:"Crystocrene" or
+	exactperk:"Nezarec's Nightmare" or
+	exactperk:"Pantheos Resplendent" or
+	exactperk:"Oryx's Memory" or
+	exactperk:"Deep Explorer" or
+	exactperk:"AION Adapter" or
+	exactperk:"Great Hunt" or
+	exactperk:"Techeun's Regalia" or
+	exactperk:"Sage Protector" or
+	
+	exactperk:"iron panoply set" or
+	exactperk:"iron battalion set" or
+	exactperk:"Reverie Dawn" or
+	exactperk:"Swordmaster" or
+	exactperk:"Yearning Echo" or
+	exactperk:"Ferropotent" or
+	exactperk:"Techsec" or
+	exactperk:"Twofold Crown" or
+	exactperk:"Last Discipline" or
+	exactperk:"Thunderhead" or
+	exactperk:"Disaster Corps" or
+	exactperk:"Bushido" or
+	
+	exactperk:"seventh seraph" or
+	exactperk:"luminopotent" or
+	exactperk:"apostate's blade" or
+	
+	exactperk:"per audacia" or
+	exactperk:"iron panoply set" or
+	exactperk:"shrewd survivor" or
+	exactperk:"disaster corps set"
 )
 
 
 
 
-
+========= 
+OLD
+=========
 
 PvE Armour sets to keep
 - Despairing Souls 2p - for Titan/Hunter Melee builds, not Warlock
