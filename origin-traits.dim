@@ -9,6 +9,25 @@ exactperk:"Dealer's Choice" or
 exactperk:"Souldrinker" or
 exactperk:"Tenacity" or
 exactperk:"Veteran's Wisdom" or
-exactperk:"nanotech tracer missiles" or
+exactperk:"Nano-Munitions" or
 exactperk:"Contending Cascade" or
 exactperk:"Carrion Munitions")
+
+/* a-tier origin */
+(exactperk:"Dark Ether Reaper" or
+exactperk:"Cursed Thrall" or
+exactperk:"Cast No Shadows" or
+exactperk:"Nanotech Tracer Missiles" or
+exactperk:"Advanced Reflexes" or
+exactperk:"Bray Legacy" or
+exactperk:"Imperial Allegiance" or
+exactperk:"Ambush" or
+exactperk:"Skulking Wolf" or
+exactperk:"Problem Solver" or
+exactperk:"Psychohack" or
+exactperk:"Extrovert" or
+exactperk:"Elliptical Orbit" or
+exactperk:"Frame of Reference" or
+exactperk:"Fail-deadly" or
+exactperk:"Radiolaria Transposer" or
+exactperk:"Eyes Up")
