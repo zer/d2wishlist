@@ -16,7 +16,8 @@ exactperk:"Deep Explorer" or
 exactperk:"AION Adapter" or
 exactperk:"Great Hunt" or
 exactperk:"Techeun's Regalia" or
-exactperk:"Sage Protector"
+exactperk:"Sage Protector" or
+exactperk:"crota's memory"
 )
 /* b-tier set PvE */ is:armor (
 exactperk:"iron panoply set" or
@@ -54,7 +55,7 @@ exactperk:"disaster corps set"
 	exactperk:"exodus down" or
 	exactperk:"promised" or
 	exactperk:"atheon's memory" or
-	exactperk:coda or
+	exactperk:coda or  
 	
 	exactperk:"Smoke Jumper set" or
 	exactperk:"Legacy's Oath" or
@@ -67,6 +68,7 @@ exactperk:"disaster corps set"
 	exactperk:"Great Hunt" or
 	exactperk:"Techeun's Regalia" or
 	exactperk:"Sage Protector" or
+	exactperk:"crota's memory" or
 	
 	exactperk:"iron panoply set" or
 	exactperk:"iron battalion set" or
