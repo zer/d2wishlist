@@ -1,0 +1,95 @@
+/* s-tier origin */
+(exactperk:"Timelost Magazine" or
+exactperk:"Forge's Kin" or
+exactperk:"Accelerated Assault" or
+exactperk:"Subjugation" or
+exactperk:"Land Tank" or
+exactperk:"Heretical Behavior" or
+exactperk:"Dealer's Choice" or
+exactperk:"Souldrinker" or
+exactperk:"Tenacity" or
+exactperk:"Veteran's Wisdom" or
+exactperk:"Nano-Munitions" or
+exactperk:"Contending Cascade" or
+exactperk:"Carrion Munitions")
+
+/* a-tier origin */
+(exactperk:"Dark Ether Reaper" or
+exactperk:"Cursed Thrall" or
+exactperk:"Cast No Shadows" or
+exactperk:"Nanotech Tracer Missiles" or
+exactperk:"Advanced Reflexes" or
+exactperk:"Bray Legacy" or
+exactperk:"Imperial Allegiance" or
+exactperk:"Ambush" or
+exactperk:"Skulking Wolf" or
+exactperk:"Problem Solver" or
+exactperk:"Psychohack" or
+exactperk:"Extrovert" or
+exactperk:"Elliptical Orbit" or
+exactperk:"Frame of Reference" or
+exactperk:"Fail-deadly" or
+exactperk:"Radiolaria Transposer" or
+exactperk:"Eyes Up")
+
+/* b-tier origin */
+(exactperk:"Gravity Well" or
+exactperk:"Runneth Over" or
+exactperk:"Bray Inheritance" or
+exactperk:"Indomitability" or
+exactperk:"Stunning Recovery" or
+exactperk:"Exhaustive Research" or
+exactperk:"Tex Balanced Stock" or
+exactperk:"Dream Work" or
+exactperk:"Vanguard Determination" or
+exactperk:"Häkke Breach Armaments" or
+exactperk:"Photoinhibition" or
+exactperk:"Restoration Ritual" or
+exactperk:"Veist Stinger")
+
+/* c-tier origin */
+(exactperk:"Ignoble Deeds" or
+exactperk:"Bitterspite" or
+exactperk:"Field-Tested" or
+exactperk:"Willing Vessel" or
+exactperk:"Noble Deeds" or
+exactperk:"Head Rush" or
+exactperk:"Air-Cooled Core" or
+exactperk:"Vanguard's Vindication" or
+exactperk:"Alacrity" or
+exactperk:"Dawning Surprise" or
+exactperk:"Rasputin's Arsenal" or
+exactperk:"Wild Card" or
+exactperk:"Harmonic Resonance" or
+exactperk:"Nail, Meet Hammer" or
+exactperk:"Classy Contender")
+
+/* d-tier origin */
+(exactperk:"Unburied Treasure" or
+exactperk:"Nadir Focus" or
+exactperk:"Gun and Run" or
+exactperk:"Splicer Surge" or
+exactperk:"Omolon Fluid Dynamics" or
+exactperk:"Sundering" or
+exactperk:"Dragon's Vengeance" or
+exactperk:"Hot Swap" or
+exactperk:"Explosive Pact" or
+exactperk:"Paracausal Fluid" or
+exactperk:"Roar of Battle" or
+exactperk:"One Quiet Moment")
+
+/* e-tier origin */
+(exactperk:"To Excess" or
+exactperk:"Search Party" or
+exactperk:"Unsated Hunger" or
+exactperk:"SUROS Synergy" or
+exactperk:"Loss" or
+exactperk:"Featherweight" or
+exactperk:"Collective Purpose")
+
+/* f-tier origin */
+(exactperk:"Crossing Over" or
+exactperk:"Fleet Footed" or
+exactperk:"Disaster Plan" or
+exactperk:"Winterized Gear" or
+exactperk:"Right Hook")
